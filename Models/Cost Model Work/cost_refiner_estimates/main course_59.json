@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Spicy Prawn Biryani Recipe | Masala TV",
+    "ingredients": "Ingredients for Spicy Prawn Biryani Recipe: Prawns 300 gram Ginger garlic paste 1 tbsp Tomatoes (blended) 1 cup Onion (finely cut) 1 Salt to taste Red chili powder 1 tbsp Turmeric ¼ tsp Mix all spice 1 tbsp Green coriander, chilies as required Fry onion ½ cup Lemon juice 1 tbsp Biryani masala 1 tbsp Oil 1 cup Boiled rice ½ kg All spice as required Bay leaves 1 Yellow food color 1 pinch",
+    "instructions": "Heat oil and fry finely cut onion and whole all spice in it. Then add ginger garlic paste, salt, red chili. Add turmeric and blended tomatoes and saute gravy. Then add biryani masala and prawns and saute them. Now add lemon juice, green coriander and green chilies. Add salt, all spice and bay leaves in rice and boil them then strain it. Add half rice in a pan then add prawns masala and fry onion. Then add rice and yellow food color dissolve in water. Then let it simmer. When they get done then mix it and serve in sand pot.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes (blended) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          24.2,
+          30.0
+        ],
+        "cost_contrib_avg": 27.1
+      },
+      "onion": {
+        "ingredient_text": "fry onion ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          22.8,
+          28.8
+        ],
+        "cost_contrib_avg": 25.8
+      },
+      "lemon": {
+        "ingredient_text": "lemon juice 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 137.0,
+      "avg": 154.4,
+      "max": 171.8
+    }
+  }
+]

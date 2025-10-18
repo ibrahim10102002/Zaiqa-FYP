@@ -1,0 +1,63 @@
+[
+  {
+    "name": "BBQ Thai Garlic Beef Recipe | Masala TV",
+    "ingredients": "Ingredients for BBQ Thai Garlic Beef Recipe: Beef Slices ½ kg Garlic Paste 2 tbsp Green Chili Paste 2 tbsp Papaya Paste 2 tbsp Brown Sugar 1 tbsp Crushed Black Pepper 1 tsp Thai Red Curry Paste 1 tbsp Basil 1/3 tsp Oyster Sauce 1 tbsp Oil 1-2 tbsp Salt to taste",
+    "instructions": "Take a mixing bowl add ½ kg of beef slices add 2 tbsp of garlic paste, 2 tbsp of green chili paste Add 2 tbsp of papaya paste, 1 tbsp of brown sugar, 1 tsp of crushed black pepper, 1 tbsp of red Add Thai curry paste, 1/3 tsp of basil, 1 tbsp of oyster sauce, 1-2 tbsp of oil Add to taste salt mix it well and marinade the beef slices in it and leave it for 2-3 hours Then skewer the beef slices in a barbeque sticks then steam it and fry then smoke with the piece of coal. At last grilled it on a grill pan take it out in serving platter and serve it.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "beef": {
+        "ingredient_text": "beef",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          90.0,
+          110.0
+        ],
+        "cost_contrib_avg": 100.0
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 275.8,
+      "avg": 312.3,
+      "max": 348.8
+    }
+  }
+]

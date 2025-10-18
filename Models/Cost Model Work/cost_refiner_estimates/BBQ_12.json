@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Spiced Baked Fish Recipe | Tahir Chaudhary | Masala TV",
+    "ingredients": "Ingredients for Spiced Baked Fish Recipe: Fish Fillet 500gm Oil 2 tbsp Salt 1 tsp Crushed Black Pepper 1/4 tsp Tomatoes Chopped 3 Chopped Onion 1 Lemon Juice 2 tbsp Oregano 1tsp Thyme 1 tsp Chopped Garlic 1tsp Chopped Chili 1tsp",
+    "instructions": "Preheat the oven to 400 degrees F. Sprinkle all ingredients on top of the the fish with oil, salt,chili, garlic, pepper, tomatoes, onion, lemon juice, oregano, thyme. Place a fish fillet on top of foil sheet. Wrap the ends of the foil to form a spiral shape. Fold the sides of the foil over the fish and tomato mixture, covering completely; seal the packets closed. Place the foil packet on a heavy large baking sheet. Bake until the fish is just cooked through, about 15 minutes and transfer the foil packets to plates and serve.",
+    "prepTime": 30,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "tomatoes": {
+        "ingredient_text": "tomatoes",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          24.2,
+          30.0
+        ],
+        "cost_contrib_avg": 27.1
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 114.2,
+      "avg": 128.6,
+      "max": 143.0
+    }
+  }
+]

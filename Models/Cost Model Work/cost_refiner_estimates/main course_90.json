@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Mirch Gosht Recipe | Masala TV",
+    "ingredients": "Ingredients for Mirch Gosht Recipe: Mutton ½ kg Green chilies ½ kg Crushed black pepper 1 tsp Ginger Garlic 1 tsp Turmeric ½ tsp Lemons Raw onion paste 3 Salt to taste Curry leaves few Roasted cumin powder ½ tbsp Oil 1 cup",
+    "instructions": "Take 1 cup oil in the pan and add in raw onion paste and fry it till golden brown. Now add in ½ kg mutton, salt, 1 tsp ginger garlic paste and 1/2tsp turmeric. When the water of meat dries, simmer it and add in 1- 1 ½ cup hot water. Cook till the meat tenders. Separately fry green chilies in the frying pan. When the water of the meat dries, add in green chilies, 1 tsp crushed black pepper Add ½ tbsp roasted cumin powder, lemon juice and curry leaves. Simmer it and serve it with plain rice.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          800.0,
+          1000.0
+        ],
+        "cost_contrib_avg": 900.0
+      },
+      "black pepper": {
+        "ingredient_text": "crushed black pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "lemon": {
+        "ingredient_text": "lemons",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      },
+      "onion": {
+        "ingredient_text": "raw onion paste 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          57.0,
+          72.0
+        ],
+        "cost_contrib_avg": 64.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1165.4,
+      "avg": 1295.9,
+      "max": 1426.4
+    }
+  }
+]

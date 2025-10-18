@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Dhoni Chicken Recipe | Masala TV",
+    "ingredients": "Ingredients for Dhoni Chicken Recipe: Chicken 1 kg Yogurt 250 gm Turmeric 1 tbsp All spice powder 1 tbsp Ginger garlic paste 2 tbsp Vinegar ¼ cup Chili powder 2 tbsp Salt to taste Coal as required Aluminum foil as required",
+    "instructions": "Mark cuts on whole chicken, marinate with a little salt and ¼ cup vinegar. Cook in steamer for 20 minutes. Now remove from steamer and keep aside. Mix together 250 gm yogurt, 1 tbsp turmeric, 1 tbsp all spice powder Add 2 tbsp ginger garlic paste, 2 tbsp chili powder and salt to taste. Marinate the steamed chicken with yogurt marinade. Now wrap the marinated chicken into large aluminum foil. Put in burning coals for 8 â 10 minutes, meanwhile keep the sides changing. Unwrap the chicken and serve hot.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 197.0,
+      "avg": 239.0,
+      "max": 281.0
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Brown Bread Sandwich Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Brown Bread Sandwich Recipe: Bread Slice 4 Cottage Cheese ½ cup Boiled Egg 2 Tomato 1 Cucumber 1 Black Pepper ½ tsp Salt ½ tsp Lettuce Leaf 2 Olive Oil 1 tbsp",
+    "instructions": "In one bowl add ½ cup cottage cheese, 2 white egg yolk, 1 tomato, 1 cucumber, ½ tsp black pepper, ½ tsp salt along with 1 tbsp olive oil. Mix well. After this take one plate, place bread slices on it. Now cover the breads with lettuce leaves along with the ready batter. Cover the sandwich with another bread. In the end bake in sandwich maker or Tawa. Brown bread sandwich is ready to serve.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "3",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "egg 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      },
+      "cucumber": {
+        "ingredient_text": "cucumber 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 57.0,
+        "price_avg": 58.5,
+        "price_high": 60.0,
+        "cost_range": [
+          5.7,
+          6.0
+        ],
+        "cost_contrib_avg": 5.85
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 61.7,
+      "avg": 66.75,
+      "max": 71.8
+    }
+  }
+]

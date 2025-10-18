@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Rasmalai Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Rasmalai Recipe: Dry Milk 2 cups Fresh Milk 1 kg Khoya 250 g Eggs 2 Sugar 1 cup Cardamom Powder 1 tsp Baking Powder 1 tsp Flour 2 tbsp Oil 2 tbsp Kewra Essence few drops Almonds, Pistachios ½ cup",
+    "instructions": "Boil milk and sugar in a pan When sugar dissolves, add khoa and a few drops of kewra essence Cook well In a mixing bowl add dry milk, oil, flour, cardamom powder and baking powder Mix well Whip the egg and gradually add it to the dry milk mixture Knead into a dough Shape the dough into small balls and add them in boiled milk When the balls are ready, remove from the milk Garnish with almonds and serve",
+    "prepTime": 45,
+    "cookTime": 60,
+    "totalTime": 105,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "egg": {
+        "ingredient_text": "eggs 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 123.3,
+      "avg": 146.95,
+      "max": 170.6
+    }
+  }
+]

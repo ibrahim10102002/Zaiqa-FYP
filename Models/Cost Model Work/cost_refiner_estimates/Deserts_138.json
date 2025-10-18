@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Toffee Mocha Dessert Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Toffee Mocha Dessert Recipe: Pound cake (cut into slices) 1 Strong coffee 3/4 cup Caster sugar 1 cup Chocolate syrup 1/2 cup Cream cheese 8 oz Cream 2 cups Chocolate covered toffee (chopped) 2 bars",
+    "instructions": "Arrange cake slices on bottom of a rectangular dish, cutting cake slices if necessary to fit the bottom of the dish. Drizzle coffee over cake. Beat sugar, chocolate syrup, and cream cheese in a bowl until smooth. Add cream; beat on medium speed until light and fluffy. Spread over cake. Sprinkle with chocolate-covered toffee. Spread frosting over cake. Sprinkle with toffee candy. Cover and refrigerate for at least 1 hour, to set dessert and blend flavors. Toffee Mocha Dessert is ready to serve.",
+    "prepTime": 70,
+    "cookTime": 90,
+    "totalTime": 160,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "caster sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 17.8,
+      "avg": 17.8,
+      "max": 17.8
+    }
+  }
+]

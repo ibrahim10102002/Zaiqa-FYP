@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Bengali Rasgulla Recipe | Masala TV",
+    "ingredients": "Ingredients for Bengali Rasgulla Recipe: Milk 2kg Sugar ground 1cup Pistachio chopped ½ cup Cream ½ cup Vanilla essence few drops Cardamom powder as required Vinegar 2tbsp Coconut ground 1cup Powder milk 1cup Red color few drops Silver paper 2",
+    "instructions": "Cook milk when it boils add vinegar to curdle. Now sieve the water with cloth , then water gets dry Add ground sugar , cardamom , powder milk and mix. Then divide into 2 parts , in one part add red color. Now add cream and vanilla essence and mix. Now cut from the middle and add cream. Lastly add pistachio and coconut powder and serve with silver paper .",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "powder milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar ground 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "coconut": {
+        "ingredient_text": "coconut ground 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          45.0,
+          45.0
+        ],
+        "cost_contrib_avg": 45.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 112.3,
+      "avg": 131.05,
+      "max": 149.8
+    }
+  }
+]

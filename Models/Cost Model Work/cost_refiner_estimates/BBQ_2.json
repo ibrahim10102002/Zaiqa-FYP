@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Chicken Seekh kabab Biryani Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Chicken Seekh kabab Biryani Recipe: Chicken Mince ½ kg Seekh Kabab Masala 3 tbsp Bread slice 1 White cumin 1 tsp Roasted gramflour 1 tbsp Small cardamom 4 Poppy seeds 1 tbsp Salt to taste Egg 1 Onions 3 Red chili flakes 1 tbsp Ginger garlic paste 1 tbsp Crushed black pepper 1 tsp Lemons 3 Chopped green chilies 4 Oil 1 cup To boil rice: Rice 2 cups Mint leaves ½ bunch Small cardamom 4 Salt to taste All spice powder some Yellow food color a pinch Fresh milk ½ cup White vinegar 1 tbsp",
+    "instructions": "Mix chicken mince and 1 bread slice and 3 tbsp seekh kabab masala. Add in 1 tbsp poppy seeds, 1tbsp roasted gram flour, 4 cardamoms, 1 tsp white cumin. Grind it. Chop mince. Add in 1 egg and salt. Make kabab abd shallow fry them. Soak rice and boil them with ½ bunch mint leaves, 4 chopped green chilies, all spice powder, salt, cardamom and 1 tbsp white vinegar. Drain the water once the rice are boiled. Take one cup oil in the pan and add on 3 chopped onion and fry them. Take ½ of them out and keep it aside. In the remaining onion add in 1 tbsp ginger garlic paste, 1 tbsp red chili flakes and 1 tsp crushed black pepper and cook it. Add in kabab and cook them. Then take them out. Greas the paste and layer the rice. Layer up the Mixture prepared on it. Layer up the remaining rice and mix together milk and yellow food color and pour it over the pan. Simmer it. Dish out the rice and put the kababs on it.",
+    "prepTime": 70,
+    "cookTime": 90,
+    "totalTime": 160,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "onion": {
+        "ingredient_text": "onions 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          57.0,
+          72.0
+        ],
+        "cost_contrib_avg": 64.5
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "black pepper": {
+        "ingredient_text": "crushed black pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      },
+      "lemon": {
+        "ingredient_text": "lemons 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          96.0,
+          100.5
+        ],
+        "cost_contrib_avg": 98.25
+      },
+      "milk": {
+        "ingredient_text": "fresh milk ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          19.8,
+          34.8
+        ],
+        "cost_contrib_avg": 27.3
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 574.2,
+      "avg": 627.65,
+      "max": 681.1
+    }
+  }
+]

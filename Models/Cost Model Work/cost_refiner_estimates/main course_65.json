@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Batair Karahi Recipe | Masala TV",
+    "ingredients": "Ingredients for Batair Karahi Recipe: Quail 7-8 Clarified butter ½ cup Onion 1 cup Tikka masala 1 tbsp Garlic 1 tbsp Ginger (julienne) as required Tomatoes 1-1/2 grams Green chilies 4 Red chili 1 tbsp Black pepper 1 tsp Turmeric 1 tsp Salt to taste Karahi Masala 1 tbsp Butter 50 grams Coal 1 piece",
+    "instructions": "Yogurt, garlic and tikka masala mix in batair and steamed it . Then fry ghee and onion and garlic in clarified butter. Then red chili ,salt ,black pepper and turmeric add and roast . After this tomato an green chili grind and add . Then roast well and add batair . Now add karahi masala and butter ten leave on dum then do the coal smoke . Finally garnish with ginger and green chilies then serve .",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger (julienne) as required",
+        "qty": 1.0,
+        "unit": "as required",
+        "grams": 5,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          1.1,
+          2.5
+        ],
+        "cost_contrib_avg": 1.8
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          24.2,
+          30.0
+        ],
+        "cost_contrib_avg": 27.1
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 298.7,
+      "avg": 313.05,
+      "max": 327.4
+    }
+  }
+]

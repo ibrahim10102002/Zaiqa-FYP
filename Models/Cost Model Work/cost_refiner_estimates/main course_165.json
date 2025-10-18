@@ -1,0 +1,63 @@
+[
+  {
+    "name": "White Saucy Chicken Recipe | Masala TV",
+    "ingredients": "Ingredients for White Saucy Chicken Recipe: chicken breast strips 2 Ginger garlic 1 tsp Green chili grinded 1 tsp Black pepper ½ tsp Salt ½ tsp Vinegar 2 tbsp Soya sauce 1tbsp Corn flour 2 tbsp Flour 2 tbsp Egg 1 Ingredients for White Sauce Butter 2 ounce Flour 2 ounce Salt ½ tsp black pepper ½ tsp mustard ½ tsp Milk 1 cup Stock 1 cup Cheese slices 2 Boiled mixed Veggies to serve",
+    "instructions": "Marinate chicken strips with ginger garlic and green chili paste, salt, pepper . Add vinegar, soya sauce, corn flour and egg. Now mix well, deep fry all the pieces one by one till light golden, and remove. METHOD FOR WHITE SAUCE Heat butter, add flour, fry for min, add seasonings, stock milk. Now cook till thick, and add cheese slices. If required add little more water. TO SERVE Arrange chicken pieces in a serving platter, top with white sauce. Serve with boiled veggies garnished with greens.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "black pepper": {
+        "ingredient_text": "salt ½ tsp black pepper ½ tsp mustard ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          5.38,
+          5.38
+        ],
+        "cost_contrib_avg": 5.38
+      },
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "egg": {
+        "ingredient_text": "veggies to serve",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 49.89,
+      "avg": 58.58,
+      "max": 67.28
+    }
+  }
+]

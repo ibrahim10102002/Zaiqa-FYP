@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Greek Bread Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Greek Bread Recipe: Plain Flour 2 cup Yeast 1 tsp Egg 2 pc Icing Sugar 1 cup Almonds ½ cup Black Cumin seeds ½ tsp Butter 2-3 tbsp Baking Powder 1 tsp Olive Oil 2 tsp Salt 1 pinch",
+    "instructions": "In a pan, Luke warm water and add yeast. Mix it well. When yeast is done then add it in mixing bowl, add icing sugar, edd, plain flour, black cumin seeds, baking powder, olive oil & salt. Now knead dough & wrap it in plastic & leave it at hot atmosphere for 2 to 3 hours. Now knead it & make balls as required with the help of rolling pan roll it & cut thin sticks. Now mix 2 rolls together & make rest of others like it with the help of brush add egg & almonds. Grease baking tray with butter or oil & place bread on it. Then brush bread with olive oil. Bake it in oven for 15 to 20 minutes. Serve it.",
+    "prepTime": 20.0,
+    "cookTime": 45,
+    "totalTime": 65,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "egg 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 73.8,
+      "avg": 78.7,
+      "max": 83.6
+    }
+  }
+]

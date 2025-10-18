@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Chana Chaat Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Chana Chaat Recipe: Chickpeas 50 gm Dark brown peas 50 gm Chopped tomato 1 Potato (boiled & chopped) 1 Boiled green peas 50 gm Salt to taste Chopped onion 1 Red chilli powder 2 tbsp Green chilli 1 Chaat masala 1 tsp Fried garlic 2 cloves Mint chutney 1 tsp Sesame seeds 2 tsp Lemon juice Tamarind pulp 2 tsp Chopped spring onion 1",
+    "instructions": "In a large bowl, mix all the ingredients. Garnish and serve.",
+    "prepTime": 20.0,
+    "cookTime": 25,
+    "totalTime": 45,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "potato": {
+        "ingredient_text": "potato (boiled & chopped) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          4.4,
+          5.5
+        ],
+        "cost_contrib_avg": 4.95
+      },
+      "onion": {
+        "ingredient_text": "chopped spring onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "red chilli": {
+        "ingredient_text": "red chilli powder 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 577.0,
+        "price_avg": 577.0,
+        "price_high": 577.0,
+        "cost_range": [
+          115.4,
+          115.4
+        ],
+        "cost_contrib_avg": 115.4
+      },
+      "garlic": {
+        "ingredient_text": "fried garlic 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "lemon": {
+        "ingredient_text": "lemon juice",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 267.8,
+      "avg": 290.6,
+      "max": 313.4
+    }
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Chicken Sizzler with Garlic Rice Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Chicken Sizzler with Garlic Rice Recipe: Chicken (½ inch cubes) 300 gms Vinegar 1 tbsp Soy sauce 1 tbsp Salt ¼ tsp Black Pepper ¼ tsp Egg 1 Flour 2 tbsp Corn flour 3 tbsp Baking powder ½ tsp Salt ½ tsp Crushed red pepper ½ tsp Boiled rice ½ kg Salt 2 tbsp Mayonnaise 4 tbsp Sweet Sauce 3 tbsp Vinegar 2 tbsp Oil ¼ cup Garlic 1 tsp Soy sauce 2 tbsp Red Chili Garlic Sauce 2 tbsp Crushed Red Pepper 1 tsp Corn flour 1 tbsp Water 1 cup Green onions (sliced) 2 Capsicum (sliced) 1",
+    "instructions": "Marinate chicken with vinegar, soy sauce, salt and black pepper. Make batter with all the given ingredients. Dip chicken in batter and deep fry until golden. Keep aside. Heat oil; add garlic with all the sauces and seasonings. Cook for 2 mins and add water. When boiling, thicken sauce with corn flour. Add into it capsicum and spring onion sliced. To assemble, put rice in a sizzler topped with chicken and sauce. Serve garnish with rice and mayonnaise sauce.",
+    "prepTime": 30.0,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken (½ inch cubes) 3",
+        "qty": 0.5,
+        "unit": "inch",
+        "grams": 50.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          29.75,
+          42.5
+        ],
+        "cost_contrib_avg": 36.12
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "corn flour": {
+        "ingredient_text": "corn flour 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 87.0,
+        "price_avg": 87.0,
+        "price_high": 87.0,
+        "cost_range": [
+          8.7,
+          8.7
+        ],
+        "cost_contrib_avg": 8.7
+      },
+      "onion": {
+        "ingredient_text": "green onions (sliced) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum (sliced) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 330.05,
+      "avg": 381.87,
+      "max": 433.7
+    }
+  }
+]

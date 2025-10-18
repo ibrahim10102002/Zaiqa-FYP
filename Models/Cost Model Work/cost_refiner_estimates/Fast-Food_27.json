@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Fry Chili Chicken Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Fry Chili Chicken Recipe: Chicken 1 kg 16 pieces Chili sauce 2 tbsp Soya sauce 2 tbsp Vinegar 2 tbsp Crushed red pepper 1 tsp Salt 1 tsp Ginger garlic paste 1 tbsp Tomato paste 1 tbsp Suree sweet chili sauce 2 tbsp Flour 3 tbsp Corn flour 4 tbsp Egg 1",
+    "instructions": "Marinate chicken with all the ingredients for 2 hours, deep fry till light golden and crisp.",
+    "prepTime": 140.0,
+    "cookTime": 150,
+    "totalTime": 290,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "corn flour": {
+        "ingredient_text": "corn flour 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 87.0,
+        "price_avg": 87.0,
+        "price_high": 87.0,
+        "cost_range": [
+          34.8,
+          34.8
+        ],
+        "cost_contrib_avg": 34.8
+      },
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 220.8,
+      "avg": 257.0,
+      "max": 293.2
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "BUTTER MASHED POTATOES BALLS Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for BUTTER MASHED POTATOES BALLS Recipe: Boiled Potatoes ½ kg Butter 50g Milk 1 cup Cream ½ cup Finely Chopped Garlic 1 tsp Oregano ½ tsp Salt ½ tsp Black Pepper ½ tsp Parsley or Green Coriander 2 tbsp Cheddar Cheese ½ cup Eggs 2 Bread Crumbs as required Oil for frying",
+    "instructions": "First mash ½ kg boiled potatoes and then add 1 cup milk, 50g butter, ½ cup cream. Add 1 tsp finely chopped garlic, ½ tsp oregano, ½ tsp black pepper Add½ cup cheddar cheese and make balls of it. Now fry it in heated oil with 2 eggs and bread crumbs after dipping it.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "potato": {
+        "ingredient_text": "potatoes ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          22.0,
+          27.5
+        ],
+        "cost_contrib_avg": 24.75
+      },
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "egg": {
+        "ingredient_text": "eggs 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 137.9,
+      "avg": 160.6,
+      "max": 183.3
+    }
+  }
+]

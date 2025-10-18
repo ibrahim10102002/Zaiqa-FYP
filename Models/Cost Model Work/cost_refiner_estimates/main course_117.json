@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Matka Gosht Recipe | Masala TV",
+    "ingredients": "Ingredients for Matka Gosht Recipe: Mutton ½ kg Wheat flour 2 tbsp Yogurt 250 gram All spice powder 1 tsp Salt 1 tsp Turmeric ½ tsp Black cumin 1 tsp Coriander powder 2 tsp Red chili powder 2 tsp Ginger garlic 2 tsp Onion 1 Oil ½ cup Finely cut ginger 1 tbsp Finely cut green chilies 4 Green coriander 2 tbsp",
+    "instructions": "Fry onion in clay pot handi when it gets golden Then add mutton, ginger garlic paste, yogurt, salt, turmeric Add black cumin, coriander powder and red chili powder then sautÃ© well. Now add 2 glass warm water close its sides with wheat flour and cook for 1 hour. Now remove cover and add 2 tsp wheat flour dissolve in water Then add all spice powder and turn off the flame. Add finely cut ginger, green chilies and green coriander then serve.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          800.0,
+          1000.0
+        ],
+        "cost_contrib_avg": 900.0
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "ginger": {
+        "ingredient_text": "finely cut ginger 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 919.0,
+      "avg": 1052.0,
+      "max": 1185.0
+    }
+  }
+]

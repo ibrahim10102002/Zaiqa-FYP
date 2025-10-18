@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Fish Biryani Recipe | Masala TV",
+    "ingredients": "Ingredients for Fish Biryani Recipe: Boneless Fish 1 kg Rice ½ kg Garlic 6-8 cloves Turmeric powder ½ tsp Crushed Cumin Seeds 1 tsp Crushed coriander seeds 1 tbsp All Spice Powder 1 tbsp Red Chili Powder 2 tbsp Tomatoes 4-5 Cloves 6-8 Green cardamoms 6-8 Plums ½ cup Corn flour ½ cup Mint leaves 1 bunch Onion 2 Eggs 2 Clarified butter 1 cup Biryani essence few drops Yellow food color as required Salt to taste Ginger garlic paste 1 tbsp",
+    "instructions": "For Rice: Take a cooking pan add 1 cup of clarified butter add 6-8cloves,6-8 green cardamoms Add 1 tsp of cumin seeds fry for 2-3 minutes and roasted then add ½ kg of rice and water cook When its done take it out , strain it and keep aside. For Fish: Take a mixing bowl add 1` kg of fish ½ tsp of turmeric powder to taste salt Add 1 tbsp of ginger garlic paste, as required yellow food color , 2 egg whites, ½ cup corn flour marinade the fish pieces Take a fry pan and deep fry the fish on the both of the sides take it out in tissue paper till its absorb all the access oil. For gravy: take a cooking pan add clarified butter , heat it Add 6-8 cloves of garlic and fry 1-2 minutes Then add and 2 onion and fry until the onions are almond brown colored, ½ cup od water Add 4-5 tomatoes , 2 tbsp of red chili powder, 1 tbsp of all spice powder, 1 tsp of crushed coriander seeds Add ½ tsp of turmeric powder ½ cup of plums cook until the gravy is thick. For layering: Take a large cooking pan add some clarified butter and fry the garlic cloves and fried onions Add qorma and some rice and fried fish pieces and add rest if the clarified butter and 1 bunch of mint leaves. Steam the rice When the steam is done mix it well slowly slowly and take it out in a serving platter and serve it.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          96.8,
+          120.0
+        ],
+        "cost_contrib_avg": 108.4
+      },
+      "corn flour": {
+        "ingredient_text": "corn flour ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 87.0,
+        "price_avg": 87.0,
+        "price_high": 87.0,
+        "cost_range": [
+          10.44,
+          10.44
+        ],
+        "cost_contrib_avg": 10.44
+      },
+      "onion": {
+        "ingredient_text": "onion 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "egg": {
+        "ingredient_text": "eggs 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 474.24,
+      "avg": 553.49,
+      "max": 632.74
+    }
+  }
+]

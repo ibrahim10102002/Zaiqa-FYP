@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Fish Broast Burger Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Fish Broast Burger Recipe: Buns 3-4 Cheese Square (Slices) 3-4 Eggs 2-3 Chili Garlic Sauce as required Garlic Sauce as required Vegetables as required Oil for frying",
+    "instructions": "Take 3-4 buns toasted in a tawa pan. Now take as required fish broast , as required chili garlic sauce, 3-4 slices of cheese square , 2-3 eggs and as required vegetables make the filling on a burger and serve it.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "eggs 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 134.0,
+      "avg": 155.4,
+      "max": 176.8
+    }
+  }
+]

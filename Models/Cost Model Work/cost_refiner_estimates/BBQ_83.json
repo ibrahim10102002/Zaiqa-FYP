@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Pepper Sauce Chicken Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Pepper Sauce Chicken Recipe: Chicken breast sliced ½ kg Corn flour 6 tablespoons Diced onion 1 Peas and carrots 1 cup Oil for frying Hot steamed rice to serve For the Sauce: Oyster sauce 1/4 cup Soya sauce 1 tsp Black pepper 1 tsp White pepper 1/2 tsp",
+    "instructions": "Mix together sauce ingredients in a small bowl and set aside. Heat oil in wok. Place corn flour in a bowl and begin to dust chicken pieces, shaking off excess. Fry in hot oil in small batches until crispy and golden, about 2-3 minutes; drain. Heat 1 tbsp oil in wok and stir-fry onion about 1 minute Add peas and carrots and cook another 30 seconds. Add sauce mixture to wok along with chicken pieces and stir to coat everything evenly. Serve at once with stir fried rice.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken breast sliced ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "corn flour": {
+        "ingredient_text": "corn flour 6",
+        "qty": 6.0,
+        "unit": "unit",
+        "grams": 600.0,
+        "price_low": 87.0,
+        "price_avg": 87.0,
+        "price_high": 87.0,
+        "cost_range": [
+          52.2,
+          52.2
+        ],
+        "cost_contrib_avg": 52.2
+      },
+      "onion": {
+        "ingredient_text": "diced onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      },
+      "white pepper": {
+        "ingredient_text": "white pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 3074.0,
+        "price_avg": 3074.0,
+        "price_high": 3074.0,
+        "cost_range": [
+          307.4,
+          307.4
+        ],
+        "cost_contrib_avg": 307.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 951.0,
+      "avg": 1030.0,
+      "max": 1109.0
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Doodh Jam-e-Shirin Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Doodh Jam-e-Shirin Recipe: Milk 250 grams Chia Seeds ½ cup Sugar ½ cup Ice cubes as required Jam-e-Shirin as required Almonds, Pistachio as required",
+    "instructions": "Take ½ cup of Sugar add as required Jam-e-Shirin and water mix it well. Soak ½ cup of chia seedsin water. Now 2 cups of milk add as required jam-e-shirin, chia seeds and mix it well Add ice cubes and pour the mixture in the glasses and sprinkle almonds and pistachio to garnish it.",
+    "prepTime": 10,
+    "cookTime": 10,
+    "totalTime": 20,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          33.0,
+          58.0
+        ],
+        "cost_contrib_avg": 45.5
+      },
+      "sugar": {
+        "ingredient_text": "sugar ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          21.36,
+          21.36
+        ],
+        "cost_contrib_avg": 21.36
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 54.36,
+      "avg": 66.86,
+      "max": 79.36
+    }
+  }
+]

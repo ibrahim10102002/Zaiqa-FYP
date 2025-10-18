@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Doodh Dulari Recipe | Mehboob Khan | Masala TV",
+    "ingredients": "Ingredients for Doodh Dulari Recipe: Mix Fruit Cocktail 1 tin Mango 2 cups Grapes 1 cup Milk 2 tbsp Evaporated Milk 1 Tin Boiled Colored Vermicelli 1 packet Sugar as required Saffron a pinch Small Gulab Jamun 6 Small Rus Gulla 6 Corn Flour 1 tbsp",
+    "instructions": "Boil milk and cook it on low flame. When milk thickens, add evaporated Milk, sugar, saffron and Colored Vermicelli , cook for another 10 minutes. Now remove it from stove and wait for it to cool down. Add mix fruits, mangoes, grapes, gulab jamun and rus gulla to it, mix well and serve",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar as required",
+        "qty": 1.0,
+        "unit": "as required",
+        "grams": 5,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          0.89,
+          0.89
+        ],
+        "cost_contrib_avg": 0.89
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 50.39,
+      "avg": 69.14,
+      "max": 87.89
+    }
+  }
+]

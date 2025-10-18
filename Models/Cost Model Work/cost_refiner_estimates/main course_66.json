@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Qeema Macaroni Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Qeema Macaroni Recipe: Elbow Macaroni 1 packet Recipe Mix 1 sachet Beef mince 2 cups Garlic paste 1 tbsp Ginger paste 1 tbsp Onion (chopped) 1 large Tomato (skinned & chopped) 1 cup Ginger (sliced) 2 tbsp Green chilies (sliced) 3 Fresh coriander (chopped) 2 tbsp Water 3 cups Oil ½ cup",
+    "instructions": "In pan heat oil, add chopped onions and fry till golden brown. Add a ginger garlic paste and fry for a minute. Add minced beef and fry for 2 minutes. Add recipe mix sachet and fry for a minute. Add chopped tomatoes and 3 cups of water; cook on low heat for 15 minutes. Reduce the liquid, add sliced ginger, sliced green chilies and chopped coriander; mix and serve with elbow macaroni.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "macaroni": {
+        "ingredient_text": "macaroni 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 191.0,
+        "price_avg": 191.0,
+        "price_high": 191.0,
+        "cost_range": [
+          19.1,
+          19.1
+        ],
+        "cost_contrib_avg": 19.1
+      },
+      "beef": {
+        "ingredient_text": "beef mince 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          180.0,
+          220.0
+        ],
+        "cost_contrib_avg": 200.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger (sliced) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          44.0,
+          100.0
+        ],
+        "cost_contrib_avg": 72.0
+      },
+      "onion": {
+        "ingredient_text": "onion (chopped) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 342.2,
+      "avg": 414.95,
+      "max": 487.7
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Chashni Sawaiyan Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Chashni Sawaiyan Recipe: Vermicelli 1 packet Cinnamon 2-3 sticks Cloves 4-5 Green Cardamom 4-5 Kewra Essence Few drops Raisins 1 cup Cream 1 cup Sugar 500 grams Clarified Butter 1 cup Almonds for garnishing",
+    "instructions": "Crush the 1 packet of vermicelli and set a side. Then take a cooking pan add 1 cup of clarified butter and heat the clarified butter. Now add 4-5 cloves, 4-5 green cardamoms, 2-3 sticks of cinnamon when its twingling and fragrance comes up now Add crushed vermicelli and roasted it the vermicelli now Add 1-1/2 cup of water 1 cup of raisins stiring constantly when the water is dry. Take another cooking pot and add 500 grams of sugar and as required water to make a sugar syrup. In a sugar syrup add few drops of kewra essence Add the vermicelli mixture in the sugar syrup and mix it well dish out the serving platter At last garnish 1 cup of cream and as required almonds and serve it.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "rai": {
+        "ingredient_text": "raisins 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 805.0,
+        "price_avg": 805.0,
+        "price_high": 805.0,
+        "cost_range": [
+          80.5,
+          80.5
+        ],
+        "cost_contrib_avg": 80.5
+      },
+      "sugar": {
+        "ingredient_text": "sugar 5",
+        "qty": 5.0,
+        "unit": "unit",
+        "grams": 500.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          89.0,
+          89.0
+        ],
+        "cost_contrib_avg": 89.0
+      },
+      "hing": {
+        "ingredient_text": "almonds for garnishing",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 6200.0,
+        "price_avg": 6200.0,
+        "price_high": 6200.0,
+        "cost_range": [
+          620.0,
+          620.0
+        ],
+        "cost_contrib_avg": 620.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 789.5,
+      "avg": 789.5,
+      "max": 789.5
+    }
+  }
+]

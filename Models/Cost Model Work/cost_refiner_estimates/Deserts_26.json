@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Chicken Loaf Cake Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Chicken Loaf Cake Recipe: Boneless chicken ½ kg (or minced) Onion, thinly chopped 1 Ginger garlic, minced 1 tbsp Green chilli, chopped 3 Coriander leaves chopped 3 tbsp Mint leaves chopped 1 tbsp Tomato, chopped 1 Boiled mashed potato 1 Pepper Powder 1 tbsp Salt to taste Garam Masala Powder- ½ tsp Dried Fenugreek Leaves 1tsp Oil 3 tbsp Bread slices 3 large Egg 2",
+    "instructions": "Grind the chicken pieces in a blender to a smooth paste. Put it in a large mixing bowl. Add all other ingredients from 2 to in to it Powder the bread slices in a blender and add it in to the above chicken bowl. Mix well all the ingredients well until well on corporate. Add this mixture in to the greased baking loaf pan. Bake it in a pre-heated oven at 180 degree for about 45 minutes. Once it cools down; cut in to slicesand enjoy with French fries and tomato ketchup.",
+    "prepTime": 25,
+    "cookTime": 30,
+    "totalTime": 55,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/_aCgezOgD4I?list=PL_omWBKCy7Em0qkK0BZHE-DZRu3aHA8Ql",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "boneless chicken ½ kg (or minced)",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "onion": {
+        "ingredient_text": "onion",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "potato": {
+        "ingredient_text": "boiled mashed potato 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          4.4,
+          5.5
+        ],
+        "cost_contrib_avg": 4.95
+      },
+      "fenugreek": {
+        "ingredient_text": "fenugreek",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 44.0,
+        "price_avg": 45.5,
+        "price_high": 47.0,
+        "cost_range": [
+          4.4,
+          4.7
+        ],
+        "cost_contrib_avg": 4.55
+      },
+      "egg": {
+        "ingredient_text": "egg 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 479.8,
+      "avg": 572.65,
+      "max": 665.5
+    }
+  }
+]

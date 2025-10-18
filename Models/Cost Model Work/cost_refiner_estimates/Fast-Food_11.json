@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Chicken Chowmein Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Chicken Chowmein Recipe: Chicken Breast (thinly sliced) 1 Salt 1 tsp + ½ tsp White pepper half + half tsp Corn flour 1 tbsp Egg white 1 Oil 1 tsp Bean sprouts 1 cup Cabbage (sliced) 2 cup Carrots (sliced) 1 cup Capsicum (thinly sliced) 1 Onion (sliced) 1 Spring onion leaves ½ cup Egg noodles (boiled) 1 packet Soya sauce 2 tbsp Oyster sauce 2 tbsp Oil ¼ cup Garlic (chopped) 1 tbsp Stock ½ cup",
+    "instructions": "Boil noodles for 3 min. Marinate chicken breast with salt pepper, corn flour egg white and oil. Deep fry for 5 min and remove. Heat oil sautÃ© garlic, when light golden, add all the vegetables with fried chicken. Seasoning m boil noodles, stock cook for 5 min Mix all well. Remove when mixture dries.",
+    "prepTime": 30.0,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "white pepper": {
+        "ingredient_text": "white pepper half + half tsp",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 3074.0,
+        "price_avg": 3074.0,
+        "price_high": 3074.0,
+        "cost_range": [
+          307.4,
+          307.4
+        ],
+        "cost_contrib_avg": 307.4
+      },
+      "corn flour": {
+        "ingredient_text": "corn flour 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 87.0,
+        "price_avg": 87.0,
+        "price_high": 87.0,
+        "cost_range": [
+          8.7,
+          8.7
+        ],
+        "cost_contrib_avg": 8.7
+      },
+      "egg": {
+        "ingredient_text": "egg noodles (boiled) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum (thinly sliced) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      },
+      "onion": {
+        "ingredient_text": "spring onion leaves ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          22.8,
+          28.8
+        ],
+        "cost_contrib_avg": 25.8
+      },
+      "garlic": {
+        "ingredient_text": "garlic (chopped) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 594.9,
+      "avg": 639.55,
+      "max": 684.2
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Whole Wheat Bread Recipe | Masala TV",
+    "ingredients": "Ingredients for Whole Wheat Bread Recipe: Yeast 17gm Sugar 2tbsp Warm water as required Melted butter 4tbsp Egg 1 Milk 1-1/2 cup Salt 1-1/2 tsp Whole wheat flour 430gm White flour 400 gm Bread improver 15gm Wheat bran 100gm",
+    "instructions": "In a bowl add 2 cup of water , yeast , sugar set aside for rise. Now in a bowl add reaming ingredients with yeast mixture kneed well cover and set aside for rise twice. Now grease the bread tin roll the dough and place it in the tin. Now let it rise for 45 min, now bake it for 40 min on 200 deg over. Then remove it from tin and serve .",
+    "prepTime": 20.0,
+    "cookTime": 40,
+    "totalTime": 60,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          35.6,
+          35.6
+        ],
+        "cost_contrib_avg": 35.6
+      },
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 80.1,
+      "avg": 88.8,
+      "max": 97.5
+    }
+  }
+]

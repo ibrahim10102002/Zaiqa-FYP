@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Coconut Cream Custard Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Coconut Cream Custard Recipe: Condensed milk 1 tin (400 gram) Water 200 ml or 1 cup Coconut 1 cup Coconut milk half cup Eggs 4 Sugar half cup for caramel Coconut essence half tsp Cream for decoration",
+    "instructions": "Melt sugar in a sauce pan until golden. Spread in a mold. Leave to set. Combine eggs, condense milk, water, coconut milk, and coconut in a blender, beat for 1 min, and pour in a mold. Bake over water bath, for 45 mins cool over night, over turn. Serve decorated with whipped cream.",
+    "prepTime": 20,
+    "cookTime": 30,
+    "totalTime": 50,
+    "recipeYield": "6",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "coconut": {
+        "ingredient_text": "coconut essence half tsp",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          45.0,
+          45.0
+        ],
+        "cost_contrib_avg": 45.0
+      },
+      "milk": {
+        "ingredient_text": "condensed milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "egg": {
+        "ingredient_text": "eggs 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          112.0,
+          131.6
+        ],
+        "cost_contrib_avg": 121.8
+      },
+      "sugar": {
+        "ingredient_text": "sugar half cup for caramel",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 326.3,
+      "avg": 342.35,
+      "max": 358.4
+    }
+  }
+]

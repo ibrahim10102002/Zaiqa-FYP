@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Mutthi Kabab Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Mutthi Kabab Recipe: Mince half kg Onions (grated) 2 Ginger garlic paste 1 tsp Coriander leave 1 tsp Green chilies 2- 3 Turmeric half tsp Garam Masala 1 tsp Sambal Oelek 1 tbsp Crushed Red Pepper 1 tsp Oil 1 ½ tbsp Salt 1 tsp Oil for shallow frying",
+    "instructions": "Mix all the ingredients in a bowl knead well make sausage shape kababs, heat fry pan put the kababs on it cook on high heat for 5 min reduce heat and cook kabab for another 5 min serve with tamarind chatni and onion rings.",
+    "prepTime": 30,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "6-8",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "onions (grated) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 77.0,
+      "avg": 90.25,
+      "max": 103.5
+    }
+  }
+]

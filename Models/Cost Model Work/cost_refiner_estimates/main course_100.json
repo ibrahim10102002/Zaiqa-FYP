@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Methi Malai Chicken Recipe | Masala TV",
+    "ingredients": "Ingredients for Methi Malai Chicken Recipe: Chicken 1kg Fenugreek (chopped) 1 cup Onion (chopped) 1 cup Green Chilies (chopped) 2 Coriander Powder 1 tsp Chili Powder 1 tsp Turmeric 1/2 tsp Cream 2 tsp Ginger Garlic Paste 1tsp Yogurt as required",
+    "instructions": "Grind together onion and green chilies. Marinate chicken with ginger garlic paste, yogurt, spices, and keep for 30mins. Heat oil; add onion and green chili paste. Fry for 5mins, add chopped methi Add marinated chicken, cover and cook for 20mins. Lastly add malai leave it on dum. Serve with Nan.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "fenugreek": {
+        "ingredient_text": "fenugreek (chopped) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 44.0,
+        "price_avg": 45.5,
+        "price_high": 47.0,
+        "cost_range": [
+          4.4,
+          4.7
+        ],
+        "cost_contrib_avg": 4.55
+      },
+      "onion": {
+        "ingredient_text": "onion (chopped) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 203.4,
+      "avg": 253.8,
+      "max": 304.2
+    }
+  }
+]

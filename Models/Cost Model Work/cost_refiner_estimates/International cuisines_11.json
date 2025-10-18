@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Thai Chicken With Cashew Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Thai Chicken With Cashew Recipe: Boneless chicken half kg Cashew nut 15 Onion (chopped) 2 tbsp Basil leaves 10 Green chilies 3 small ones Coriander leaf 1 tbsp Oil ¼ cup Garlic crushed 1 tsp Chicken powder 1 tsp Fish sauce 1 tbsp Oyster sauce 1 tbsp Sriracha sauce 1 tbsp Thai green curry paste 1 tbsp",
+    "instructions": "Chopped together basil green chilies and coriander, finally heat oil add garlic, sautÃ© add onion fry till transparent. Add chicken cook for 5 min. Add green curry paste with all the remaining seasonings and sauces. Lastly add basil mixture and fry cashew nuts â remove.",
+    "prepTime": 30,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken powder 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "onion": {
+        "ingredient_text": "onion (chopped) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic crushed 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 255.5,
+      "avg": 307.0,
+      "max": 358.5
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Beijing Chicken Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Beijing Chicken Recipe: Boneless chicken (cubes) ½ kg Egg half Salt to taste Corn flour 1 ½ tbsp Oil 1 tbsp Oil for deep frying Garlic, grated 1 tbsp Ginger, grated 1 tbsp Green chilies slit 3 Soya sauce 4 tbsp Tomato ketchup 4 tbsp Vinegar 1 tbsp Brown sugar 1 tsp Carrot, diced and blanched 1 medium Cabbage, diced half Green peas, boiled ½ cup Spring onions, chopped 3 â 4 Roasted peanuts 2 tbsp",
+    "instructions": "Mix egg, chicken, salt and corn flour in a bowl and set aside to marinate. Heat oil and deep fry the chicken cubes till golden and crisp. Drain on absorbent paper. Heat one tablespoon oil in another pan, add garlic and ginger and sautÃ© till fragrant. Add green chilies, soya sauce, tomato ketchup, vinegar and brown sugar and sautÃ©. Add carrot, cabbage, green peas, spring onions and peanuts and toss to mix. Add the fried chicken cubes, salt and mix well. Serve hot",
+    "prepTime": 20,
+    "cookTime": 45,
+    "totalTime": 65,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "boneless chicken (cubes) ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "egg": {
+        "ingredient_text": "egg half",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "corn flour": {
+        "ingredient_text": "corn flour 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 87.0,
+        "price_avg": 87.0,
+        "price_high": 87.0,
+        "cost_range": [
+          8.7,
+          8.7
+        ],
+        "cost_contrib_avg": 8.7
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "sugar": {
+        "ingredient_text": "brown sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "onion": {
+        "ingredient_text": "spring onions",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 491.5,
+      "avg": 595.2,
+      "max": 698.9
+    }
+  }
+]

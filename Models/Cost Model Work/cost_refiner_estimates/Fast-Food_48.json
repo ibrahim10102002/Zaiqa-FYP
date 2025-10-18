@@ -1,0 +1,77 @@
+[
+  {
+    "name": "GRILLED FAJITA BURGER BY MEHBOOB KHAN Recipe | Mehboob Khan | Masala TV",
+    "ingredients": "Ingredients for GRILLED FAJITA BURGER BY MEHBOOB KHAN Recipe: For the Fajita Seasoning: 1 tbsp chili powder 1 tsp cumin 1 tsp paprika ½ tsp cayenne pepper ½ tsp garlic powder For the Burgers: ½ kg Ground Beef To taste Salt To taste Black pepper 1 Onion, sliced 1 Green Chili 1 Red Chili 1 tbsp oil 6 cheese slices Lettuce and tomato for serving 6 Toasted buns",
+    "instructions": "Whisk the fajita seasonings in a bowl together. Set aside. Mix 2 tablespoons of the fajita seasoning into the ground beef. Form the ground beef into 6 patties. Toss the onion and peppers in oil and sprinkle with salt. Arrange the veggies in a grill pan and place on the cooler side of the grill to cook, tossing occasionally until veggies are charred and softened, 7 to 10 minutes. Arrange the patties on the cool side of the grill with lid closed, cooking to desired temperature, flipping once halfway through for even cooking. Toast the buns. With a minute to go, arrange the cheese over the burgers and close the lid to allow the cheese to melt. Remove from grill and allow to rest. Arrange the buns with lettuce and tomato if desired. Top with a burger, fresh grilled onions and peppers. Top off with the buns and serve",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "garlic": {
+        "ingredient_text": "tsp paprika ½ tsp cayenne pepper ½ tsp garlic powder",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          0.98,
+          1.39
+        ],
+        "cost_contrib_avg": 1.18
+      },
+      "beef": {
+        "ingredient_text": "beef",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          90.0,
+          110.0
+        ],
+        "cost_contrib_avg": 100.0
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      },
+      "onion": {
+        "ingredient_text": "onion",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 325.38,
+      "avg": 338.08,
+      "max": 350.79
+    }
+  }
+]

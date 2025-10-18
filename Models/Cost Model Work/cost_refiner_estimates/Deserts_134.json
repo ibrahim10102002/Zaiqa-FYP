@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Halwa Recipe | Masala TV",
+    "ingredients": "Ingredients for Halwa Recipe: Semolina ½ cup Sugar 1cup Ghee 1cup Cardamom crushed 4 Water 2glass Pumpkin seeds 1tbsp Food color ½ tsp",
+    "instructions": "Heat ghee and roast semolina Now add water food color sugar ,cover &cook on low flame when ghee comes on the top Then add crushed cardamom , pumpkin seeds and turn off the flame .",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 17.8,
+      "avg": 17.8,
+      "max": 17.8
+    }
+  }
+]

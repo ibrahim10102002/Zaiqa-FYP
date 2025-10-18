@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Mango Kulfi Recipe | Masala TV",
+    "ingredients": "Ingredients for Mango Kulfi Recipe: Mango puree 2 cup Condensed milk 1 tin Evaporated milk 1 tin Cream 2 packets Bread 2 slices Yellow food color 1 pinch Mango essence 2 pinch Mango chunks for garnish Pistachios for garnish Sterling silver leaf for garnish",
+    "instructions": "Put mango puree, condensed milk, evaporated milk, bread slices Add yellow food color and mango essence in a blender and blend well. Now add cream and again blend it. Then put it in mould and keep in freezer for 6-8 hours. Now take out in dish and garnish with mango chunks Finely cut pistachios and sterling silver leaf.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "evaporated milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 33.0,
+      "avg": 45.5,
+      "max": 58.0
+    }
+  }
+]

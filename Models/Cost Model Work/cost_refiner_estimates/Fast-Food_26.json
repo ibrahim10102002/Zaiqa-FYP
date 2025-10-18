@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Qeema Spaghetti Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Qeema Spaghetti Recipe: Mince ½ kg Spaghetti (boiled) 1 packet Tomatoes 375 gms Green Chilies 10 Onions 2 Cumin Seeds 2tsp Salt 1 tsp Turmeric Powder 1tsp Coriander Powder 1 tsp Capsicums 2 Red Chili 1 tsp Ginger Garlic Paste 2 tbsp Oil ½ cup Coriander Leaves",
+    "instructions": "In a pan, heat oil add Ginger Garlic Paste and fry. Now add Mince and cook on high flame. Then add Onions, Tomatoes, Green Chilies, Cumin Seeds, Salt, Turmeric Powder, Coriander Powder, Capsicums, Red Chili cook on high flame and cover it. After this, add boiled Spaghetti and mix. When dries water, sprinkles Coriander Leaves and serve.",
+    "prepTime": 20.0,
+    "cookTime": 45,
+    "totalTime": 65,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "tomatoes": {
+        "ingredient_text": "tomatoes 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          72.6,
+          90.0
+        ],
+        "cost_contrib_avg": 81.3
+      },
+      "onion": {
+        "ingredient_text": "onions 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "capsicum": {
+        "ingredient_text": "capsicums 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          46.0,
+          48.0
+        ],
+        "cost_contrib_avg": 47.0
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 217.6,
+      "avg": 254.55,
+      "max": 291.5
+    }
+  }
+]

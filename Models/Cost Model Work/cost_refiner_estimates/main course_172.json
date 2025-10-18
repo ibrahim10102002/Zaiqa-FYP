@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Boneless Chicken Handi Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Boneless Chicken Handi Recipe: Chicken boneless 1 inch cubes ½ kg Salt 1 tsp Chili powder 1 tsp Allspice 1 tsp Turmeric ½ tsp Ginger garlic paste 1 tsp Chili garlic sauce 2 tbsp Fresh cream 3 tbsp Ginger julienne 2 tbsp Yogurt ½ cup Green chilies chopped 2 Coconut milk powder 2 tbsp Almonds grinded 2 tbsp Butter 2 ounce Turmeric ½ tsp Onion 1 large boiled in ½ cup water and blended",
+    "instructions": "Heat butter and oil add boiled onion paste, ginger garlic, fry for 5 minutes, add chicken cubes with all the seasonings cover Cook for 10 minutes, add yogurt, fresh cream, allspice, cover leave it on dum for another 10 minutes lastly add ginger julienne and green chilies, serve with Tandoori paratha.",
+    "prepTime": 20.0,
+    "cookTime": 20,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken boneless 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "garlic": {
+        "ingredient_text": "chili garlic sauce 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger julienne 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          44.0,
+          100.0
+        ],
+        "cost_contrib_avg": 72.0
+      },
+      "coconut": {
+        "ingredient_text": "coconut milk powder 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          90.0,
+          90.0
+        ],
+        "cost_contrib_avg": 90.0
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 389.0,
+      "avg": 469.75,
+      "max": 550.5
+    }
+  }
+]

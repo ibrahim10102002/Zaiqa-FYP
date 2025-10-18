@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Chuwaray ka Halwa Recipe | Masala TV",
+    "ingredients": "Ingredients for Chuwaray ka Halwa Recipe: Dried dates ½ kg Milk 1 kg Sugar 1cup Cardamom 4-5 Khoya 250 gram Clarified butter 1 cup",
+    "instructions": "First clean dried dates. Now cook milk and dried dates together. When dried dates get soft then mash it using spoon and mix well. Now heat clarified butter in a pan Then adds cardamom and mashed mix dried dates and cook well. Then add sugar when oil comes up then add khoya and mix fast with spoon. When it mixes well then turn off the flame.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 34.3,
+      "avg": 40.55,
+      "max": 46.8
+    }
+  }
+]

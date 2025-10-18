@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Dahi Ka Meetha Recipe | Masala TV",
+    "ingredients": "Ingredients for Dahi Ka Meetha Recipe: Yogurt 1 kg Milk ½ cup Sugar 250 gm Chopped Almonds 3 tbsp Chopped Pistachio 3 tbsp",
+    "instructions": "Put 1 kg yogurt in a cloth and hang it for ½ an hour. In a bowl, add yogurt, 250 gm sugar and beat it. Add in ½ cup Milk. Add in 3 tbsp chopped Almonds and 3 tbsp chopped Pistachio. Blend everything together. Keep it in the freezer. Serve chilled.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          19.8,
+          34.8
+        ],
+        "cost_contrib_avg": 27.3
+      },
+      "sugar": {
+        "ingredient_text": "sugar 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          35.6,
+          35.6
+        ],
+        "cost_contrib_avg": 35.6
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 55.4,
+      "avg": 62.9,
+      "max": 70.4
+    }
+  }
+]

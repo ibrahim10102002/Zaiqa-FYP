@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Baked Donuts Recipes | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Baked Donuts Recipes: For Donuts: All Purpose Flour 300 grams Eggs 4 Yeast 1to1-1/2 tbsp Baking Powder 2 tbsp Icing Sugar 1 cup Butter 200 grams For Syrup: Sugar as required Water as required For Topping : Chocolate Bar 250 grams",
+    "instructions": "For Doughnuts: Take a luke warm water add 1-1/2 tbsp of yeast and 1 tsp of icing sugar mix it well and leave it for 15 minutes. Now take a mixing bowl add 300 grams of all purpose flour , 200 grams of butter Add 2 tbsp of baking powder Add yeast mixture , 1 cup of icing sugar Add 1 egg and mix it well with milk or water to make a dough and leave it in a hot place for 2-3 hours. When the dough is raised take it out and roll the dough with the help of rolling pin and cut them into round circles with the help of doughnut cuter or a glass and the circle into the middle with the help of bottle cap. Now take an oven proof tray place all the doughnuts into the tray Now Place the tray into the preheated oven and bake it on 200 C When it nicely golden brown take it out and set aside. For Syrup: Take a cooking panm add as required water and as required sugar mix it well and cook until the sugar is dissolved and turns into syrup. Now sugar syrup is ready. Now pour the syrup into the doughnuts. For Topping: At last take a cooking pan and melt the 250 grams of chocolate bar and pout the melted chocolate into the doughnuts and serve it.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "eggs 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          112.0,
+          131.6
+        ],
+        "cost_contrib_avg": 121.8
+      },
+      "sugar": {
+        "ingredient_text": "sugar as required",
+        "qty": 1.0,
+        "unit": "as required",
+        "grams": 5,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          0.89,
+          0.89
+        ],
+        "cost_contrib_avg": 0.89
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 130.69,
+      "avg": 140.49,
+      "max": 150.29
+    }
+  }
+]

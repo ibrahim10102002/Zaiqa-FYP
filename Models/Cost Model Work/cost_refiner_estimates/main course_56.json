@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Chicken Boneless Handi Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Chicken Boneless Handi Recipe: Boneless Chicken (pieces) ½ kg Crushed Onions 2 Crushed All Spices 1 tsp Crushed Red Chilies 1 tbsp Ginger Garlic Paste 1 tbsp Salt to taste Roasted and Crushed White Cumin 1 tbsp Crushed Coriander 1 tbsp Finely Sliced Green Chilies 4 Finely Chopped Ginger 2 tbsp Lemons 2 Fresh Cream 1 packet Oil ½ cup",
+    "instructions": "In a pan add ½ kg boneless chicken pieces, 2 crushed onions, 1 tbsp ginger garlic paste, salt to taste Add 1 tbsp crushed red chilies, 1 tbsp roasted and crushed white cumin and 1 tbsp crushed green coriander and cook it. When chicken is done and water evaporates Then add ½ cup oil and cook it. Then add 4 finely chopped green chilies, 2 tbsp finely chopped ginger and 2 lemons (lemon juice) and cook more. Then add 1 packet fresh cream and put it on simmer for 5 minutes.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken (pieces) ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "onion": {
+        "ingredient_text": "onions 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "ginger": {
+        "ingredient_text": "ginger 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          44.0,
+          100.0
+        ],
+        "cost_contrib_avg": 72.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "lemon": {
+        "ingredient_text": "lemons 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 564.0,
+      "avg": 697.25,
+      "max": 830.5
+    }
+  }
+]

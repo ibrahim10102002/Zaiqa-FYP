@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Katakat Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Katakat Recipe: Mutton Chops 8 Mutton Kidney 6-7 Brain (Beef) 1 Onion (Finely chopped) 2 Lemons 2 Tomatoes (Finely chopped) 3 Green Chilies (Finely chopped) 6 Garlic (Whole) 1 Mint (Finely chopped) ½ bunch Coriander (Finely chopped) ½ bunch Oil ½ cup Dried Fenugreek Leaves 1 tsp Turmeric Powder 1 tsp Allspice Powder 1 tsp Red Chili Powder 1 tbsp Ginger Garlic Paste 1 tbsp Ginger (Finely chopped) 1 tbsp Yogurt 2 tbsp Salt As required",
+    "instructions": "In a pan boil the chops, garlic clove and water. Once itâs boiled and the meat has become tender, separate the meat from the bone. In a bowl, mix the kidneys and crushed whole garlic. After 15 minutes, wash the kidneys really well. Now boil the brain, clean it very well and chop it into small pieces. On a large flat-topped frying pan, add the yogurt, chops and kidney. Cover and let it cook for 5 minutes. Once the water from the chops dries, start breaking them up into little pieces. Taking half of the oil, mix the tomatoes, onion, ginger garlic paste Add red chili powder, turmeric powder well, and let it cook covered for another 5-10 minutes. Now add the dried fenugreek leaves, mint, allspice powder, green chilies, and remaining oil. Once again, break up the mixture with the help of your spatula. Add salt, coriander, lemon juice and mix. In the end, add the chopped brain, chopped ginger, cook for a little longer and serve with hot naan.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          160.0,
+          200.0
+        ],
+        "cost_contrib_avg": 180.0
+      },
+      "rai": {
+        "ingredient_text": "brain (beef) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 805.0,
+        "price_avg": 805.0,
+        "price_high": 805.0,
+        "cost_range": [
+          80.5,
+          80.5
+        ],
+        "cost_contrib_avg": 80.5
+      },
+      "onion": {
+        "ingredient_text": "onion (finely chopped) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "lemon": {
+        "ingredient_text": "lemons 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes (finely chopped) 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          72.6,
+          90.0
+        ],
+        "cost_contrib_avg": 81.3
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "fenugreek": {
+        "ingredient_text": "fenugreek",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 44.0,
+        "price_avg": 45.5,
+        "price_high": 47.0,
+        "cost_range": [
+          4.4,
+          4.7
+        ],
+        "cost_contrib_avg": 4.55
+      },
+      "ginger": {
+        "ingredient_text": "ginger (finely chopped) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 701.5,
+      "avg": 801.35,
+      "max": 901.2
+    }
+  }
+]

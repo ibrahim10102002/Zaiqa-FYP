@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Hyderabadi White Chicken Qorma Recipe | Masala TV",
+    "ingredients": "Ingredients for Hyderabadi White Chicken Qorma Recipe: Chicken 1kg Yogurt 1-1/2cup Ginger garlic paste 2tbsp Salt 2tsp White pepper 1-1/2tsp Nutmeg, mace (powder) 3/4tsp White sesame 2tbsp Coconut (powder) 2tbsp Onion (crushed) 2 Whole mix all spices 1tbsp Bay leaf 1 Clarified butter 3/4cup Almonds 15 Screw pine (essence) few drops Green cardamom 8 Almonds (peeled) 10-12",
+    "instructions": "Wash the chicken thoroughly and add yogurt on it. Now roast and crush white sesame, coconut powder and almonds. Then slightly fry whole mixed all spices, green cardamom and onions crushed. Now add onions, ginger garlic paste, yogurt and white pepper to roast the spices. Then add the marinated chicken and add it with 1 cup of water and cook till the chicken tenders a bit. Now add coconut powder, almonds and sesame powder. After that add screw pine essence and water to simmer it. Lastly dish it out and garnish it with peeled almonds.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "white pepper": {
+        "ingredient_text": "white pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 3074.0,
+        "price_avg": 3074.0,
+        "price_high": 3074.0,
+        "cost_range": [
+          307.4,
+          307.4
+        ],
+        "cost_contrib_avg": 307.4
+      },
+      "coconut": {
+        "ingredient_text": "coconut (powder) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          90.0,
+          90.0
+        ],
+        "cost_contrib_avg": 90.0
+      },
+      "onion": {
+        "ingredient_text": "onion (crushed) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 632.4,
+      "avg": 679.4,
+      "max": 726.4
+    }
+  }
+]

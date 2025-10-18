@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Chicken Tikka Sandwich Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Chicken Tikka Sandwich Recipe: Chicken boneless breast 3 cut into thin strips Ginger garlic paste 1 tsp Salt 1 tsp Chili powder 1 tsp Lemon juice 2 tbsp Yogurt 2 tbsp Allspice ½ tsp Croissants 3 BBQ sauce 3 tbsp Butter and mayonnaise as required Salad leaves 3 Cucumber slices 3",
+    "instructions": "Marinate chicken julienne with Ginger garlic paste 1 tsp, Salt 1 tsp, Chili powder 1 tsp, Lemon juice 2 tbsp, Yogurt 2 tbsp, Allspice ½ tsp marinate for 30 minutes, then pan fry in 1 tbsp oil for 10 minutes, give dum of coal, cut croissants into halves, slightly toast, apply it with butter and mayonnaise, spread 1 tbsp BBQ sauce into each croissants, put the prepared chicken top with salad leaves, cucumber slice, cover with croissants tops, serve immediately with fries.",
+    "prepTime": 20,
+    "cookTime": 25,
+    "totalTime": 45,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken boneless breast 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          178.5,
+          255.0
+        ],
+        "cost_contrib_avg": 216.75
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "lemon": {
+        "ingredient_text": "lemon juice 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      },
+      "cucumber": {
+        "ingredient_text": "cucumber slices 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 57.0,
+        "price_avg": 58.5,
+        "price_high": 60.0,
+        "cost_range": [
+          17.1,
+          18.0
+        ],
+        "cost_contrib_avg": 17.55
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 358.1,
+      "avg": 419.3,
+      "max": 480.5
+    }
+  }
+]

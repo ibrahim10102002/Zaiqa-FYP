@@ -1,0 +1,91 @@
+[
+  {
+    "name": "SPICY CHICKEN DELUXE BURGER BY SHIREEN ANWAR IN EVENING WITH SHIREEN Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for SPICY CHICKEN DELUXE BURGER BY SHIREEN ANWAR IN EVENING WITH SHIREEN Recipe: For Chicken Boneless chicken breast 2 made into 4 Egg beaten 1 Salt ½ tsp Garlic powder and black pepper half tsp each Chicken powder ½ tsp Vinegar 1 tbsp Chili powder 1 tsp For Dry Mixture Flour ½ cup Corn flour 2 tbsp Salt 1 tsp Paprika 1 tsp Black pepper ¼ tsp Garlic powder ½ tsp Other ingredients Burger bun 4 toasted Butter and mayo for spread Iceberg lettuce Cheese sliced",
+    "instructions": "Marinate chicken fillet with all the given ingredients, coat in seasoned flour mixture, deep fry in frying pan. TO ASSEMBLE Put mayo on bun spread with iceberg chicken fillet, cheese slice, iceberg, and cover with bun serve with fries.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/gtCpT2W2sC0?list=PL_omWBKCy7Em0qkK0BZHE-DZRu3aHA8Ql",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken powder ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          1.49,
+          2.12
+        ],
+        "cost_contrib_avg": 1.81
+      },
+      "egg": {
+        "ingredient_text": "egg beaten 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper ¼ tsp",
+        "qty": 0.25,
+        "unit": "tsp",
+        "grams": 1.25,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          2.69,
+          2.69
+        ],
+        "cost_contrib_avg": 2.69
+      },
+      "corn flour": {
+        "ingredient_text": "corn flour 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 87.0,
+        "price_avg": 87.0,
+        "price_high": 87.0,
+        "cost_range": [
+          17.4,
+          17.4
+        ],
+        "cost_contrib_avg": 17.4
+      },
+      "garlic": {
+        "ingredient_text": "garlic powder ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          0.98,
+          1.39
+        ],
+        "cost_contrib_avg": 1.18
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 503.95,
+      "avg": 557.93,
+      "max": 611.9
+    }
+  }
+]

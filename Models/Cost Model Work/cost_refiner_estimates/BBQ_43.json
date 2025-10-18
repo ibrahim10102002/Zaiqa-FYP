@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Fry Chicken Masala Recipe | Masala TV",
+    "ingredients": "Ingredients for Fry Chicken Masala Recipe: Chicken with bone 750 gram Butter milk 1 cup Mayonnaise 2 tbsp Ginger garlic paste 1 tbsp Coriander powder 1 tsp Cumin powder 1 tsp Crushed red chili 1 tbsp Tandoori masala 2 tbsp Blended tomatoes 2 tbsp Salt to taste Lemon juice 2 tbsp Butter ½ cup Oil 2 tbsp Fries for serving",
+    "instructions": "Except oil and butter add all ingredients in chicken and leave overnight. Now let it cook when it get tender Then add butter and oil and leave it on dum. Then take out in dish and serve with fries.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken with bone 7",
+        "qty": 7.0,
+        "unit": "unit",
+        "grams": 700.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          416.5,
+          595.0
+        ],
+        "cost_contrib_avg": 505.75
+      },
+      "milk": {
+        "ingredient_text": "butter milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "tomatoes": {
+        "ingredient_text": "blended tomatoes 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          48.4,
+          60.0
+        ],
+        "cost_contrib_avg": 54.2
+      },
+      "lemon": {
+        "ingredient_text": "lemon juice 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 643.9,
+      "avg": 767.7,
+      "max": 891.5
+    }
+  }
+]

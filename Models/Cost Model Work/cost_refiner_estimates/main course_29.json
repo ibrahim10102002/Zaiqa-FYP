@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Dhaga Kabab Recipe | Masala TV",
+    "ingredients": "Ingredients for Dhaga Kabab Recipe: Mutton Meat ½ kg Ginger Garlic Paste 1 tbsp Papaya Paste ½ cup Yogurt ½ cup Turmeric Powder 1 tsp Crushed Red Chili 1 tbsp All Spice Powder 1 tsp Crushed Black Pepper 1 tsp Oil 2 tbsp Salt to taste Coal 1 piece Thread as required",
+    "instructions": "Take ½ kg of mutton meat add 1 tbsp of ginger garlic paste, ½ cup of papaya paste Add ½ cup of yogurt, 1 tsp of turmeric powder, 1 tbsp of crushed red chili powder Add 1 tsp of all spice powder, 1 tsp of all spice powder, 1 tsp of crushed black pepper Add 2 tbsp of oil and add to taste salt mix it and marinade 3-4 hours. Now skewer in the barbeque sticks and roll it with thread then steam it or fry or bake it on an oven then smoke with a piece of coal and take it out in a serving platter. At last garnish with tomatoes and lettuce leaves and onion and serve it.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          160.0,
+          200.0
+        ],
+        "cost_contrib_avg": 180.0
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 221.0,
+      "avg": 263.25,
+      "max": 305.5
+    }
+  }
+]

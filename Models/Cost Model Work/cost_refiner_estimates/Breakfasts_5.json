@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Laachey Dar Parathey Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Laachey Dar Parathey Recipe: All Purpose Flour ½ kg Milk 1 cup Butter 2-3 tbsp Clarified Butter for fry Salt to taste",
+    "instructions": "Take a mixing bowl add ½ kg of all purpose of flour, add 2-3 tbsp of butter Add to taste salt mix it well with 1 cup of milk to make a soft dough Make small balls roll it long long and roll it with help of rolling pin. Now take a tawa pan add clarified butter fry the paratha âs and serve it hot. Now laachey dar paratha is ready.",
+    "prepTime": 15.0,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 16.5,
+      "avg": 22.75,
+      "max": 29.0
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Achari Sabzi Recipe | Masala TV",
+    "ingredients": "Ingredients for Achari Sabzi Recipe: Mix Vegetable 500 grams Potatoes 3-4 Tomatoes 2 Onion 1 Crushed red Chili Powder 1 tbsp Crushed Black Pepper 1 tsp Roasted Cumin Powder 1 tsp Roasted Coriander Powder 1 tsp Ginger Garlic Paste 2tbsp Turmeric Powder 1 tsp Fennel Seeds 1 tsp Black seeds 1/3 tsp Fenugreek Seeds 1/3 tsp Coriander ½ bunch Oil 4-5 tbsp Salt to taste",
+    "instructions": "Take a cooking pan add 4-5 tbsp of oil, heat the oil add 1 onion and fry. Then add 2 tbsp of ginger garlic paste roast it add 2 tomatoes mix it well. Add ½ kg of mix vegetables and cook add 1 tbsp crushed red chili powder. Add 1 tsp of crushed black pepper as per taste salt , 1 tsp of roasted cumin powder. Add 1 tsp of roasted coriander powder, 1 tsp of turmeric powder. Add 1/3 tsp of black seeds,1/3 tsp of fenugreek seeds and 1 tsp of fennel seeds mix it well and roast it. Add as required water cook till the masala is dry and oil comes up. At last take it out in a dish garnish with ½ bunch of chopped coriander and serve it.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "achar": {
+        "ingredient_text": "achari",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 350.0,
+        "price_avg": 350.0,
+        "price_high": 350.0,
+        "cost_range": [
+          35.0,
+          35.0
+        ],
+        "cost_contrib_avg": 35.0
+      },
+      "potato": {
+        "ingredient_text": "potatoes 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          13.2,
+          16.5
+        ],
+        "cost_contrib_avg": 14.85
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          48.4,
+          60.0
+        ],
+        "cost_contrib_avg": 54.2
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "fenugreek": {
+        "ingredient_text": "fenugreek",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 44.0,
+        "price_avg": 45.5,
+        "price_high": 47.0,
+        "cost_range": [
+          4.4,
+          4.7
+        ],
+        "cost_contrib_avg": 4.55
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 181.0,
+      "avg": 213.35,
+      "max": 245.7
+    }
+  }
+]

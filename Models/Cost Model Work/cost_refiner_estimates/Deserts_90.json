@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Bread Rabri Recipe | Masala TV",
+    "ingredients": "Ingredients for Bread Rabri Recipe: Milk 2 litters Full cream milk 1 cup Sugar 1 cup Kevra 1 tbsp Saffron ½ tsp Koya 1 cup Food colour 1 pinch Silver foil as required Almond 100 grams Pistachio 100 grams Bread 2 Cardamom powder ½ tsp",
+    "instructions": "In saffron and mill dip bread slice and cook on slow flame. When dry then add sugar. Then Koya, full cream milk, almond, pistachio, cardamom, food colour and Kevra add. Now dish out and garnish with silver foil.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "full cream milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 67.3,
+      "avg": 86.05,
+      "max": 104.8
+    }
+  }
+]

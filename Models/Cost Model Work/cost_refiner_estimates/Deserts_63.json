@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Chocolate Caramel Cake Recipe | Masala TV",
+    "ingredients": "Ingredients for Chocolate Caramel Cake Recipe: 250 g unsalted butter 250 g dark chocolate 150 ml coffee 250 g flour 1 tsp baking powder 250 g caster sugar 250 g light brown sugar 2 tablespoons cocoa powder 100 ml buttermilk 4 eggs For Salted Caramel: 200 g sugar 50 g butter 75 ml cream For Chocolate Ganache: 50 g dark chocolate 50 ml cream",
+    "instructions": "To make the salted caramel, place the sugar in a saucepan with 50ml of water Now gently heat over a low heat, swirling the pan but not stirring, until just melted. Turn up the heat a little and simmer gently, swirling regularly, until you have a clear, very dark golden caramel. Remove the pan from the heat, then carefully and quickly whisk in the cubed butter and cream. Keep whisking and beating until smooth, then beat in ½ teaspoon of sea salt. Let it cool. If making the caramel in advance, keep it chilled but bring back to room temperature before using. For the cake, melt chocolate with the butter, coffee and a pinch of fine salt. Mix the flour, sugars and cocoa until well combined. Beat the buttermilk into the melted chocolate mixture, then beat and mix in the eggs. Pour this mixture into the flour-sugar mixture and mix well. Spoon into the greased and lined cake tins and bake at 180 degrees Centigrade for around 1 hour 15 minutes Until cooked through and a skewer inserted in the centre comes out clean. Cool the cakes in the tins for 10 minutes, then turn onto a wire rack to cool completely. Meanwhile, make the ganache. Melt the chocolate with the cream, once smooth stop stirring and let set. Spoon ganache on one of the sponges and spread to the edge. Place the other cake on a board and drizzle with a few tablespoons of the salted caramel. Beat the remaining cooled ganache until light and fluffy. Spread over the salted caramel, top with the other sponge and finish with white chocolate shavings.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "g sugar 5",
+        "qty": 5.0,
+        "unit": "unit",
+        "grams": 500.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          89.0,
+          89.0
+        ],
+        "cost_contrib_avg": 89.0
+      },
+      "milk": {
+        "ingredient_text": "ml buttermilk 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          66.0,
+          116.0
+        ],
+        "cost_contrib_avg": 91.0
+      },
+      "egg": {
+        "ingredient_text": "eggs",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 254.2,
+      "avg": 281.65,
+      "max": 309.1
+    }
+  }
+]

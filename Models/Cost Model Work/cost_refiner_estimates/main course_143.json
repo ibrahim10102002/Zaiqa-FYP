@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Mandi Recipe | Masala TV",
+    "ingredients": "Ingredients for Mandi Recipe: Mutton 1 kg Rice 2-1/2 cup Grated Carrots 2 Olive Oil 4 tbsp Almonds ½ cup Chicken Stock 4 cups Salt to taste Mandi Spice: Green Cardamoms 4 Cloves 4 Black pepper 10 Mace a pinch Bay Leaves 2 Dried Ginger 1 tsp Pickled Lemons 4 pieces",
+    "instructions": "Take half of the spice mix and marinate mutton with pickled lemons, 2 tbsp oil, 1 cup water and salt. Wrap the marinated oven in foil and bake it for 40 minutes. Remove the foil and bake it till the gravy fries off. Place coal in between the mutton and drizzle some oil over it , cover and leave it Heat oil in a pan , add chicken stock and boil it Add remaining mandi spice, salt and rice . Cook it for 5 minutes Add carrots, capsicums and leave the rice to simmer. Remove rice in a platter, topped with mutton, garnish with almonds and serve",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          160.0,
+          200.0
+        ],
+        "cost_contrib_avg": 180.0
+      },
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      },
+      "ginger": {
+        "ingredient_text": "ginger 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "lemon": {
+        "ingredient_text": "lemons 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          128.0,
+          134.0
+        ],
+        "cost_contrib_avg": 131.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 584.9,
+      "avg": 634.65,
+      "max": 684.4
+    }
+  }
+]

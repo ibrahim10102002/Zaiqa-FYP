@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Achari Chana Pulao Recipe | Masala TV",
+    "ingredients": "Ingredients for Achari Chana Pulao Recipe: Rice ½ kg Chickpeas (boiled) 1-1/2 cup Ginger Garlic Paste 1 tbsp Salt to taste Turmeric ¼ tsp Red Chilli Powder 1 tsp Finely Chopped Onion 1 Whole Garam Masala 1 tbsp Fennel Seeds ½ tsp Mustard Seeds ½ tsp Mango Pickle as required Asafoetida 1 Oil ½ cup",
+    "instructions": "Heat oil add onion and fry. Now add hing, mustard seeds, fennel seeds, nigella seeds, ginger garlic paste and fry. Add salt, red chilli powder, turmeric, whole garam masala powder and fry. Then add boil chickpeas, water and cook until boil. After this, add rice and mango pickle. Let it simmer, when rice is done take it out and serve.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "achar": {
+        "ingredient_text": "achari",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 350.0,
+        "price_avg": 350.0,
+        "price_high": 350.0,
+        "cost_range": [
+          35.0,
+          35.0
+        ],
+        "cost_contrib_avg": 35.0
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 115.0,
+      "avg": 139.75,
+      "max": 164.5
+    }
+  }
+]

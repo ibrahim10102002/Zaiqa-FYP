@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Egg Paratha Recipe | Masala TV",
+    "ingredients": "Ingredients for Egg Paratha Recipe: Wheat flour 250 gram Boiled potato 250 gram Pomegranate seeds powder 1 tsp Chopped green chilies 1 tsp Salt to taste Red chili powder to taste Butter as required Oil for frying Eggs as required",
+    "instructions": "First knead flour and leave for 15 minutes. Now mix pomegranate seeds powder, green chilies Add salt and red chili powder in boiled potatoes then make small balls. Then make ball of kneaded dough and put potato mixture on it and close it. Now roll down and cook on iron griddle. Now beat egg coat paratha in it and shallow fry it now spread butter and serve.",
+    "prepTime": 5.0,
+    "cookTime": 10,
+    "totalTime": 15,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "eggs as required",
+        "qty": 1.0,
+        "unit": "as required",
+        "grams": 5,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          1.4,
+          1.65
+        ],
+        "cost_contrib_avg": 1.52
+      },
+      "potato": {
+        "ingredient_text": "boiled potato 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          8.8,
+          11.0
+        ],
+        "cost_contrib_avg": 9.9
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 38.2,
+      "avg": 41.87,
+      "max": 45.55
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Shreded Chicken with Noodles Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Shreded Chicken with Noodles Recipe: Noodles (boiled) 1 packet Boneless Chicken ½ kg Green Peas 1cup Carrots 1cup Tomato Paste 1cup Black Pepper 1tsp Cumin Seeds 1tsp Green Chili 3 Salt 1 tsp Oil 4 tbsp Onion1 Finely Chopped Ginger 1 tbsp",
+    "instructions": "In a pan, add chicken, water and boil. When chicken tender and fiber. Now in a pan,heat oil add onion and fry. Then add Ginger, Cumin Seeds, Green Chili, Tomato Paste, Salt and Black Pepper. When boil comes and vegetables tender add boiled Noodles and chicken. After this,remaining stock and let it simeer. Removes from the stove.",
+    "prepTime": 30.0,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "onion": {
+        "ingredient_text": "onion1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 398.0,
+      "avg": 491.0,
+      "max": 584.0
+    }
+  }
+]

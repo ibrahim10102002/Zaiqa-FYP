@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Khopra Kulfi Recipe | Masala TV",
+    "ingredients": "Ingredients for Khopra Kulfi Recipe: Milk 1 tin Condensed Milk 1 tin Coconut Milk 1 tin Coconut Essence 1 tsp Desiccated Coconut ½ cup Fresh Cream (whipped) 1 cup Khoya 1 cup",
+    "instructions": "Chill all the milks for 2 hour at least beat evaporated milk until double. Add in it chilled condense milk, coconut milk and khoya, beat well Add essence fold in coconut and whipped cream. Mix well add in kulfi molds, freeze until form serve chill.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "coconut": {
+        "ingredient_text": "coconut ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          54.0,
+          54.0
+        ],
+        "cost_contrib_avg": 54.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 193.5,
+      "avg": 212.25,
+      "max": 231.0
+    }
+  }
+]

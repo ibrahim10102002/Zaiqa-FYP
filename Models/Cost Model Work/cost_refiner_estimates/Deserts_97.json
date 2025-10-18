@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Seviyan Ki Mithai Recipe | Masala TV",
+    "ingredients": "Ingredients for Seviyan Ki Mithai Recipe: Vermicelli 1 packet Condensed milk ¼ cup Cardamom powder ¼ tsp Almonds 4 tbsp Walnuts 4 tbsp Pistachios 4 tbsp Roasted desiccated coconut 4 tbsp Oil 3 tbsp",
+    "instructions": "Heat oil and roast the vermicelli Then add cardamom powder and Vermicelli roast. When Vermicelli change the colour then add condensed milk and all nuts . After this grace the dish and pour the mixture and sprinkling the nuts and cut in to the pieces then serve .",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "condensed milk ¼ cup",
+        "qty": 0.25,
+        "unit": "cup",
+        "grams": 60.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          9.9,
+          17.4
+        ],
+        "cost_contrib_avg": 13.65
+      },
+      "coconut": {
+        "ingredient_text": "roasted desiccated coconut 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          180.0,
+          180.0
+        ],
+        "cost_contrib_avg": 180.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 189.9,
+      "avg": 193.65,
+      "max": 197.4
+    }
+  }
+]

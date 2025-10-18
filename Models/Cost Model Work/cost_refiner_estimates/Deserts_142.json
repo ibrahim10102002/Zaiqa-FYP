@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Mango Phirni Recipe | Masala TV",
+    "ingredients": "Ingredients for Mango Phirni Recipe: Milk 1 liter Rice ½ cup Condensed Milk ½ cup Mangoes (blended)1 cup Cardamom Powder 1/2 tsp Sugar 3 tbsp Rose Essence few drops Almonds,Pistachio 1 tbsp",
+    "instructions": "Cook milk till boiling add grinded rice paste, cook till rice tender Add sugar and condense milk, then thick remove cool add mango puree Now chill add nuts and serve chilled.",
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          19.8,
+          34.8
+        ],
+        "cost_contrib_avg": 27.3
+      },
+      "sugar": {
+        "ingredient_text": "sugar 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          53.4,
+          53.4
+        ],
+        "cost_contrib_avg": 53.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 89.7,
+      "avg": 103.45,
+      "max": 117.2
+    }
+  }
+]

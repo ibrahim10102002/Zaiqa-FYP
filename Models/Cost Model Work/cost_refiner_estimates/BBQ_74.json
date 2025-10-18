@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Chicken Haryali Fry Recipe | Masala TV",
+    "ingredients": "Ingredients for Chicken Haryali Fry Recipe: Chicken ½ Kg Lemon 2 Ginger Garlic Paste 2 Tbsp Green Chilies 6 Mint ¼ Bunches Fresh Coriander ¼ Bunch Egg 1 Corn Flour 3 Tbsp Plain Flour 2 Tbsp Sesame Seeds 2 Tbsp Crushed Red Chilies 1 Tbsp Black Pepper As required Salt To taste Oil for Frying",
+    "instructions": "Take chicken, lemon juice, garlic ginger paste, salt and mix it well Blend green chilies, mint, coriander, water in blender. Pour it in chicken. Add egg, sesame seed, corn flour, crushed red pepper, black pepper, salt and mix. And fry it in heated oil When chicken get golden brown take out Serve it with ketchup",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken ½",
+        "qty": 0.5,
+        "unit": "unit",
+        "grams": 50.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          29.75,
+          42.5
+        ],
+        "cost_contrib_avg": 36.12
+      },
+      "lemon": {
+        "ingredient_text": "lemon 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 242.25,
+      "avg": 287.57,
+      "max": 332.9
+    }
+  }
+]

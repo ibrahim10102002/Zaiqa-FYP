@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Maida Barfi Recipe | Masala TV",
+    "ingredients": "Ingredients for Maida Barfi Recipe: Flour ½ kg Sugar ground 1cup Cardamom ground ½ tsp Clarified butter 250gm Cashew nut 100gm Almonds pistachios 100gm Milk ½ cup Condensed milk 1tin Silver paper 2 Nutmeg pinch",
+    "instructions": "Heat clarified butter and roast flour and remove , in a frying pan. Add condensed milk , sugar , milk and cardamom cook well. Now mix in flour , add almonds , pistachios. Now place it in grease tray and sprinkle cashew , lastly cut and serve .",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar ground 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "milk": {
+        "ingredient_text": "condensed milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 54.1,
+      "avg": 67.85,
+      "max": 81.6
+    }
+  }
+]

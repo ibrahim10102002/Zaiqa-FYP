@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Nizami Biryani Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Nizami Biryani Recipe: Chicken (12 pieces) 1 kg Brown Onions 1 cup Whole Spices (mixed) 1 tbsp Ginger Garlic 2 tbsp Red Chili Powder 2 tsp Turmeric half tsp Yogurt 1 ½ cup Allspice 1 tsp Cream ½ cup Milk ½ cup Saffron ¼ tsp Salt 2 tsp Oil ¾ cup Tomatoes (chopped) 3 Coriander Leaves handful Mint Leaves 10- 15 Green Chilies (chopped) 6 Basmati Rice 750 grams Whole Spices 1 tbsp Black Cumin Seeds ½ tsp Salt 2 tbsp Brown Onions ½ cup",
+    "instructions": "Boil chicken in 1 cup of water and 1 tsp salt till tender. Heat oil adds whole spices brown onion, with ginger garlic paste. Chili powder and turmeric, cook for 5 min, Add boil chicken, then add yoghurt, fry till oil comes on top, add whole spices, malai, and saffron tomato mixture, milk, cook for 5 min and remove from fire. Wash and soak rice then boil with salt, black cumin, when water boils add rice when rice ¾ done drain it. Spread rice into greased pan sprinkle quarter cup brown onion then meat mixture, again quarter cup brown onion, then rice again brown onion, sprinkle kewra water keep it on dum for 20 min serve with katchumber.",
+    "prepTime": 45.0,
+    "cookTime": 60,
+    "totalTime": 105,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken (1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "onion": {
+        "ingredient_text": "onions ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          22.8,
+          28.8
+        ],
+        "cost_contrib_avg": 25.8
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "milk": {
+        "ingredient_text": "milk ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          19.8,
+          34.8
+        ],
+        "cost_contrib_avg": 27.3
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes (chopped) 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          72.6,
+          90.0
+        ],
+        "cost_contrib_avg": 81.3
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 293.7,
+      "avg": 358.65,
+      "max": 423.6
+    }
+  }
+]

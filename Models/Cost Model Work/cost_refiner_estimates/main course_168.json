@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Twister Wraps Recipe | Masala TV",
+    "ingredients": "Ingredients for Twister Wraps Recipe: Ingredients For Roti: Plain Flour 2 cup Salt ½ tsp Baking Powder ½ tsp Oil ¼ cup Lukewarm Water to knead Ingredients For Filling : Chicken Boneless 2 Salt 1 tsp Pepper 1 tsp Paprika 1 tsp Chili Garlic Sauce 1 tbsp Hot Sauce 1 tbsp Corn Flex (crushed)1 cup Fresh Bread Crumbs ¼ cup Cabbage (sliced) ½ cup Tomato (cubes) 2 â 3 tbsp Mayonnaise 3 tbsp Lettuce as required Ingredients For Batter: Plain Flour 2 tbsp Corn Flour 1 tbsp Self Raising Flour 1 tbsp Baking Powder ¼ tsp Salt1/4 tsp Black Pepper1/4 tsp Paprika ¼ tsp Chili Sauce 1 tbsp Hot Sauce 1 tbsp Cold Water for make batter",
+    "instructions": "Method for roti Knead the dough into a medium soft dough leave cover for half an hour Make into dinner plate size roti Cook on tawa on both sides. Cover and keep warm. Make batter with all the given ingredients Marinate chicken with all the ingredients for 30 min dip in batter Roll in corn flex and bread crumb mixture Deep fry till golden brown To Assemble: Put the roti on table put fried chicken cubes of tomatoes, salad leaf Add cabbage mayonnaise, 2 tbsp in each twister Fold like roll served warp in paper.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "rai": {
+        "ingredient_text": "raising",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 805.0,
+        "price_avg": 805.0,
+        "price_high": 805.0,
+        "cost_range": [
+          80.5,
+          80.5
+        ],
+        "cost_contrib_avg": 80.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 179.0,
+      "avg": 200.0,
+      "max": 221.0
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Walnut Halwa Recipe | Masala TV",
+    "ingredients": "Ingredients for Walnut Halwa Recipe: Walnut chopped 1cup Clarified butter 1cup Powder milk 1cup Sugar 1cup Cinnamon 2pieces Cardamom 3-5 Eggs 3 Evaporated milk 1tin Rose water 2tsp",
+    "instructions": "In a blender add sugar , eggs and evaporated milk blend and set aside. Now heat clarified butter add cardamom , powder milk and roast well. When it changer color add walnut. Now add blended ingredients and keep stir. When it gets thick add 2tsp rose water and serve.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "evaporated milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "egg": {
+        "ingredient_text": "eggs 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          84.0,
+          98.7
+        ],
+        "cost_contrib_avg": 91.35
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 134.8,
+      "avg": 154.65,
+      "max": 174.5
+    }
+  }
+]

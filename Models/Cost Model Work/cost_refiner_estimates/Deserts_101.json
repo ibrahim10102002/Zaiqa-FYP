@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Meethi Seviyan Recipe | Masala TV",
+    "ingredients": "Ingredients for Meethi Seviyan Recipe: 200 g Vermicelli 350 g Sugar 1-¾ cups Water 4 tbsp Clarified butter 10 â 12 Green cardamoms, ground 2 - 2½ cups Milk A pinch Saffron 1 â 2 tbsp Almonds, slivered 1 â 2 tbsp Pistachios, slivered 1 tbsp Rosewater A squeeze Lemon juice",
+    "instructions": "Place sugar into the water and bring to the boil. Remove from heat and keep aside. Melt the ghee over a low heat in a wok or wide saucepan. Add the vermicelli and the crushed cardamoms. Fry over a medium to high heat, stirring the vermicelli around so that they brown evenly. Once the vermicelli have turned a light golden brown, pour in the sugar syrup and continue to cook over a low heat for around 15 minutes. As the water evaporates, the vermicelli will stiffen a little and the ghee will separate. At this stage, add the milk. Bring to the boil then add the lemon juice. Continue to stir fry for a few minutes and then add the saffron, almonds, pistachio, and rosewater. Continue to fry for a minute or so. Serve hot or cold. Best served 20 minutes after cooking.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "milk": {
+        "ingredient_text": "milk",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "lemon": {
+        "ingredient_text": "lemon juice",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 66.3,
+      "avg": 73.3,
+      "max": 80.3
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Chicken steaks Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Chicken steaks Recipe: Chicken fillets (flattened) 1/2 kg Soya sauce 2 tbsp Crushed black pepper 1 tbsp Salt 1/2 tsp Sugar a pinch For the Sauce: Oil 1 tbsp Garlic (crushed) 2-3 cloves Freshly crushed black pepper 1/2 tsp Finely chopped onion 1 Water as required Salt 1/2 tsp Corn flour as required Dark soya sauce to taste Oyster sauce to taste Sugar to taste Other Ingredients: Potatoes 2 Stir fried rice to serve with",
+    "instructions": "Marinate the chicken breasts in soya sauce, black pepper, Add salt and a pinch of sugar. Cook on griddle pan for the marks - a minute on each side. Heat oil, sautÃ© crushed garlic and onions. Add black pepper, water, soya and oyster sauce. Add salt n sugar to taste. Thicken with corn flour. Blanch big chunks of potato in hot water till half done, brown them in oil Add the black pepper sauce on it. Serve with the potatoes on the sides and chicken in the middle and some stir fried rice.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken fillets (flattened) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "black pepper": {
+        "ingredient_text": "freshly crushed black pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      },
+      "sugar": {
+        "ingredient_text": "sugar to taste",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "garlic": {
+        "ingredient_text": "garlic (crushed) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "onion": {
+        "ingredient_text": "finely chopped onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "corn flour": {
+        "ingredient_text": "corn flour as required",
+        "qty": 1.0,
+        "unit": "as required",
+        "grams": 5,
+        "price_low": 87.0,
+        "price_avg": 87.0,
+        "price_high": 87.0,
+        "cost_range": [
+          0.43,
+          0.43
+        ],
+        "cost_contrib_avg": 0.43
+      },
+      "potato": {
+        "ingredient_text": "potatoes 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          8.8,
+          11.0
+        ],
+        "cost_contrib_avg": 9.9
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 691.63,
+      "avg": 737.23,
+      "max": 782.83
+    }
+  }
+]

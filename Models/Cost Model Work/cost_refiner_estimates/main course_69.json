@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Karahi Cholay Recipe | Masala TV",
+    "ingredients": "Ingredients for Karahi Cholay Recipe: Chana 200 gm soaked overnight with 1 tsp soda Tomato puree 1 cup Onion finely chopped 1 cup Ginger garlic 1 tbsp heaped Chili powder 2 tsp heaped Salt 1 ½ tsp All spice 1 tsp leveled Anaar dana 1 tsp grinded Oil ½ cup Green chilies 4 julienne Potato 1 cut into cubes and boiled Coriander leaves 3 tbsp",
+    "instructions": "Boil chana in the same water in which we soaked till very soft Heat oil in a karahi add onion slightly brown Add ginger garlic paste with tomato puree and all the spices, fry well Add chanas mashing a few to thicken gravy, add green chili juliennes Add coriander leaves and boiled potato, mix and serve with bhature.",
+    "prepTime": 15.0,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "onion finely chopped 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "potato": {
+        "ingredient_text": "potato 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          4.4,
+          5.5
+        ],
+        "cost_contrib_avg": 4.95
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 62.4,
+      "avg": 73.7,
+      "max": 85.0
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Chocolate kay Laddu Recipe | Masala TV",
+    "ingredients": "Ingredients for Chocolate kay Laddu Recipe: Chocolate Chips 1 cup Finely Chopped Almomds 100 gms Cardamoms Powder ½ tsp Khoya 500 gms Sugar Powder 1 cup Coco Powder ½ cup Ghee 2 tbsp Oil as required",
+    "instructions": "In a pan, add khoya, sugar powder and mix well. When sugar dissolve then mix well with the help of wooden spoon. Now add ghee and removes from the stove. Then add chocolate chips, finely chopped almonds, cardamoms powder, coco powder and mix well. After this, grease hands and make laddu. Chocolate kay Laddu is ready.",
+    "prepTime": 10,
+    "cookTime": 10,
+    "totalTime": 20,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 17.8,
+      "avg": 17.8,
+      "max": 17.8
+    }
+  }
+]

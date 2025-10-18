@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Chicken Tikka Drumsticks Recipe | Masala TV",
+    "ingredients": "Ingredients for Chicken Tikka Drumsticks Recipe: Chicken drumsticks 1 kg Garlic paste 1 tbsp Chicken tikka masala 3 tbsp Sambal oleak 1tbsp Sweet chili sauce 2tbsp Garlic powder 1 tsp Vinegar 4 tbsp Yogurt 2 tbsp Mozzarella cheese 1 cup Flour as required Chilled water as required Oil for deep frying",
+    "instructions": "Marinate drumsticks with tikka masala, garlic paste Add garlic powder, paprika, yogurt and vinegar Leave it for few hours. Steam the drumsticks for 10 mins, remove and cool. In your flour mix 1 tbsp tikka masala, coat each drumstick in flour, mix into chilled water Again coat into dry flour, and deep fry for 15 mins until golden. Remove in a platter, top with grated mozzarella cheese Now grill the drumsticks for 5 mins until cheese melts. Serve garnished with coriander leaves.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken tikka masala 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          178.5,
+          255.0
+        ],
+        "cost_contrib_avg": 216.75
+      },
+      "garlic": {
+        "ingredient_text": "garlic powder 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 375.5,
+      "avg": 455.75,
+      "max": 536.0
+    }
+  }
+]

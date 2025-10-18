@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Italian Stuffed Balls Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Italian Stuffed Balls Recipe: Flour 1 ½ cup Doug 1 tsp Butter 50 grams Salt ½ tsp Baking Soda ¼ tsp Egg 1 Oil 2 tbsp Milk for kneading as required Chicken boiled Mince 250 grams Finely chopped Capsicum 2 tbsp Finely chopped Onion 2 tbsp Cut Pieces of Olives 6 Chopped Tomato 1 Tomato Ketchup ½ cup Red Chili Powder ½ tsp Salt ½ tsp Oregano ½ tsp Cheddar Cheese ½ cup Oil for frying",
+    "instructions": "For making Dough, in a bowl add 1 ½ cup flour, 1 tsp doug, 50 grams butter, ½ tsp salt, ¼ tsp baking soda, 1 egg and milk as required. Knead together and leave it for half an hour. For filling, in a bowl add 250 grams boiled chicken mince along with 2 tbsp finely chopped capsicum, 2 tbsp finely chopped onion, 6 cut pieces of olives, 1 cut tomato, 1 tsp chopped red chili, ½ cup tomato ketchup, ½ tsp salt, ½ cup cheddar cheese, ½ tsp oregano. Mix well. Now with the help of rolling Pin roll the kneaded flour and cut with the help of biscuit cutter, After this in every piece pour filling of mince and shape into round balls. Brush with oil and set in tray. When it rise to double shape then heat oil, cook until light brown.",
+    "prepTime": 20,
+    "cookTime": 20,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "milk": {
+        "ingredient_text": "milk for kneading as required",
+        "qty": 1.0,
+        "unit": "as required",
+        "grams": 5,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          0.83,
+          1.45
+        ],
+        "cost_contrib_avg": 1.14
+      },
+      "chicken": {
+        "ingredient_text": "chicken boiled",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          46.0,
+          48.0
+        ],
+        "cost_contrib_avg": 47.0
+      },
+      "onion": {
+        "ingredient_text": "onion 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 172.32,
+      "avg": 193.84,
+      "max": 215.35
+    }
+  }
+]

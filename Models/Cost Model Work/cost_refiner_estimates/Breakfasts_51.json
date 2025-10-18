@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Egg Mayo Sandwich Recipe | Masala TV",
+    "ingredients": "Ingredients for Egg Mayo Sandwich Recipe: Boiled egg chopped 6 Mayonnaise 1 cup Salt 1 tsp Black pepper 1 tsp Bread slices 6 Ice berg shredded 1-1/2 cup",
+    "instructions": "In bowl boiled chopped egg, mayonnaise, salt and black pepper mix . Now toast the bread and add Shereded ice berg. Then add egg mixture and keep the top toast and serve it.",
+    "prepTime": 10.0,
+    "cookTime": 10,
+    "totalTime": 20,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "boiled egg chopped 6",
+        "qty": 6.0,
+        "unit": "unit",
+        "grams": 600.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          168.0,
+          197.4
+        ],
+        "cost_contrib_avg": 182.7
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 411.4,
+      "avg": 428.55,
+      "max": 445.7
+    }
+  }
+]

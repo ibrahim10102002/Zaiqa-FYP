@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Mash Daal Halwa Recipe | Masala TV",
+    "ingredients": "Ingredients for Mash Daal Halwa Recipe: Yellow lentil 1 cup Clarified butter 1 cup Sugar ½ cup Cardamom 5-6 Whole dried milk ½ cup Mix dry fruit (finely cut) ½ cup",
+    "instructions": "Wash yellow lentil and soak it in water overnight. Next day grind lentil into a paste. Now in big pan heat clarified butter add yellow lentil paste and mix well. Then cook until lentil gets golden. Now add whole dried milk and mix and cook for 2 to 3 minutes. Then add sugar and cardamom and cook for 5 to 7 minutes while keep stirring. Now add dry fruits and cook for 3 minutes. At last garnish with chopped nuts and serve.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          21.36,
+          21.36
+        ],
+        "cost_contrib_avg": 21.36
+      },
+      "milk": {
+        "ingredient_text": "whole dried milk ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          19.8,
+          34.8
+        ],
+        "cost_contrib_avg": 27.3
+      },
+      "mix dry fruit": {
+        "ingredient_text": "mix dry fruit (finely cut) ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 1188.0,
+        "price_avg": 1188.0,
+        "price_high": 1188.0,
+        "cost_range": [
+          142.56,
+          142.56
+        ],
+        "cost_contrib_avg": 142.56
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 183.72,
+      "avg": 191.22,
+      "max": 198.72
+    }
+  }
+]

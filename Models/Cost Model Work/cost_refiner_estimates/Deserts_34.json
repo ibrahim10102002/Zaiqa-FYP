@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Creamy Fruit Chaat Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Creamy Fruit Chaat Recipe: Bananas 2 Fruit cocktail 1 small tin Cream 2 cups Boiled chickpeas 1 cup Chopped mango 1 cup Chopped peach 1 Boiled potato 1 Caster sugar 3 tbsp Chaat masala 1 tsp Salt a pinch Sev (to garnish) ¼ cup Lemon juice of 1 lemon Black pepper ½ tsp",
+    "instructions": "Combine all fruits in a serving bowl. Sprinkle lemon juice on it. Mix in potato and chickpeas. Add in the cream and chaat masala, sugar, salt and black pepper and mix well. Then serve chilled with sev garnished on top.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "potato": {
+        "ingredient_text": "boiled potato 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          4.4,
+          5.5
+        ],
+        "cost_contrib_avg": 4.95
+      },
+      "sugar": {
+        "ingredient_text": "caster sugar 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          53.4,
+          53.4
+        ],
+        "cost_contrib_avg": 53.4
+      },
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          5.38,
+          5.38
+        ],
+        "cost_contrib_avg": 5.38
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 127.19,
+      "avg": 129.23,
+      "max": 131.28
+    }
+  }
+]

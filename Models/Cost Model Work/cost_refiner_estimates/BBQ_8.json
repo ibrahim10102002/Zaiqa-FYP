@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Boti Kabab Recipe | Masala TV",
+    "ingredients": "Ingredients for Boti Kabab Recipe: Beef undercut ½ kg Ginger garlic paste 2 tbsp Coriander chopped ¼ bunch Lemon juice 2 tbsp Yogurt 250 gm Turmeric 1 tsp Salt to taste Ground coriander 1 tsp Red chili flakes 1 tsp All spice powder 1 tsp Papaya paste 3 tbsp Skewer sticks as required Oil 2 â 3 tbsp Tamarind paste 2 tbsp",
+    "instructions": "Firstly cut undercut into small pieces. Then separate yogurt excess liquid and add in ginger garlic paste, turmeric Add salt, ground coriander, red chilli flakes, all spice powder, tamarind paste and juice of a lemon in it and mix well. Keep it aside once done. Marinate beef cubes with salt and papaya paste for a while. After 8-10 minutes, add beef cubes in yogurt mixture and let it marinate for a little longer. Also add chopped coriander in it. Mix it all properly and insert 4 to 5 cubes in each skewer. Heat up a grill pan with a little amount of oil and grill the beef cubes until golden brown from all sides. Dish out and serve with sauce of your own choice.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "beef": {
+        "ingredient_text": "beef undercut ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          450.0,
+          550.0
+        ],
+        "cost_contrib_avg": 500.0
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "lemon": {
+        "ingredient_text": "lemon juice 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 592.0,
+      "avg": 660.0,
+      "max": 728.0
+    }
+  }
+]

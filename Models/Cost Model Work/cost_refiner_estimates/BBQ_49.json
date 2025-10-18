@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Malaysian Fried Chicken Recipe | Masala TV",
+    "ingredients": "Ingredients for Malaysian Fried Chicken Recipe: Chicken drumsticks 1 kg Salt 1/2 tsp Rice flour 3/4 cup Oil for deep-fry Ingredients for Marinate: Lemongrass chopped 2 stalks Onion chopped 1 Garlic, peeled 3 cloves Ginger 1 inch piece Fish sauce 1 tbsp Turmeric powder 1 tsp Sugar 2 tsp Sesame oil 1/2 tsp Salt 3/4 tsp White pepper powder 1/4 tsp Ingredients for Lemon Herb Rice Boiled and cooled rice 2 cups Mint leaves 1/2 cup Coriander leaves 1/2 cup Oil 1 tbsp Salt to taste Black pepper to taste Red chilli crushed 1 Lemon Juice 1 lemon Lemon wedges to serve",
+    "instructions": "To make the Marinade: Place lemongrass, onion, garlic, ginger Add fish sauce, turmeric, sugar, sesame oil, salt and pepper in a food processor. Process until smooth, adding a little water if needed. Place drumsticks in a bowl. Add the marinade. Toss to coat. Cover. Refrigerate overnight to allow flavours to develop. Make lemon herb rice: Combine rice, mint, coriander, chilli, lemon juice and oil in a bowl. Season with salt and pepper. Drain drumsticks, discarding marinade. Place drumsticks in a bowl. Sprinkle with the salt. Add rice flour. Toss to combine. Deep-fry drumsticks, in batches, in hot oil, for 12 minutes or until deep golden brown and cooked through. Transfer to paper towel to drain. Serve chicken with rice and lemon wedges.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "lemon": {
+        "ingredient_text": "lemon wedges to serve",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper to taste",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      },
+      "red chilli": {
+        "ingredient_text": "red chilli crushed 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 577.0,
+        "price_avg": 577.0,
+        "price_high": 577.0,
+        "cost_range": [
+          57.7,
+          57.7
+        ],
+        "cost_contrib_avg": 57.7
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 401.1,
+      "avg": 404.1,
+      "max": 407.1
+    }
+  }
+]

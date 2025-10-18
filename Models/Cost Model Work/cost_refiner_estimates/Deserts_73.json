@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Khoya aur Siwayyon ka Zarda Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Khoya aur Siwayyon ka Zarda Recipe: Vermicles 1 packet Yellow Food Color1/2tsp Khoya 250gms Sugar 1-1/2 cup Ghee 1 cup Milk ½ litre Almonds as required Pistachios as required Silver Leaves as required Cardamom1/2 tsp",
+    "instructions": "In a pan, heat ghee add Vermicles and fry. Now add milk, yellow food color, cardamom and let it cook for low flame. When dries milk,add sugar and cook. When dries sugar syrup, now add khoya, pistachios and almonds. After this,take it out in a dish. Spread silver leaves. Khoya aur Siwayyon ka Zarda is ready.",
+    "prepTime": 30,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "milk": {
+        "ingredient_text": "milk ½ litre",
+        "qty": 0.5,
+        "unit": "litre",
+        "grams": 50.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          8.25,
+          14.5
+        ],
+        "cost_contrib_avg": 11.38
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 26.05,
+      "avg": 29.18,
+      "max": 32.3
+    }
+  }
+]

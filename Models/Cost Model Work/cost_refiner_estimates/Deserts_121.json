@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Orange Ice Cream Recipe | Masala TV",
+    "ingredients": "Ingredients for Orange Ice Cream Recipe: Oranges 3 Orange zest 1 Icing sugar 175 gm Double cream 584 milliliters Wafers (to serve) 6",
+    "instructions": "Squeeze the juice of all 3 oranges and pour into a bowl with the zest and sugar. Stir to dissolve the sugar and add the double cream. Whip everything until it holds soft peaks, and then turn into an air-tight container. Cover and freeze until firm. Serve in a bowl, with wafers.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "icing sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 17.8,
+      "avg": 17.8,
+      "max": 17.8
+    }
+  }
+]

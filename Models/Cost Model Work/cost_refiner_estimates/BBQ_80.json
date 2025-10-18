@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Kasuri Gosht Kabab Recipe | Masala TV",
+    "ingredients": "Ingredients for Kasuri Gosht Kabab Recipe: Mutton boneless 1 kg small cubes Ginger garlic pate 3 tbsp White vinegar 3 tbsp Chili powder 2 tbsp Black pepper powder 1 tsp Salt 1½ tsp Cream 3 tbsp Cheddar cheese 3 tbsp grated All spice 1 tsp heaped Cumin powder 1 tsp heaped Saffron ¼ tsp Kasuri methi 1 tsp Chopped coriander leaves 2 tbsp",
+    "instructions": "Wash mutton cut into 2 inch cubes Marinate with all the given ingredients for 1 hour. Put meat on skewers and roast in a pre-heated oven or BBQ brushing with oil Serve garnish with line lemon wedges.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton boneless 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          160.0,
+          200.0
+        ],
+        "cost_contrib_avg": 180.0
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic pate 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          117.0,
+          166.5
+        ],
+        "cost_contrib_avg": 141.75
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper powder 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 492.4,
+      "avg": 537.15,
+      "max": 581.9
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Saib ka Halwa Recipe | Masala TV",
+    "ingredients": "Ingredients for Saib ka Halwa Recipe: Apple 1 kg Sugar 250 gram Whole dried milk 250 gram Cardamom 2 Rose water as required Clarified butter 1 cup Dry milk ½ cup",
+    "instructions": "Peel apples and cut finely. Now heat clarified butter, add apples and cover it. When apples get soft mash them with spoon. Now add sugar and dry milk and cook well. When it gets brown then adds khoya and leaves some khoya for garnish. When oil comes up then add cardamom, rose water and khoya.",
+    "prepTime": 20,
+    "cookTime": 15,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          35.6,
+          35.6
+        ],
+        "cost_contrib_avg": 35.6
+      },
+      "milk": {
+        "ingredient_text": "dry milk ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          19.8,
+          34.8
+        ],
+        "cost_contrib_avg": 27.3
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 88.4,
+      "avg": 108.4,
+      "max": 128.4
+    }
+  }
+]

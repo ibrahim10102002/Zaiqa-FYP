@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Smoked Chicken Mandi Recipe | Masala TV",
+    "ingredients": "Ingredients for Smoked Chicken Mandi Recipe: Chicken (2 pieces) 1 Mandi masala 4 tbsp Yogurt ½ cup Clarified butter 4 tbsp Onion 1 Whole garlic 1 Tomatoes 2 Ingredients for mandi masala: Whole coriander 2 tbsp White cumin 1 tbsp Black pepper 15-16 Cloves 10-12 Cinnamon 1 piece Turmeric ½ tsp Salt to taste Ingredients for rice: Basmati rice 750 gram Chopped onion 1 Mandi masala 2 tbsp Clarified butter ¾ cup Whole dry lemon 2-3 Saffron as required Boiled eggs for garnish",
+    "instructions": "Saute whole ingredients of mandi masala and grind them with powdered spices. Now cut chicken in half. Mix mandi masala in yogurt. Heat clarified butter and fry chicken in it. Then add onion, whole garlic and tomatoes then saute it. Now add water to tender chicken and strain stock. Fry chicken pieces in 2 tbsp clarified butter. Heat clarified butter and fry onion in it and adds mandi masala. Add stock with lemon and boil for 10 minutes. Now add rice and salt to taste. Cook until simmer. Give coal smoke on chicken fried pieces. Take out rice in a dish and put chicken pieces and boiled eggs on it.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "basmati rice": {
+        "ingredient_text": "basmati rice 7",
+        "qty": 7.0,
+        "unit": "unit",
+        "grams": 700.0,
+        "price_low": 296.0,
+        "price_avg": 296.0,
+        "price_high": 296.0,
+        "cost_range": [
+          207.2,
+          207.2
+        ],
+        "cost_contrib_avg": 207.2
+      },
+      "onion": {
+        "ingredient_text": "chopped onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "lemon": {
+        "ingredient_text": "whole dry lemon 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      },
+      "egg": {
+        "ingredient_text": "boiled eggs for garnish",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 318.2,
+      "avg": 324.65,
+      "max": 331.1
+    }
+  }
+]

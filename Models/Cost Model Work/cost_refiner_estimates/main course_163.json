@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Sindhi Elaichi Murgh Recipe | Masala TV",
+    "ingredients": "Ingredients for Sindhi Elaichi Murgh Recipe: Chicken 1 kg Oil ½ cup Green cardamom ½ tsp 6 Green cardamoms crushed Black pepper ½ tsp Salt 1½ tsp Chili powder 1 tsp heaped Coriander powder 1½ tsp Turmeric ½ tsp Chopped green chilies 4 Tomatoes 2 large chopped 1 cup yogurt Black cumin seeds ½ tsp Coriander leaves 2 tbsp",
+    "instructions": "Wash chicken and dry, heat oil add crushed cardamom with chicken Add black pepper, salt, all the spices and green chilies. Fry for 10 mins, add tomatoes, fry for another 10 mins, add in yogurt with 1 cup water Now cover and cook till chicken tender and oil comes on top, garnish with coriander leaves Now sprinkle cardamom powder and black cumin seeds.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "elaichi": {
+        "ingredient_text": "elaichi",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 230.0,
+        "price_high": 230.0,
+        "cost_range": [
+          23.0,
+          23.0
+        ],
+        "cost_contrib_avg": 23.0
+      },
+      "chicken": {
+        "ingredient_text": "chicken 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          5.38,
+          5.38
+        ],
+        "cost_contrib_avg": 5.38
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          48.4,
+          60.0
+        ],
+        "cost_contrib_avg": 54.2
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 136.28,
+      "avg": 154.84,
+      "max": 173.38
+    }
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Desi Style Burger Recipe | Masala TV",
+    "ingredients": "Ingredients for Desi Style Burger Recipe: Mince 250 grams + 250 grams Salt 1 tsp Red Pepper (crushed)1 tsp Ginger Garlic 1 tsp Lemon Juice 2 tbsp Green Chilies 2 Coriander Leaves 1 tbsp Coriander Seeds (crushed) 1 tsp Cumin Seeds (crushed) 1 tsp crushed Garam Masala ½ tsp Onion (fried,grated) Bread (soaked) 3 slices Gram Flour 1 tbsp Egg 1 Soda ¼ tsp Tomato (slices) Onion 1 Cheese (slices) Mustard Paste JalapeÃ±o Jerkins Salad Leaves Burger Buns 4",
+    "instructions": "Cook 250 gram beef mince with paste lemon juice green chilies Add coriander leaves, crushed cumin and coriander crush red pepper salt allspice and half cup water until done. Then add this coo minced with the sautÃ© onions and cook for 5 min remove and cool. In your boil mince add raw mince put in the chopper with soak bread slice, gram flour eggs allspice soda Mix all well make into patty, Shallow fry in quarter cup oil. To assemble: Heat burger bun top with Cheese slice, Pattie salad leave mustard paste tomato onion rungs jalapeÃ±o and jerkins cover with bun. Serve hot with fries.",
+    "prepTime": 20.0,
+    "cookTime": 15,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 159.0,
+      "avg": 189.45,
+      "max": 219.9
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Kashmiri Bakarkhani Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Kashmiri Bakarkhani Recipe: Plain Flour ½ kg Butter 250 gms Eggs 2 Sugar 1 tsp Butter 2 tbsp Water as required Salt to taste Sesame Seeds 4 tbsp",
+    "instructions": "In s bowl, add plain flour, one egg, salt, sugar, 2 tsp butter and water and knead dough. Now, boll the dough like roti. Then add butter in mid, folds in 4 sides. Roll again and repeat this process 5 to 6 times Roll the dough like a roti and cut lengthwise and roll like. Brush it with beaten egg, sprinkle sesame seeds. Bake it in the oven at 200 degree centigrade. Kashmiri bakarkhani is ready",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "eggs 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 73.8,
+      "avg": 78.7,
+      "max": 83.6
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "name": "French Toast Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for French Toast Recipe: 2-4 slices bread 1 cup milk 2 eggs 2 tbsp caster sugar ¼ tsp vanilla essence As required oil",
+    "instructions": "Warm the milk. Mix sugar and vanilla essence in the milk. Let sugar dissolve. Add in the eggs when the milk is cold. Soak the bread slices in and fry in hot oil on both sides till golden. Serve hot.",
+    "prepTime": 15.0,
+    "cookTime": 10,
+    "totalTime": 25,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "cup milk 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          33.0,
+          58.0
+        ],
+        "cost_contrib_avg": 45.5
+      },
+      "egg": {
+        "ingredient_text": "eggs 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      },
+      "sugar": {
+        "ingredient_text": "tbsp caster sugar ¼ tsp vanilla essence",
+        "qty": 0.25,
+        "unit": "tsp",
+        "grams": 1.25,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          0.22,
+          0.22
+        ],
+        "cost_contrib_avg": 0.22
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 89.22,
+      "avg": 106.62,
+      "max": 124.02
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Chicken Shami Kabab Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Chicken Shami Kabab Recipe: Boneless Chicken ½ kg Bengal Gram 150 grams Garlic Cloves 5-6 Ginger 1 inch piece Black Cardamoms 4-5 Cinnamon Stick 1-2 Cloves 3-4 Whole Black Pepper 1 tsp Whole Red Chilies 6-8 Cumin Seeds 1-2 tsp Coriander Seeds 1-2 tsp Eggs 1-2 Oil for frying Salt to taste Bread Slices as required",
+    "instructions": "Take ½ kg of chicken cut into small cubes, now take a cooking pan add chicken cubes. Add 150 grams of Bengal gram , 1-2 tsp of cumin seeds. Add 1 tsp of whole black pepper corns, 6-8 whole red chilies, 5-6 garlic cloves. Add 1 inch piece of ginger, 1-2 tsp of coriander seeds, 4-5 black cardamoms. Add 1-2 cinnamon sticks and add to taste salt and water cook on a low flame cook until the water is dry take it out. Let it cool down and add it to the chopper and chop it. Now add 1-2 eggs, as required bread slices slightly wet, make tikkiâs and shallow fry it. Then take it out in a tissue paper or kitchen towel when absorb all the access of oil. Take it out in serving platter and serve it with chutney or sauce.",
+    "prepTime": 20.0,
+    "cookTime": 15,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "egg": {
+        "ingredient_text": "eggs 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 446.0,
+      "avg": 547.2,
+      "max": 648.4
+    }
+  }
+]

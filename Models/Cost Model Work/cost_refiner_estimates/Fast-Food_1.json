@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Spicy Vegetable Chowmien Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Spicy Vegetable Chowmien Recipe: Cabbage (chopped) 1 Onion (chopped) 1 Capsicums (chopped) 2 Carrots (chopped) 2 Green Chilies (chopped) 6 Bean Sprouts 1 cup Spring Onions (chopped) 2 bunches Noodles ½ packet Chicken Cube 1 Red Chilies Flakes 1 tsp Sesame Seed oil 1 tsp Ginger Garlic Paste 1 tsp Soya Sauce 2 tbsp White Vinegar 2 tbsp Chili Sauce 2 tbsp Oil 3 tbsp Salt to taste",
+    "instructions": "Boil the noodles, add in 2 tbsp oil while boiling, drains the water once boiled and wash them with cold water. Add some oil in them. In a pan, add in some oil and golden brown the onion. Add in 1 tsp ginger garlic paste and fry it. Add in chopped cabbage, chopped capsicum, 2 chopped capsicum, 2 chopped carrots, soya sauce, 2 tbsp white vinegar, salt and chopped green chilies. Cook it for 2 minutes. Add in the noodles. Then add in chili sauce, red chili flakes, knorr chicken cube and some salt. Mix it well. Then add in 1 tsp sesame seed oil. In the end, add in 1 cup bean sprouts and 2 bunch of green onion. Serve hot.",
+    "prepTime": 25.0,
+    "cookTime": 20,
+    "totalTime": 45,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "onions (chopped) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "capsicum": {
+        "ingredient_text": "capsicums (chopped) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          46.0,
+          48.0
+        ],
+        "cost_contrib_avg": 47.0
+      },
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 223.5,
+      "avg": 267.0,
+      "max": 310.5
+    }
+  }
+]

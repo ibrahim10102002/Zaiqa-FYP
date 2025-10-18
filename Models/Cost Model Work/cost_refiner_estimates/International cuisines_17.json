@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Finger Steak On A Bed Of Rice Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Finger Steak On A Bed Of Rice Recipe: Beef Undercut (Cut into finger strips) 400 g Oil ¼ cup Green Capsicum (Cut into strips) 1 Red Capsicum (Cut into strips) 1 Tomato (Diced) 1 cup Stock 1 cup Corn Flour 1 tbsp Soy Sauce 3 tbsp Garlic Powder 1 tsp Black Pepper (Crushed) 1 tsp Ginger (Crushed) 1 tsp Oyster Sauce 1 tbsp Hoisin Sauce 1 tbsp Vinegar 1 tbsp Rice (Boiled) 1 cup Baking Powder ½ tsp",
+    "instructions": "Marinate undercut strips with baking powder for 2 hours. Heat a quarter cup of oil in a pan. To it, add undercut strips with vinegar, crushed ginger, garlic powder, black pepper, soy sauce, oyster sauce and hoisin sauce. SautÃ© the beef on a high heat for 5 minutes. Add in chicken stock with both the colored capsicums, tomatoes and thicken the sauce with corn flour. Serve with boiled rice.",
+    "prepTime": 140,
+    "cookTime": 160,
+    "totalTime": 300,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "beef": {
+        "ingredient_text": "beef",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          90.0,
+          110.0
+        ],
+        "cost_contrib_avg": 100.0
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum (cut into strips) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger (crushed) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 197.0,
+      "avg": 230.25,
+      "max": 263.5
+    }
+  }
+]

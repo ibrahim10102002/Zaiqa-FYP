@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Mango Ice Cream Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Mango Ice Cream Recipe: Mangoes (peeled and chopped) 3-4 Cream 2 cups Condensed milk 1 can (14 oz) to Garnish: Mango (chopped in tiny cubes) 1 Cream whipped 1/2 cup",
+    "instructions": "In a blender put the mango chunks, condensed milk and cream Blend till smooth and freeze in an air-tight tin. Remove once half set and beat up and again freeze. Repeat this method of letting ice cream set and then beating again 3 times. Freeze overnight and then serve scoops of mango ice cream with more chopped mangoes and cream piped if desired.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "condensed milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 16.5,
+      "avg": 22.75,
+      "max": 29.0
+    }
+  }
+]

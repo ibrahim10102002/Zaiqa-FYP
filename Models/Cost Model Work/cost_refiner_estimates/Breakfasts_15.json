@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Roghni Paratha Recipe | Masala TV",
+    "ingredients": "Ingredients for Roghni Paratha Recipe: White Flour 1/2 kg Oil 4 tbsp Salt 1/2 tsp 1 Egg Baking Soda 1/4 ts Ghee for fying",
+    "instructions": "In a bowl, add all ingredients except ghee and Mix. Now Kneading well, and make medium balls. Heat ghee and fry. Roghni Paratha is ready.",
+    "prepTime": 15.0,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "egg",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 28.0,
+      "avg": 30.45,
+      "max": 32.9
+    }
+  }
+]

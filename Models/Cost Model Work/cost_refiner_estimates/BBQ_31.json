@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Dum ki Boti Recipe | Masala TV",
+    "ingredients": "Ingredients for Dum ki Boti Recipe: Beef pieces ½ kg Lemon 2 Chopped Green chilies 2 Black pepper 4 Yogurt ½ cup Chopped Mint Leaves ½ bunch Bihari Masala 2 tbsp Oil 3 tbsp",
+    "instructions": "Marinate Beef with black peppercorn,1 2/ cup yogurt Add Bihari Masala and keep it for 10 minutes. Put them in a frying pan and cook till the water dries. Add in 3 tbsp oil and 2 lemon juice. Cover the pan and cook it on a low flame. In end, add in chopped green chilies and chopped mint leaves. Serve it with parathas.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "beef": {
+        "ingredient_text": "beef pieces ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          450.0,
+          550.0
+        ],
+        "cost_contrib_avg": 500.0
+      },
+      "lemon": {
+        "ingredient_text": "lemon 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          861.6,
+          861.6
+        ],
+        "cost_contrib_avg": 861.6
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1375.6,
+      "avg": 1427.1,
+      "max": 1478.6
+    }
+  }
+]

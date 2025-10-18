@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Chili Fried Fish Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Chili Fried Fish Recipe: Fish Fingers 1 kg Gram flour 1 cup Eggs whites 3 Lemons 4 Roasted cumin powder 1 tbsp Mustard seeds 1 tbsp Turmeric ½ tbsp Red chili flakes 2 tbsp White vinegar 2 tbsp Oil to fry Salt to taste",
+    "instructions": "Add 2 tbsp vinegar in fish fingers and keep it for 10 minutes. Wash it and add in ½ tbsp turmeric, lemon juice and some salt. Grease the pan, add the fish fillets. When the water dries. take them out and keep them aside. Take 1 cup gram flour in the bowl, add in egg whites, mustard seeds, red chili flakes, roasted cumin and salt. Beat it. Take each fish finger, dip them in batter and deep fry them till they are golden brown. Take them out and srev it with hot nan.",
+    "prepTime": 15.0,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "eggs whites 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          84.0,
+          98.7
+        ],
+        "cost_contrib_avg": 91.35
+      },
+      "lemon": {
+        "ingredient_text": "lemons 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          128.0,
+          134.0
+        ],
+        "cost_contrib_avg": 131.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 212.0,
+      "avg": 222.35,
+      "max": 232.7
+    }
+  }
+]

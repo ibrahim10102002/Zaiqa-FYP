@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Kaddu ki kheer Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Kaddu ki kheer Recipe: Pumpkin (grated) 2 cups Milk 1 ½ liter Sago Dana 3 tbsp Sugar 1 cup heaped Clarified Butter 2 tbsp Almonds (sliced) 1 tbsp Pistachios (sliced) 1 tbsp Green cardamom 4 Cream half cup",
+    "instructions": "Heat ghee fry cardamom and grated kadu . Add milk cook until kadu is soft. Add cream cook for 5 min and sago dana and half cup water. Cook until sago is soft and transparent add sugar cook for 10 min. Till kheer thick lastly add almonds and pistachio.",
+    "prepTime": 45,
+    "cookTime": 60,
+    "totalTime": 105,
+    "recipeYield": "6-8",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 34.3,
+      "avg": 40.55,
+      "max": 46.8
+    }
+  }
+]

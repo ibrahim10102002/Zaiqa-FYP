@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Badami Handi Recipe | Masala TV",
+    "ingredients": "Ingredients for Badami Handi Recipe: Oil ¼ cup Boneless chicken ½ kg Onion paste 1cup Ginger garlic paste 2tbsp Tomato paste 1/3 cup Red chili powder 1-1/2 tbsp Salt 1tbsp Turmeric ½ tbsp Black pepper crushed 1tsp Coriander crushed 2tsp Cumin crushed 2tsp Cream 1cup Green chilies for garnish Coriander for garnish Ginger for garnish Almonds finely chopped ¼ cup",
+    "instructions": "In a pot heat oil and fry chicken and remove. Now in the same oil add onion paste , ginger garlic paste . Add tomato paste and cook till water dries. Now add red chili powder , salt , turmeric and roast well. Now add fried chicken , black pepper , crushed coriander. Add cumin and cream and remove it from the flame. Lastly add finely chopped almonds , green chilies , coriander and ginger and serve.",
+    "prepTime": 15.0,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "boneless chicken ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "onion": {
+        "ingredient_text": "onion paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper crushed 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      },
+      "ginger": {
+        "ingredient_text": "ginger for garnish",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 631.9,
+      "avg": 728.65,
+      "max": 825.4
+    }
+  }
+]

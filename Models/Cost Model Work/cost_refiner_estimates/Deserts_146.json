@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Cream Caramel Recipe | Masala TV",
+    "ingredients": "Ingredients for Cream Caramel Recipe: Milk 1-1/2 liter Cream 1 packet Eggs 1 dozen Sugar 350 grams Yellow food color a pinch Vanilla essence 1 tbsp For Caramel: Sugar 1 cup Water 4 tbsp",
+    "instructions": "In a bowl add milk, cream, eggs, sugar, vanilla essence and food color, mix well till the sugar dissolves and set aside. In a pan add the ingredients for caramel and cook on low heat till the sugar dissolves and caramelized. Pour this into caramel pan, cool and add the pudding mixture in the pan. Place the pan in a tray filled with water and bake on 170 C for 30 minutes. Remove, cool and serve.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "egg": {
+        "ingredient_text": "eggs 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 115.7,
+      "avg": 124.4,
+      "max": 133.1
+    }
+  }
+]

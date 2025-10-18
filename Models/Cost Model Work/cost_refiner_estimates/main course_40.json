@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Aloo Chicken Kabab Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Aloo Chicken Kabab Recipe: Mince (chicken) ½ kg Potatoes ½ kg Finely Chopped Onion 1 Green Chilies 6 Coriander Leaves ¼ bunch Mint Leaves ¼ bunch Eggs (beaten) 2 Red Chilies (crushed) 1 tbsp Coriander Seeds (crushed) 1 tbsp Cumin Seeds 1 tbsp Garam Masala Powder 2 tsp Chaat Masala 2 tsp Oil as required Salt to taste",
+    "instructions": "Boil potatoes and mash correctly. In a pan, heat oil add salt, crushed red chilies, coriander leaves, mint leaves, green chilies, crushed coriander seeds, garam masala powder, chaat masala , cumin seeds, fry and shift to a bowl. Mix fried masala, mince, potatoes chicken and mashed. Then, make kabab, dip in beaten eggs and fry. Delicious aalu murgh kabab is ready.",
+    "prepTime": 20.0,
+    "cookTime": 30,
+    "totalTime": 50,
+    "recipeYield": "6",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "mince (chicken) ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "potato": {
+        "ingredient_text": "potatoes ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          22.0,
+          27.5
+        ],
+        "cost_contrib_avg": 24.75
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "egg": {
+        "ingredient_text": "eggs (beaten) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 454.0,
+      "avg": 540.65,
+      "max": 627.3
+    }
+  }
+]

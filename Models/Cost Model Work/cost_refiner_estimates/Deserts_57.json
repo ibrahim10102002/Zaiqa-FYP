@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Pan Paira Recipe | Masala TV",
+    "ingredients": "Ingredients for Pan Paira Recipe: Khoya ½ kg Sugar 250 grams Green Cardamom Powder ½ tsp Red Colour 1 tsp Dry fruit ½ cup Clarified Butter ½ cup",
+    "instructions": "Take a cooking pan add ½ cup of clarified butter , heat the clarified butter Add 250 grams of sugar when its dissolve in the clarified butter add ½ kg of khoya mix it well When the colour starts to change Add ½ tsp of green cardamoms powder mix it well , and remove from heat Take it out into two separate bowls Add red food colour in a one bowl shape it to the pan. At last garnish with ½ cup of dry fruits , chilled and serve",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          35.6,
+          35.6
+        ],
+        "cost_contrib_avg": 35.6
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 35.6,
+      "avg": 35.6,
+      "max": 35.6
+    }
+  }
+]

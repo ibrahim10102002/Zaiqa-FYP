@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Chicken Jalfrezi Recipe | Masala TV",
+    "ingredients": "Ingredients for Chicken Jalfrezi Recipe: Chicken ½ kg made into thick strips Onion 2 medium cut into thick slices Capsicum 1 cut into strips Ginger 2 tbsp cut into strips Green chilies 3 cut into strips Coriander leaves 1 tbsp chopped Tomatoes 2 chopped into cubes Chili powder 1 tbsp heaped Turmeric ¼ tsp Black pepper ½ tsp Ketchup ¼ cups Soya sauce 1 tbsp Mustard powder ½ tsp Dp sauce 1 tsp Allspice ¼ tsp Salt ¾ tsp Oil ¼ cup",
+    "instructions": "Heat oil add onion in a wok, fry for 1 minute add ginger Julian with chicken strips Fry for 5 minutes add chili powder, turmeric, black pepper, mustard powder Add salt, soya sauce, ketchup, dp sauce with ½ cup water Add cubes of tomato, capsicum, green chilies, coriander leaves, serve with nan.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken ½ kg made into thick strips",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "onion": {
+        "ingredient_text": "onion 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          44.0,
+          100.0
+        ],
+        "cost_contrib_avg": 72.0
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          48.4,
+          60.0
+        ],
+        "cost_contrib_avg": 54.2
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          5.38,
+          5.38
+        ],
+        "cost_contrib_avg": 5.38
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 515.78,
+      "avg": 631.59,
+      "max": 747.38
+    }
+  }
+]

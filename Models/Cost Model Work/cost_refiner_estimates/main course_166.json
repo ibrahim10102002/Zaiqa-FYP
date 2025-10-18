@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Maqlooba Recipe | Masala TV",
+    "ingredients": "Ingredients for Maqlooba Recipe: Chicken (with bone) 600 gm Onion chopped 2 Ginger garlic chopped 1-1/2 tbsp Chopped brinjal slice 2-3 Chopped tomato slice 2-3 Boiled potato slice 2-3 Cauliflower florets 1 cup Oil ¾ cup Yogurt 4 tbsp Tomato puree 1 tbsp Ingredients for rice: Boiled rice ½ kg Mix garam masala 1 tbsp Salt to taste Black pepper to taste Oil 4 tbsp Crushed ginger garlic 1 tbsp Olive oil 4 tbsp Chicken cube 1",
+    "instructions": "Apply yogurt on chicken pieces. Fry cauliflower florets. Add tomato purees, salt and black pepper cook. Fry brinjal and potato slices. Heat remaining oil adds crushed ginger and garlic fry. Also add onion fry well. Add tomato, salt and black pepper cook well. Heat oil for rice adds chopped ginger, whole spices, tomato puree fry. Add 1 cup of water and chicken cube cook till boil come. After that mix rice and simmer. Heat oil add chicken and vegetable layer. Add cook rice simmer for 5 min. dish out in a serving mould.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "garam masala": {
+        "ingredient_text": "mix garam masala 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1306.0,
+        "price_avg": 1306.0,
+        "price_high": 1306.0,
+        "cost_range": [
+          130.6,
+          130.6
+        ],
+        "cost_contrib_avg": 130.6
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper to taste",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      },
+      "garlic": {
+        "ingredient_text": "crushed ginger garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "chicken": {
+        "ingredient_text": "chicken cube 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 444.5,
+      "avg": 465.5,
+      "max": 486.5
+    }
+  }
+]

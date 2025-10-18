@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Kabab Karahi Recipe | Masala TV",
+    "ingredients": "Ingredients for Kabab Karahi Recipe: Green Chilies 5-6 Onions (chopped) 2 Fresh Coriander ½ cup Mint Leaves ½ cup Beef Mince ½ kg Egg 1 Cumin 1 tbsp Red Chili Powder 1 tsp Garam Masala 1 tsp Salt to taste Ginger Garlic 1 tbsp Ingredients for Gravy : Onion (chopped) 1 Tomato (pureed) 2-3 Cumin 1 tbsp Ginger garlic ½ tbsp Red Chilies tsp Salt to taste Turmeric ½ tsp Garam Masala ½ tbsp",
+    "instructions": "In a blender add green chilies, onions, coriander, mint and grind them well. Take beef mince in a bowl, add green chilies mixture to it and mix Now add egg, crushed & roasted coriander , red chili powder, garam masala, salt Add ginger garlic. Now grind or chop well until complelty combined. Shape kababs out of this mixture and fry for 2 to 3 minutes. For Gravy: Heat few spoons of oil in a pan add cumin and fry Now add onion, ginger garlic , tomato puree, red chili powder, salt Add tuermric, garam masala powder and mix well. Add water to the pan and bring it to boil. Add fried kabab to this gravy and let it cook for 10 to 15 minutes. Lastly add green chilies, fenugreek leaves and simmer for a minute or two Dish out and serve.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "onion (chopped) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic ½ tbsp",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "grams": 7.5,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          2.93,
+          4.16
+        ],
+        "cost_contrib_avg": 3.54
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 21.93,
+      "avg": 25.04,
+      "max": 28.16
+    }
+  }
+]

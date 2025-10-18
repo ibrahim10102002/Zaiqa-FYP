@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Restaurant Style Ginger Chicken Recipe | Masala TV",
+    "ingredients": "Ingredients for Restaurant Style Ginger Chicken Recipe: Boneless chicken ½ kg Ginger julienne 3 tbsp Tomatoes chopperised 2 Tomato puree ¼ cup Green chilies 3 chopped Turmeric ½ tsp Crushed and roasted cumin 1½ tsp Coriander powder 1 tsp Salt 1 tsp Chili powder 1 tsp Crushed red pepper 1 tsp Garlic paste 1 tsp Yogurt ¼ cup Milk ¼ cup Oil ½ cup Coriander leaves for garnishing",
+    "instructions": "Heat oil add ginger julienne, chicken, fry for 5 mins Add chopperised tomatoes with all the seasonings, cook till chicken tender Add yogurt and milk, cover and cook till done. Lastly add green chilies and coriander leaves. Serve with nan.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "ginger": {
+        "ingredient_text": "ginger julienne 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          66.0,
+          150.0
+        ],
+        "cost_contrib_avg": 108.0
+      },
+      "chicken": {
+        "ingredient_text": "boneless chicken ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes chopperised 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          48.4,
+          60.0
+        ],
+        "cost_contrib_avg": 54.2
+      },
+      "garlic": {
+        "ingredient_text": "garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "milk": {
+        "ingredient_text": "milk ¼ cup",
+        "qty": 0.25,
+        "unit": "cup",
+        "grams": 60.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          9.9,
+          17.4
+        ],
+        "cost_contrib_avg": 13.65
+      },
+      "hing": {
+        "ingredient_text": "coriander leaves for garnishing",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 6200.0,
+        "price_avg": 6200.0,
+        "price_high": 6200.0,
+        "cost_range": [
+          620.0,
+          620.0
+        ],
+        "cost_contrib_avg": 620.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1162.3,
+      "avg": 1312.6,
+      "max": 1462.9
+    }
+  }
+]

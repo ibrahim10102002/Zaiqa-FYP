@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Arabian Kabsa Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Arabian Kabsa Recipe: Chicken ( with skin and big Pieces) 1 Sela Rice ½ kg Gallic paste 2 tbsp Onion Chopped 2 Tomatoes 2-3 Tomatoes Puree ½ cup All spice powder 1 tbsp Crushed Black Pepper 1 tsp Cinnamon Powder ½ tsp Crushed Green Cardamom 4-5 White Pepper Powder 1 tsp Cloves 2-3 Cumin Powder ½ tsp Coriander Powder ½ tsp Carrot Slice 1 Capsicum Slice 1 Lemon Juice 2 tbsp Zafran 1 pinch Butter 2-3 tbsp Stock as required Olives Oil 2-3 tbsp Almonds Roasted as required Salt to taste",
+    "instructions": "For Kabsa Masala: Take a mixing bowl add 2 tbsp of lemon juice, 1 tbsp of all spice powder Add 1 tsp of white pepper powder,1/2 tsp of cinnamon powder Add 4-5 crushed cardamoms, a pinch of saffron and mix it well. For Kabsa Making: Take a ½ kg of rice and clean the rice and soak. Take pan add 2 tbsp of oil add 2 chopped onions, 2 tbsp of garlic paste add chicken and fry the chicken Add 2-3 tomatoes, ½ cup tomatoes puree , 1 sliced Carrot,1 slice Capsicum, 2-3 cloves Add ½ tsp of nutmeg , ½ tsp of coriander powder and a pinch of salt. 1 tsp of crushed black pepper , Add kabsa masla , and cooked. Then separate the chicken add as required chicken stockwhen the chicken stock is boiling add ½ kg of rice steam the rice Add the chicken when the rice is done dish out the rice garnish with roasted almonds.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken ( with skin and big",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "onion": {
+        "ingredient_text": "onion",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          24.2,
+          30.0
+        ],
+        "cost_contrib_avg": 27.1
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      },
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 206.1,
+      "avg": 231.3,
+      "max": 256.5
+    }
+  }
+]

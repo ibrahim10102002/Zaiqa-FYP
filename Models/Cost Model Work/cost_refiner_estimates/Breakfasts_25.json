@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Butter Chicken Roll Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Butter Chicken Roll Recipe: Chicken Pieces ½ kg Fresh Cream ½ packet Red chili flakes 1 tsp Crushed Black Pepper 1 tsp Raw Papaya Paste 1 tsp Ginger Garlic Paste 1 tbsp Butter 1 tbsp Oil 2 tbsp Salt to taste Parathay 6-8 For Salad: Onions 2 Lemons 2 Chopped Green chilies4 Chopped Mint leaves ½ bunch Salt to taste",
+    "instructions": "For salad: Take onions in the bowl, add in lemon juice, salt, mint leaves and 4 chopped green chilies. Salad is ready. Wash chicken pieces and add in tsp papaya paste, 1 tbsp ginger garlic paste and salt. Add the chicken in the pan, add cook till the water dries. then add in ½ packet fresh cream, 1 tsp red chili flakes, 1 tsp crushed black pepper, 1 tbsp butter and 2 tbsp oil. Cook it. Fill the chicken n the parathas and add onion salad on it.Roll them and serve. Butter Chicken rolls are ready to be served with chai or chutni this evening.",
+    "prepTime": 20.0,
+    "cookTime": 25,
+    "totalTime": 45,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "onion": {
+        "ingredient_text": "onions 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "lemon": {
+        "ingredient_text": "lemons 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 282.0,
+      "avg": 336.25,
+      "max": 390.5
+    }
+  }
+]

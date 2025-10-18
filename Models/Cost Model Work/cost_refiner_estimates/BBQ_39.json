@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Reshmi Tikka Kabab Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Reshmi Tikka Kabab Recipe: Boneless Chicken 1 kg Yogurt 1 cup Papaya Paste 1 tbsp Red Chiliies (crushed) 2 tsp Green Chilies Paste 2 tbsp Black Pepper Powder 1 tbsp Garam Masala Powder 1 tsp Salt ½ tsp Ginger Garlic 2 tsp Molvi Cooking Oil ½ cup Vinegar 2 tbsp Coal 1 piece Shashlik Stick as required",
+    "instructions": "In a bowl, marinate chicken boneless with yogurt, papaya paste Add chopped red chilies, green chilies paste, black pepper powder Add garam masala powder, salt, ginger garlic, vinegar, leave it for half an hour. Now make kabab, thread into sticks . In a pan, heat oil let it cook chicken stick for half an hour. When they are tendersa and give coal smoke.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 159.5,
+      "avg": 202.75,
+      "max": 246.0
+    }
+  }
+]

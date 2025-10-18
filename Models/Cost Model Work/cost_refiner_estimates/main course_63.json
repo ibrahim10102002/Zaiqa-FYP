@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Oil Free Chicken Biryani Recipe | Masala TV",
+    "ingredients": "Ingredients for Oil Free Chicken Biryani Recipe: Rice: 500 grams Chicken: 1 kg Biryani masala: 3/4 packet Green Cardamom: 4-5 Salt: to taste. Yogurt: 300 grams Green chillies: 2-3 Onion: 2 medium size Green Coriander: ½ cup Ginger Garlic: 2 table spoon. Lemon: 2 sliced Biryani colour: 1 tea spoon.",
+    "instructions": "First, boil rice until 80% cooked in a separate pan. Put the chopped onions in a pan on medium heat and cover the lid. Stir the onions regularly until brown colour appears. Add 3 table spoons of water and mix well until the onions are completely brown. Add ginger and garlic paste and stir well. Marinate the chicken with yogurt and biryani Masala and add. Stir it well, cover and turn the heat to medium/high and Cook until the chicken tenderises. Once cooked and the gravy is reduced. Layer the rice and chicken and garnish with food colour, green coriander and sliced lemons. Cover the pan and Dum on low flame for 5/7 minutes. Biryani without oil is ready to serve.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken: 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "onion": {
+        "ingredient_text": "onion: 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic: 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "lemon": {
+        "ingredient_text": "lemon: 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 321.0,
+      "avg": 383.5,
+      "max": 446.0
+    }
+  }
+]

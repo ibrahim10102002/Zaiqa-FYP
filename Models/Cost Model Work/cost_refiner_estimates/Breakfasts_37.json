@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Cheese Toast Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Cheese Toast Recipe: Grated Cheddar Cheese 1/2 cup Brown Bread Slices 10-12 Milk 1/2 cup Brown Bread Slices 6 Mustard Powder 1/2 teaspoon Olive Oil as required Black Pepper Powder 1/2 teaspoon Butter 1 teaspoon Tomatoes Sliced 2 Capsicum Sliced 1 Finely Chopped Green Chilies 2",
+    "instructions": "Heat ½ cup milk in a pan Add cheese and cook. Cut 4 bread slices into triangles and place them on a baking tray Drizzle a little olive oil and toast in the preheated oven. Tear remaining bread slices, chopperize to make fresh breadcrumbs. Add mustard powder, black pepper powder and butter to the milk-cheese mixture and mix well. When cheese melts, add breadcrumbs and mix. Remove bread triangles from the oven. Place a capsicum piece and a tomato slice on each triangle. Spread cheese sauce generously over the vegetables Sprinkle green chillies on top and toast in the oven till cheese bubbles and turns a light golden. Serve hot.",
+    "prepTime": 10.0,
+    "cookTime": 10,
+    "totalTime": 20,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          24.2,
+          30.0
+        ],
+        "cost_contrib_avg": 27.1
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 63.7,
+      "avg": 73.35,
+      "max": 83.0
+    }
+  }
+]

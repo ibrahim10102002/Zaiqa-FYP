@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Chicken Teriyaki Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Chicken Teriyaki Recipe: Boneless Chicken Breast 2 flattened Marinate with garlic 1 tsp Salt ½ tsp Black pepper ½ tsp Lemon juice 1 tbsp Teriyaki sauce 1 tbsp Ingredients for batter: Flour 3 tbsp heaved Egg 1 Chili powder ¼ tsp Salt ¼ tsp Soy sauce 1 tbsp Baking powder ¼ tsp Oil 1 tbsp Ingredients for sauce: Onion chopped 1 tbsp Coriander leaves 1 tbsp Suree sweet sauce 3 tbsp Vinegar 1 tbsp Soy sauce 1 tbsp Teriyaki sauce 2 tbsp Salt and pepper ½ tsp each Oil 1 tbsp Tomato puree 2 tbsp French fries to serve",
+    "instructions": "Marinate chicken for 30 mins. Dip in prepared batter. Deep fry keep aside. Prepare sauce and spread over fried breast serve with French fries. Heat oil; fry chopped onion for 2 mins. Add all the sauces. Cook for 2 to 3 mins. Pour on top of fried chicken and serve.",
+    "prepTime": 20,
+    "cookTime": 30,
+    "totalTime": 50,
+    "recipeYield": "6",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "onion chopped 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 19.0,
+      "avg": 21.5,
+      "max": 24.0
+    }
+  }
+]

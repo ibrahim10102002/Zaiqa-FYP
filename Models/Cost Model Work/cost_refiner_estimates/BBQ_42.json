@@ -1,0 +1,91 @@
+[
+  {
+    "name": "TENDER CHICKEN NUGGETS Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for TENDER CHICKEN NUGGETS Recipe: Chicken Boneless 1kg Corn Flakes 2 cups Cheddar Cheese ½ cup Salt 1 tsp Black Pepper 1 tsp Garlic Powder 1 tsp Lemon Juice 1 tbsp Milk ½ cup Eggs 2 Oil for frying as required",
+    "instructions": "Make small pieces of boneless chicken and in a dish add ½ cup cheddar cheese, 1 tsp salt, 1 tsp black pepper, 1 tsp garlic powder, 1 tbsp lemon juice and ½ cup milk and mix it properly and keep it for 2 hours. Now mix it properly with your hands so that the masala gets absorbed in it. Now beat 2 eggs and chop the chicken in the eggs and put 2 cup corn flakes and fry it in hot oil.",
+    "prepTime": 20,
+    "cookTime": 25,
+    "totalTime": 45,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      },
+      "milk": {
+        "ingredient_text": "milk ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          19.8,
+          34.8
+        ],
+        "cost_contrib_avg": 27.3
+      },
+      "egg": {
+        "ingredient_text": "eggs 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 265.8,
+      "avg": 312.7,
+      "max": 359.6
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Savayyon Ki Kulfi Recipe | Masala TV",
+    "ingredients": "Ingredients for Savayyon Ki Kulfi Recipe: Fresh Milk 1 liter Khoya 250 gm Vermicelli 1 cup Small Cardamom 8 Chopped Pistachio ½ cup Sugar 2-1/2 cup Chopped Almonds 20-25 Rice Flour 3 tbsp",
+    "instructions": "Boil the vermicelli and blend then make a powder of cardamom and sugar In a skillet put milk and small cardamom and cardamom powder and vermicelli and cook. Now add rice flour ,chopped pistachio and chopped almonds and stir . Then better in thick and khoya and beat well. In the end keep it in fridge and serve chilled .",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          35.6,
+          35.6
+        ],
+        "cost_contrib_avg": 35.6
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 52.1,
+      "avg": 58.35,
+      "max": 64.6
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Hawaiian Sandwiches Recipe | Masala TV",
+    "ingredients": "Ingredients for Hawaiian Sandwiches Recipe: Barbecue chicken 1 cup Pineapple chunks ½ cup Mayonnaise ½ cup Butter 2 tbsp Cream cheese 2 tbsp Crushed black pepper ½ tsp Salt 2 pinch Lettuce leaves as required Bread slices as required Oil 2 tbsp",
+    "instructions": "Take chicken pieces and shred them. Also cut small pieces of pineapple. Now mix butter, cream cheese, crushed black pepper and salt in mayonnaise and mix well. Then add chicken and pineapple pieces in it. Also add finely cut lettuce leaves. Now spread it on bread slices then either grill them or serve cold.",
+    "prepTime": 15.0,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "barbecue chicken 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "black pepper": {
+        "ingredient_text": "crushed black pepper ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          5.38,
+          5.38
+        ],
+        "cost_contrib_avg": 5.38
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 64.89,
+      "avg": 77.64,
+      "max": 90.39
+    }
+  }
+]

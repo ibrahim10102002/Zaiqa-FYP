@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Prawn Shashlik Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Prawn Shashlik Recipe: Cleaned Prawns ½ kg Chili Powder 1 tsp Mustard Powder 1 tsp Salt ½ tsp Worcester Sauce 1 tbsp Garlic Paste 1 tsp Ketchup 2 tbsp Oil 2 tbsp Capsicum 2 cut into cubes Tomatoes 2 cut into cubes Onion 2 cut into cubes Ingredients for BBQ Sauce Butter 1 tbsp Ketchup ½ cup Tabasco 2 tbsp Chili Garlic Sauce 2 tbsp Garlic ½ tsp Fresh Cream ½ cup BBQ Sauce 2 tbsp",
+    "instructions": "FOR BBQ SAUCE Cook all together till thick, serve with shashlik. METHOD FOR SHASHLIK Marinate prawns with all the given ingredients. Leave it for 30 mins. On your skewers put onion, prawns, onion, capsicum, tomatoes, prawns, onion and continue. Grill on grill pan in 2 tbsp oil, adding prepared BBQ Sauce. Serve with rice.",
+    "prepTime": 30,
+    "cookTime": 25,
+    "totalTime": 55,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/sKy_lfawNEg?list=PL_omWBKCy7Em0qkK0BZHE-DZRu3aHA8Ql",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "garlic": {
+        "ingredient_text": "garlic ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          0.98,
+          1.39
+        ],
+        "cost_contrib_avg": 1.18
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 39.98,
+      "avg": 48.43,
+      "max": 56.89
+    }
+  }
+]

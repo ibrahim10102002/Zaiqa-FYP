@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Tandoori Raan Recipe | Tahir Chaudhary | Masala TV",
+    "ingredients": "Ingredients for Tandoori Raan Recipe: 1 pcs Lamb Leg 1tbsp Red Chilli Paste 1tsp Red Chilli Powder 2tbsp Lemon Juice 1tsp Salt 1tsp Tara Chat Masala 1/2 cup Yogurt 1tbsp Garlic 1tbsp Ginger 4tbsp Oil 2tsp Tara Garam Masala 1/2tsp Turmeric 1pinch Ajwain 2pinch Orange Food Color Garnish: Onion Slices 1 Lemon 3 Mint Leaves 1cup Tomato Slices 2 Cucumber Slices 1",
+    "instructions": "Clean the lamb leg, trim the extra fat and wash it under running water. Prick the lamb leg with fork, and marinate it with all ingredients (except garnish) mentioned above. Allow it to rest for 2-3 hours. After that put marinated lamb leg in a pot and allow it to cook gently on slow flame with covered lid. When the meat is almost done Remove the lid and cook on high flame, until the excessive moisture gets evaporated and oil separates. Serve hot with garnish.",
+    "prepTime": 15.0,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "lemon": {
+        "ingredient_text": "lemon 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          96.0,
+          100.5
+        ],
+        "cost_contrib_avg": 98.25
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          88.0,
+          200.0
+        ],
+        "cost_contrib_avg": 144.0
+      },
+      "ajwain": {
+        "ingredient_text": "ajwain 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 350.0,
+        "price_avg": 350.0,
+        "price_high": 350.0,
+        "cost_range": [
+          70.0,
+          70.0
+        ],
+        "cost_contrib_avg": 70.0
+      },
+      "onion": {
+        "ingredient_text": "onion",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "cucumber": {
+        "ingredient_text": "cucumber",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 57.0,
+        "price_avg": 58.5,
+        "price_high": 60.0,
+        "cost_range": [
+          5.7,
+          6.0
+        ],
+        "cost_contrib_avg": 5.85
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 349.7,
+      "avg": 419.6,
+      "max": 489.5
+    }
+  }
+]

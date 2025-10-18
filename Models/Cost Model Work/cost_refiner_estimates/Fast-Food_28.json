@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Fantasy Pizza Bread Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Fantasy Pizza Bread Recipe: Flour 2 cups Instant yeast 2 tbsp Salt 1 tsp Sugar 1 tbsp Milk powder 2 tbsp Oil/butter 2 tbsp Warm water as required For the Filling: Boneless chicken fillets (cubed) 1-2 Salt 1-2 tsp Pepper 1-2 tsp Soya sauce 2 tbsp Garlic 2 tsp Pineapple chunks 3-4 tbsp Cheddar cheese as required Mozzarella cheese as required Olives as required Tomato sauce 2-4 tbsp Egg (beaten) 1 Sesame seeds as required",
+    "instructions": "In a bowl, mix all the ingredients and knead soft dough. Leave the dough to rise. To prepare filling, mix boneless chicken cubes, salt, pepper, soya sauce, garlic, pineapple chunks, cheddar cheese, mozzarella cheese and olives. Roll the dough in round shape and cut it in 8 pieces. Apply tomato sauce and put prepared filling. Brush with a beaten egg. Sprinkle sesame seeds and leave for second proofing. Bake the pizza bread in a pre-heated oven at 200 degrees centigrade for 15 to 20 minutes.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "milk": {
+        "ingredient_text": "milk powder 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          33.0,
+          58.0
+        ],
+        "cost_contrib_avg": 45.5
+      },
+      "chicken": {
+        "ingredient_text": "boneless chicken fillets (cubed) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "garlic": {
+        "ingredient_text": "garlic 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "egg": {
+        "ingredient_text": "egg (beaten) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 216.3,
+      "avg": 260.5,
+      "max": 304.7
+    }
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Qeema Biryani Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Qeema Biryani Recipe: Beef Mince 1 kg Chopped Onions 2 ½ cups Red Chili 1 tbsp Ginger Garlic Paste 1 tbsp Lemon Juice 4 Turmeric 1 tsp Yogurt 1 cup All Spice Powder 1 tsp Mint Leaves a bunch Chopped Green Chilies 8 Biryani Masala 1 cup Oil 1 cup Butter 1 tbsp Fresh Milk 1 cup Yellow Food Color some Salt to taste To Boil Rice: Mint Leaves ½ bunch Green Chilies 3 Salt to taste All Spices some White Vinegar 1 tbsp",
+    "instructions": "In a pan, add in 1 cup oil and add in chopped onion and fry till golden brown. Add in beef mince, salt and 1 tbsp ginger garlic paste. Cook till water dries. Add in 1 tbsp red chili, turmeric, yogurt, lemon juice, mint leaves, chopped green chilies and all spice. Cook it. Add in 2 ½ cup rice, mint leaves, 3 green chilies, salt, all spice and 1 tbsp white vinegar and boil. Drain the water. Grease the pan, layer half rice. Layer mince Then layer rice, add in yellow color, lemon juice and simmer. Simmer and dish it out. Garnish it with fried onion and mint leaves.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "beef": {
+        "ingredient_text": "beef",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          90.0,
+          110.0
+        ],
+        "cost_contrib_avg": 100.0
+      },
+      "onion": {
+        "ingredient_text": "onions 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      },
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 237.5,
+      "avg": 281.75,
+      "max": 326.0
+    }
+  }
+]

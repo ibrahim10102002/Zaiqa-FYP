@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Barbecue Chicken Burger Recipe | Masala TV",
+    "ingredients": "Ingredients for Barbecue Chicken Burger Recipe: Chicken boneless 250 grams Salt ½ tsp Black pepper ½ tsp Mustard paste 1 tsp Garlic paste 1 tsp Barbecue sauce 6 tbsp Burger buns 3 Cheese slices 3 Ice berg (shredded) 1 cup Tomato slice 2 Onions rings 1 medium Potatoes (cut in to chips) 2 cup Bread crumbs 1 cup Oil for frying Mayonnaise 3 tbsp",
+    "instructions": "Make Chicken boneless mince then add garlic powder Add 3 tbsp of barbecue sauce ,bread crumbs ,mustard paste ,salt and black pepper mix . Now make three patties and heat some oil in a pan and fry for 10 minutes and set aside . Then keep slices and spread the mayonise . After this iceburgh and tomatoes slices keep on chicken patty Now onion rings and barbecue sauce on toast Then ready burger then pototoes chips fry in oil and serve with burger .",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken boneless 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          119.0,
+          170.0
+        ],
+        "cost_contrib_avg": 144.5
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          5.38,
+          5.38
+        ],
+        "cost_contrib_avg": 5.38
+      },
+      "garlic": {
+        "ingredient_text": "garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "onion": {
+        "ingredient_text": "onions rings 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "potato": {
+        "ingredient_text": "potatoes (cut in to chips) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          8.8,
+          11.0
+        ],
+        "cost_contrib_avg": 9.9
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 250.69,
+      "avg": 300.78,
+      "max": 350.88
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Namkeen Chicken Boti Zubaida Tariq in Handi Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Namkeen Chicken Boti Zubaida Tariq in Handi Recipe: Chicken Boneless ½ kg Lemons 3 White vinegar ½ cup Oil ½ cup Crushed black pepper 1 tsp Ginger powder 1 tbsp Salt to taste",
+    "instructions": "In a pan, add in boneless chicken, wash it. Add in some salt and ½ cup white vinegar. When the water dries, add in 1 tbsp ginger powder, 1 tsp crushed black pepper Add lemon juice and ½ cup oil. Serve namkeen chicken with nan.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "lemon": {
+        "ingredient_text": "lemons 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          96.0,
+          100.5
+        ],
+        "cost_contrib_avg": 98.25
+      },
+      "black pepper": {
+        "ingredient_text": "crushed black pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      },
+      "ginger": {
+        "ingredient_text": "ginger powder 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 452.4,
+      "avg": 494.15,
+      "max": 535.9
+    }
+  }
+]

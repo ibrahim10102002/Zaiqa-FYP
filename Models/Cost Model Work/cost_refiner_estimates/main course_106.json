@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Hara Masala Mutton Recipe | Masala TV",
+    "ingredients": "Ingredients for Hara Masala Mutton Recipe: Mutton ½ kg Green chilies 8 whole Whole spices mixed 1 tbsp Ginger garlic 1 tsp heaped Water 4 cups Ingredients for masala Brown onion grinded ½ cups Green chilies 15grinded into a paste Coriander leaves grinded half bunch Ginger garlic 1 tsp Cumin roasted and crushed 1 tsp heaped Coriander 1 tbsp Yogurt 1 cup Salt 1 tsp Oil ½ cup",
+    "instructions": "Boil mutton with whole spices, ginger garlic and 4 cups of water till nearly tender, keep aside Heat oil in a pan Add grinded hara masala with ginger garlic paste Now add brown onion , yogurt beaten, coriander, cumin, salt 1 tsp fry well add boiled mutton with 1 cup water Leave it on slow fire for 15 minutes.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "brown onion grinded ½ cups",
+        "qty": 0.5,
+        "unit": "cups",
+        "grams": 50.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          9.5,
+          12.0
+        ],
+        "cost_contrib_avg": 10.75
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 48.5,
+      "avg": 58.0,
+      "max": 67.5
+    }
+  }
+]

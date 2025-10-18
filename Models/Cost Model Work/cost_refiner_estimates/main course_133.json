@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Kasturi Handi Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Kasturi Handi Recipe: Boneless Chicken ½ kg 1 inch cube Crushed Red Pepper 1 tbsp Ginger Garlic 1 tbsp Cheese Slices 2 to 3 Lemon Juice ¼ cup Onion 2 chopped Butter 2 ounce White Cumin Roasted and Crushed 1 tsp Oil ¼ cup Black Pepper Crushed 1 tsp Salt 1 tsp Roasted Gram Grinded 2 tbsp Almonds Grinded 2 tbsp Pistachio Grinded 2 tbsp White Cumin Seeds Grinded 1 tsp",
+    "instructions": "Marinate chicken with all grinded spices, crushed red pepper, salt, ginger garlic, crushed black pepper, leave it for 30 minutes, heat butter and oil in a handi, add marinated chicken, cover and cook till chicken tender and mixture dry. Add lemon juice, serve garnish with cheese slices in a small handi.",
+    "prepTime": 25.0,
+    "cookTime": 20,
+    "totalTime": 45,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken ½ kg 1",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      },
+      "onion": {
+        "ingredient_text": "onion 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 428.5,
+      "avg": 520.25,
+      "max": 612.0
+    }
+  }
+]

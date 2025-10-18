@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Masala Murgh Sabzi Recipe | Masala TV",
+    "ingredients": "Ingredients for Masala Murgh Sabzi Recipe: Chicken (boneless) ½ kg Crushed red chili 1 tsp Turmeric ½ tsp Salt ½ tsp Cumin 1 tsp Soy sauce 1 tbsp Worcestershire sauce 1 tbsp Ketchup 4 tbsp Capsicum 2 Onion 2 Carrot 2 Green chilies 3 Butter 4 tbsp Oil 4 tbsp Ginger garlic 1 tbsp Tomato 1",
+    "instructions": "Heat oil and add ginger garlic. By the time add chicken and tomato and saute well. Now add crushed red chili, turmeric, salt, cumin, soy sauce, Worcestershire sauce and ketchup and cover for 10 minutes. In a separate pan heat oil and butter and slightly fry finely cut vegetables in it. Now add them in chicken. Then add green chilies and put it on dum for 5 minutes.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken (boneless) ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          46.0,
+          48.0
+        ],
+        "cost_contrib_avg": 47.0
+      },
+      "onion": {
+        "ingredient_text": "onion 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 420.5,
+      "avg": 498.5,
+      "max": 576.5
+    }
+  }
+]

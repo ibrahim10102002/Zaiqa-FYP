@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Lab-e-Shireen Recipe | Masala TV",
+    "ingredients": "Ingredients for Lab-e-Shireen Recipe: Mix Fruit 1-1cup Green Jelly 1 cup Red Jelly 1 cup Cream 1 cup Milk 300ml Sugar 1/2 cup Custard Powder 2 tbsp Almond (chopped) 1/4 cup Red Syrup 2 tbsp Vermicelli (boiled)",
+    "instructions": "First, prepare the custard. Mix the custard powder separately in a small bowl with about 2 tbsp. of milk. Pour the remainder of the 300ml in a pan with the sugar and a few drops of red narus (to turn the custard pink) and bring it to almost boiling point then lower the heat. Add the custard mixture and keep stirring until the mixture thickens (for about 2-3 minutes) then turn off the heat. Set the custard aside to cool.,add the liquid cream and naurus sherbat and mix well. Then add the drained fruit cocktail, crushed nuts and boiled vermicelli. garnish with jelly. Chil in refrigerate and chill to serving.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          49.5,
+          87.0
+        ],
+        "cost_contrib_avg": 68.25
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 67.3,
+      "avg": 86.05,
+      "max": 104.8
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Bun Kabab Recipe | Masala TV",
+    "ingredients": "Ingredients for Bun Kabab Recipe: For bun: White flour ½ kg Yeast 3 tbsp Eggs 2 Baking powder 2 tsp Sugar 2 to 3 tbsp Salt to taste For kabab: Beef mince 300 gm Boiled gram 100 gm Ginger garlic paste 1 tbsp All spice powder 1 tsp Cumin powder 1 tbsp Red chili powder 1 tbsp Crushed black pepper ½ tsp Eggs 3 to 4 Bread slices 2 to 3 Oil for fry Salt to taste For serving: Tomato 1 to 2 Cucumber 1 to 2 Onion rings 1 Khati meethi podina chutney as required",
+    "instructions": "For bun: in a mixing bowl add ½ kg white flour, 3 tbsp yeast, sugar Add 2 tsp baking powder and salt to taste to mix and knead. Leave it on a warm place. When it rises set a mould and leaves it for ½ an hour. Then bake it in oven on 200c for 12 to 15 minutes and put it on a side. For kabab: in a pan add 300 gm beef mince, 100 gm boiled chick peas, 1 tbsp red chili powder Add 1 tsp all spice powder, ½ tsp crushed black pepper Add 1 tbsp ginger garlic paste and salt to taste to cook till water dries. Then put all in a chopper with 2 to 3 bread slices and grind them to make patty. Then whisk 3 to 4 eggs. Heat oil in a pan and dip patty in eggs and deep fry and put it on a side. For serving, cut buns from center and spread chutney both sides and put patty on a side with 1 ring of onion and put other piece on top Serve with chutney and ketchup to serve.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "eggs 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          84.0,
+          98.7
+        ],
+        "cost_contrib_avg": 91.35
+      },
+      "sugar": {
+        "ingredient_text": "sugar 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          35.6,
+          35.6
+        ],
+        "cost_contrib_avg": 35.6
+      },
+      "beef": {
+        "ingredient_text": "beef mince 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          270.0,
+          330.0
+        ],
+        "cost_contrib_avg": 300.0
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "black pepper": {
+        "ingredient_text": "crushed black pepper ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          5.38,
+          5.38
+        ],
+        "cost_contrib_avg": 5.38
+      },
+      "cucumber": {
+        "ingredient_text": "cucumber 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 57.0,
+        "price_avg": 58.5,
+        "price_high": 60.0,
+        "cost_range": [
+          5.7,
+          6.0
+        ],
+        "cost_contrib_avg": 5.85
+      },
+      "onion": {
+        "ingredient_text": "onion rings 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 514.68,
+      "avg": 567.84,
+      "max": 620.99
+    }
+  }
+]

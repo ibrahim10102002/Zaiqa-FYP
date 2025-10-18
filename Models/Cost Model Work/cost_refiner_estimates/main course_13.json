@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Lebanese Kabab Recipe | Masala TV",
+    "ingredients": "Ingredients for Lebanese Kabab Recipe: Beef mince ½ kg Lamb fat (optional) 1 cup Parsley 1 bunch Minced onion 1 large Cumin seeds 1 tbsp Garlic 1 tbsp Salt 1 tsp White pepper 1 tsp Oregano 1 tsp Cinnamon powder 1 tsp Bread crumbs 2 cups Oil 6 tbsp",
+    "instructions": "In a bowl add all the ingredients except oil and mix well. Then grind and make long kabab. Now heat oil in a pan and fry kabab on high heat for 2 to 3 minutes. Then lower the heat and cook for further 8 to 10 minutes. Serve.",
+    "prepTime": 20.0,
+    "cookTime": 10,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "beef": {
+        "ingredient_text": "beef mince ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          450.0,
+          550.0
+        ],
+        "cost_contrib_avg": 500.0
+      },
+      "onion": {
+        "ingredient_text": "minced onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "white pepper": {
+        "ingredient_text": "white pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 3074.0,
+        "price_avg": 3074.0,
+        "price_high": 3074.0,
+        "cost_range": [
+          307.4,
+          307.4
+        ],
+        "cost_contrib_avg": 307.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 815.4,
+      "avg": 876.15,
+      "max": 936.9
+    }
+  }
+]

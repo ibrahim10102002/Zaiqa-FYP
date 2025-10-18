@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Cuban Sandwich Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Cuban Sandwich Recipe: For Sandwich Bread: All Purpose Flour 2 cups Yeast 1 tbsp Sugar 1 tsp Baking Powder 2 tsp Egg 1 Butter ½ cup Milk as required Salt to taste For Filling Beef (Slices) 300 grams Garlic Paste 1 tbsp Onion 1 Cumin Seeds ½ tsp Crushed Black Pepper ½ tsp Orange Juice ½ cup Lemon Juice 2 tbsp Mustard Paste 1 tbsp Red Chilies (Chopped) 2-3 Oregano ¼ tsp Mustard Sauce as required Cheese Slice 3-4 Oil 2-3 tbsp Salt to taste",
+    "instructions": "For sand which bread: Take a luke warm water add 1 tbsp of yeast and 1 tsp of sugar dissolve it and leave it for 15 minutes. Take a mixing bowl add 2 cups of all purpose flour, 2 tsp of baking powder, add to taste salt, 1 egg, ½ cup of butter, mix it well when yeast mixture is raised add it into the mixture and make a dough with as required milk. Now dough is ready cover with plastic cling when the dough is raised, set it on the bread mold and bake it on 200 C. For filling: Take a cooking pan, heat the oil add 1 tbsp of garlic paste, 1 finely chopped onion and fry add 300 grams of beef slices then add ½ tsp of black pepper, ½ cup of orange juice, 2 tbsp of lemon juice, 2-3 chopped red chilies, ¼ tsp of oregano and add to taste salt mix it well and roasted. At last add 1 tbsp of mustard paste mix it well and take it out. For assembling: take a bread cut into the middle add 3-4 slices of cheese and add filling and as required mustard sauce and bake it for 5-10 minutes on 200 C. when sand which is ready take it out in a serving platter and serve it.",
+    "prepTime": 20.0,
+    "cookTime": 25,
+    "totalTime": 45,
+    "recipeYield": "3",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "milk": {
+        "ingredient_text": "milk as required",
+        "qty": 1.0,
+        "unit": "as required",
+        "grams": 5,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          0.83,
+          1.45
+        ],
+        "cost_contrib_avg": 1.14
+      },
+      "beef": {
+        "ingredient_text": "beef (slices) 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          270.0,
+          330.0
+        ],
+        "cost_contrib_avg": 300.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 406.62,
+      "avg": 450.89,
+      "max": 495.15
+    }
+  }
+]

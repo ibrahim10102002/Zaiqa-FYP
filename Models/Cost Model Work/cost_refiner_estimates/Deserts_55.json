@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Sesame Peanut Candy Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Sesame Peanut Candy Recipe: Sugar 2 cups White Vinegar ½ cups Roasted Sesame ½ cup Roasted Peanuts ½ cup Butter 2-3 tbsp Butter Paper as required",
+    "instructions": "Take 2 cups sugar, ½ cup vinegar and water in the pan. Cook it all the mixture turns brown. Add in 1 cup 1 cup roasted peanuts and ½ cup roasted sesame mixture. Spread 2-3 tbsp butter on the butter paper and put the mixture over it. Cool it cut it into pieces and serve.",
+    "prepTime": 20,
+    "cookTime": 15,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          35.6,
+          35.6
+        ],
+        "cost_contrib_avg": 35.6
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 35.6,
+      "avg": 35.6,
+      "max": 35.6
+    }
+  }
+]

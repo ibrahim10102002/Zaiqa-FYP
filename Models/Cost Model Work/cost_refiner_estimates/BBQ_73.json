@@ -1,0 +1,63 @@
+[
+  {
+    "name": "BBQ White Chicken Boti Masala Recipe | Masala TV",
+    "ingredients": "Ingredients for BBQ White Chicken Boti Masala Recipe: White cumin seeds 6 tbsp Black peppercorns 3 tbsp Cinnamon 2-3 sticks Cloves 3 Big cardamom 1 tsp White pepper 1 tbsp All spice powder ½ tsp Nutmeg 1 tsp",
+    "instructions": "Roast White cumin seeds, Black peppercorns, Add Cinnamon, Cloves , Big cardamom, White pepper All spice powder, Nutmeg together and grind it in the grinder.",
+    "prepTime": 10,
+    "cookTime": 10,
+    "totalTime": 20,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "black pepper": {
+        "ingredient_text": "black peppercorns 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          646.2,
+          646.2
+        ],
+        "cost_contrib_avg": 646.2
+      },
+      "white pepper": {
+        "ingredient_text": "white pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 3074.0,
+        "price_avg": 3074.0,
+        "price_high": 3074.0,
+        "cost_range": [
+          307.4,
+          307.4
+        ],
+        "cost_contrib_avg": 307.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1013.1,
+      "avg": 1025.85,
+      "max": 1038.6
+    }
+  }
+]

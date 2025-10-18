@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Cottage Cheese kay Tikkay Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Cottage Cheese kay Tikkay Recipe: Cottage cheese 2 packet Lemon 2 Green chilies chopped 4 Coriander leaves ½ bunch Cumin seeds roasted and crushed 1 tsp Crushed red pepper 1 tbsp Tikka Masala 1 tbsp Oil 2 tbsp Crushed black pepper ½ tbsp Salt to taste",
+    "instructions": "Marinate cheese cubes with 1 tsp roasted crushed cumin seeds Add 1 tbsp crushed red pepper, 1 tbsp tikka Masala, ½ tbsp crushed black pepper, salt to taste and juice of 2 lemon. Keep aside for 5 to 10 minutes. Heat griller and fry marinated cheese over low flame from both sides. Lastly garnish with 4 chopped green chilies and ½ bunch of chopped coriander leaves. Serve hot.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "lemon": {
+        "ingredient_text": "lemon 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      },
+      "black pepper": {
+        "ingredient_text": "crushed black pepper ½ tbsp",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "grams": 7.5,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          16.16,
+          16.16
+        ],
+        "cost_contrib_avg": 16.16
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 80.16,
+      "avg": 81.66,
+      "max": 83.16
+    }
+  }
+]

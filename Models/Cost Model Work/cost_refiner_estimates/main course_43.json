@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Bombay Biryani Recipe | Masala TV",
+    "ingredients": "Ingredients for Bombay Biryani Recipe: Meat (mutton or chicken) 1 kg Basmati rice 1 kg Potatoes 4 large Lemon 4 Cloves 4 Onion chopped 4 Green chilies 6 Green cardamom 6 Black cardamom 6 Tomatoes chopped 6 Dried plum 1 cup Hot milk 1 cup Oil 1 cup Yogurt 1 cup Mint leaves 1 bunch Black cumin seeds 1 tsp Chili powder 1 tbsp Yellow color ¼ tsp Coriander powder 2 tbsp Ginger garlic paste 1 ½ tbsp Salt to taste",
+    "instructions": "Wash 1 kg chicken, marinate with 1 cup yogurt, 1 ½ tbsp ginger garlic paste Add 1 tbsp chili powder, 2 tbsp coriander powder Add juice of 2 lemon, 1 bunch of mint leaves, 6 green chilies, 1 cup plum and salt to taste for 30 minutes. Heat 1 cup oil in pan, add 4 chopped onion and fry till golden brown Remove half of the fried onion and spread on a paper. Now add the marinated meat to pan. Fry well till water dries. Boil potatoes in steam, cut each into 4 pieces and fry in oil. Also cut tomatoes in four pieces each. Fry tomato pieces and add with fried potatoes to the chicken mixture. Boil 1 kg basmati rice with mint leaves, 6 green chilies, 6 black pepper Add 4 cloves, salt to taste and water as required till half done. Now drain out water and keep aside. Grease another pan and make a layer of boiled rice. Top with chicken mixture, again top with remaining boiled rice. Sprinkle the leftover fried onion. Dissolve ¼ tsp yellow color in 1 cup hot milk. Pour on top of boiled rice. Also pour juice of 2 lemons and simmer for 10 minutes. Serve hot.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "meat (mutton or chicken) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "basmati rice": {
+        "ingredient_text": "basmati rice 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 296.0,
+        "price_avg": 296.0,
+        "price_high": 296.0,
+        "cost_range": [
+          29.6,
+          29.6
+        ],
+        "cost_contrib_avg": 29.6
+      },
+      "potato": {
+        "ingredient_text": "potatoes 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          17.6,
+          22.0
+        ],
+        "cost_contrib_avg": 19.8
+      },
+      "lemon": {
+        "ingredient_text": "lemon 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          128.0,
+          134.0
+        ],
+        "cost_contrib_avg": 131.0
+      },
+      "onion": {
+        "ingredient_text": "onion chopped 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          76.0,
+          96.0
+        ],
+        "cost_contrib_avg": 86.0
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes chopped 6",
+        "qty": 6.0,
+        "unit": "unit",
+        "grams": 600.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          145.2,
+          180.0
+        ],
+        "cost_contrib_avg": 162.6
+      },
+      "milk": {
+        "ingredient_text": "hot milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 511.4,
+      "avg": 571.25,
+      "max": 631.1
+    }
+  }
+]

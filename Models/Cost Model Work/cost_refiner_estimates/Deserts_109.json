@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Khoya Custard Recipe | Masala TV",
+    "ingredients": "Ingredients for Khoya Custard Recipe: Milk 1 litre Bread Slices 2 Custard Powder 4tbsp Cream 1 packet Sugar 1 cup Vanilla Essence ½ tsp Khoya 250 gm Almonds 50 gm Pistachios 50 gm Desiccated Coconut 50 gm Oil (for frying)",
+    "instructions": "Cut bread slices into pieces and fry.Now cook milk When boil comes add sugar and stir.In a custard powder add water and mix. After this, add milk.When custard is thick Add vanilla essence and take it out in a dish. Then spread bread slices, pour custard, khoya Add almonds, pistachios, desiccate coconut, cream and let it cool.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "coconut": {
+        "ingredient_text": "coconut 5",
+        "qty": 5.0,
+        "unit": "unit",
+        "grams": 500.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          225.0,
+          225.0
+        ],
+        "cost_contrib_avg": 225.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 259.3,
+      "avg": 265.55,
+      "max": 271.8
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Gulab Jamun Custard Recipe | Masala TV",
+    "ingredients": "Ingredients for Gulab Jamun Custard Recipe: For custard: Milk ½ liter Vanilla custard powder 3 tbsp Cream ½ cup Sugar 5 tbsp Big gulab jamun 8-10 Pistachios (finely cut) as required Whipped cream as required",
+    "instructions": "First set gulab jamun cut in half in a dish. Now add sugar in milk and cook until sugar gets completely dissolved. Then mix vanilla custard powder in ½ cup water and add it in milk and cook until it gets thick. Now add cream and mix well Pour this custard over gulab jamun and let it cool down completely. Then garnish with cream and sprinkle pistachios as well.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk ½ liter",
+        "qty": 0.5,
+        "unit": "liter",
+        "grams": 500.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          82.5,
+          145.0
+        ],
+        "cost_contrib_avg": 113.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar 5",
+        "qty": 5.0,
+        "unit": "unit",
+        "grams": 500.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          89.0,
+          89.0
+        ],
+        "cost_contrib_avg": 89.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 171.5,
+      "avg": 202.75,
+      "max": 234.0
+    }
+  }
+]

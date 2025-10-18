@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Dahi Qeema Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Dahi Qeema Recipe: Mince ½ kg Oil ¼ cup Butter ¼ cup Yogurt 2 cups hanged Onion chopped 1 cup Ginger garlic paste 1 tbsp Salt 1 tsp Chili Powder 2 tsp Turmeric ½ tsp Coriander powder 1 tsp heaped Coriander leaves 2 â 3 tbsp Green chilies sliced 4 Allspice ½ tsp",
+    "instructions": "Heat oil, fry onion till light golden. Add ginger garlic paste fry for 2 min. Add all the dry seasonings with mince. Fry well add one cup water, cover and cook for 20 min. Then add hung curd, cook for 5 min, lastly add allspice and chopped greens.",
+    "prepTime": 30,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "2-3",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "onion chopped 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 58.0,
+      "avg": 68.75,
+      "max": 79.5
+    }
+  }
+]

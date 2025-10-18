@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Leg Roast Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Leg Roast Recipe: Mutton Leg 1 ½ Kg Yogurt ½ kg Ginger Powder 3 tbsp Salt to taste Black Pepper (crushed) 1 tbsp Lemons 5 Raw Papaya Paste 3 tbsp Soya Sauce 1 tbsp White Vinegar 1 cup Corn Flour 2 tbsp Oil as required",
+    "instructions": "Remove the bone from the meat and put cuts on it. Wash it and add in 3 tbsp ginger powder, 5 lemon juice, 3 tbsp papaya paste and salt. Use fork to let Masala be on the whole meat place. Now keep it marinated for 2 hours. Cook it in the same pan on a low flame. When the meat tenders add in 2 tbsp oil. Then add in 1 tbsp soya sauce and 2 tbsp corn flour (dissolved in some water). Cook it till the greasy sauce is prepared. Simmer it for 15 minutes. Serve it with fried potatoes and tomatoes.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          160.0,
+          200.0
+        ],
+        "cost_contrib_avg": 180.0
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "lemon": {
+        "ingredient_text": "lemons 5",
+        "qty": 5.0,
+        "unit": "unit",
+        "grams": 500.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          160.0,
+          167.5
+        ],
+        "cost_contrib_avg": 163.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 342.0,
+      "avg": 379.75,
+      "max": 417.5
+    }
+  }
+]

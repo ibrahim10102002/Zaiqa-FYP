@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Honey BBQ Chicken Wings Recipe | Masala TV",
+    "ingredients": "Ingredients for Honey BBQ Chicken Wings Recipe: Chicken wings with skin ½ kg Flour 1 cup Eggs 2 Oil for fry Salt 1 tsp Honey ½ cup Barbecue sauce ½ cup Sesame seeds (roasted) 2 tbsp Garlic powder 1 tsp",
+    "instructions": "Chicken wings cut in two pieces then add salt and garlic powder mix . Now coat in eggs and flour and fry for 6 to 8 minutes and set aside . Then in pan roasted sesame, honey, garlic powder. Add barbecue sauce, and 1 cup of water and cook for 5 minutes . Now fold chicken wings and serve it.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken wings with skin ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "egg": {
+        "ingredient_text": "eggs 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      },
+      "garlic": {
+        "ingredient_text": "garlic powder 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 452.0,
+      "avg": 541.65,
+      "max": 631.3
+    }
+  }
+]

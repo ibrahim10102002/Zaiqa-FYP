@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Ras Malai Recipe | Tahir Chaudhary | Masala TV",
+    "ingredients": "Ingredients for Ras Malai Recipe: 1 cup paneer ( 200 grm) 1 egg yolk 1/4 tsp baking soda 2 tsp corn flour 1 tsp flour 1 tsp green cardamom powder 1 cup sugar 1 ltr milk 8-10 almonds 8-10 pistachios",
+    "instructions": "First mix paneer, 1/2 tsp green cardamom powder, corn flour, flour and begin to knead with the heels of Palm When u feel ur palm becomes a bit greasy then stop kneading. Now add egg yolk and mix again untill become smooth greasy gough. Now pinch small portions from the dough and roll them between your palms to a smooth round balls, and keep them in a tray. Now boil and simmer milk with 1/2 tsp green cardamom powder and sugar When milk is on boiling point then add balls and flame turns into very low. Cook the balls for few mints untill become double in size. Garnish with almonds and pistachio. Serve chilled.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "egg yolk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "corn flour": {
+        "ingredient_text": "tsp corn flour 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 87.0,
+        "price_avg": 87.0,
+        "price_high": 87.0,
+        "cost_range": [
+          8.7,
+          8.7
+        ],
+        "cost_contrib_avg": 8.7
+      },
+      "sugar": {
+        "ingredient_text": "cup sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "milk": {
+        "ingredient_text": "ltr milk 8",
+        "qty": 8.0,
+        "unit": "unit",
+        "grams": 800.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          132.0,
+          232.0
+        ],
+        "cost_contrib_avg": 182.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 186.5,
+      "avg": 238.95,
+      "max": 291.4
+    }
+  }
+]

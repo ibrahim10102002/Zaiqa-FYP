@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Mughlai Biryani Recipe | Masala TV",
+    "ingredients": "Ingredients for Mughlai Biryani Recipe: Rice boiled (half done) 750 gm with cloves and bay leaf Chicken 1 kg 12 pcs Potatoes 4 cut into big pcs Salt 1½ tsp heaped Ginger garlic 2 tbsp heaped Black cumin ½ tsp heaped White cumin 1½ tsp Cloves 6 Green cardamom 6 Cinnamon 1 stick or all coarsely grinded Chili powder 3 tsp heaped Nutmeg ½ tsp grind Maze ½ tsp grinded Brown onion 4 tbsp + 2 tbsp Yogurt 2 cups Lemon juice ¼ cup Hot water ½ cup Turmeric ½ tsp Oil ¾ cup Orange color ¼ tsp",
+    "instructions": "Mix all the above ingredients together in a large pan and leave it for 2 hours Then add ½ cup of hot water and ¾ cup oil, top with boiled rice Then mix orange color with ¼ cup water and put on the rice Cook on medium flame for 45 mins, mix and remove.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "potato": {
+        "ingredient_text": "potatoes 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          17.6,
+          22.0
+        ],
+        "cost_contrib_avg": 19.8
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "onion": {
+        "ingredient_text": "brown onion 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          76.0,
+          96.0
+        ],
+        "cost_contrib_avg": 86.0
+      },
+      "lemon": {
+        "ingredient_text": "lemon juice ¼ cup",
+        "qty": 0.25,
+        "unit": "cup",
+        "grams": 60.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          19.2,
+          20.1
+        ],
+        "cost_contrib_avg": 19.65
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 250.3,
+      "avg": 292.2,
+      "max": 334.1
+    }
+  }
+]

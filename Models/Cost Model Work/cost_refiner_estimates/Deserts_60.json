@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Chocolate Ice Cream Cup Cake Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Chocolate Ice Cream Cup Cake Recipe: Pound cake 1 Fresh cream (whipped) ¾ cup Icing Sugar ½ cup Chocolate Ice cream 6 scoops Caramel Chocolate Bars 6 bars",
+    "instructions": "Arrange 12 paper liners in a 12 cup muffin tin. Cut pound cake into ½ inch â thick slices. Use a 2 inch biscuit cutter to cut 12 circles from slices. Place circles in bottoms of cupcake liners. Combine cream and icing sugar in a bowl and whip with a beater. Scoop ice cream into a large bowl, add crushed chocolate in it Top each pound- cake circle with a scoop of ice cream and cover with whipped cream. Lastly sprinkle it with reaming crushed chocolate.",
+    "prepTime": 45,
+    "cookTime": 60,
+    "totalTime": 105,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          21.36,
+          21.36
+        ],
+        "cost_contrib_avg": 21.36
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 21.36,
+      "avg": 21.36,
+      "max": 21.36
+    }
+  }
+]

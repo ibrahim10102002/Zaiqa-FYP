@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Choco Delight Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Choco Delight Recipe: Digestive Biscuits 1packet Butter 2 tbsp Milk 1 liter Sugar 4 tbsp Cocoa Powder 2 tbsp Corn Flour 2 tbsp Whipped Cream 1 packet Walnuts (chopped) ½ cup Chocolate for garnishing",
+    "instructions": "Crush biscuits, mix it with butter and set this as a base in a dish. Refrigerate it. Cook milk and sugar together in a pan. Mix cocoa powder and corn flour with milk, make a fine paste. Add this paste to the milk and remove it to a bowl, leave it to cool. Now pour this custard mixture to the base. Add whipped cream. Lastly garnish it with nuts and chocolate.",
+    "prepTime": 160,
+    "cookTime": 180,
+    "totalTime": 340,
+    "recipeYield": "4-6",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          71.2,
+          71.2
+        ],
+        "cost_contrib_avg": 71.2
+      },
+      "hing": {
+        "ingredient_text": "chocolate for garnishing",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 6200.0,
+        "price_avg": 6200.0,
+        "price_high": 6200.0,
+        "cost_range": [
+          620.0,
+          620.0
+        ],
+        "cost_contrib_avg": 620.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 707.7,
+      "avg": 713.95,
+      "max": 720.2
+    }
+  }
+]

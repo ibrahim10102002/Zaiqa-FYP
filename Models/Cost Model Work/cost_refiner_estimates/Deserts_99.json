@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Gur Papdi Recipe | Masala TV",
+    "ingredients": "Ingredients for Gur Papdi Recipe: Wheat flour 200 gm Edible gum 75 gm Almonds pistachio sliced ½ cup each Cardamom powder 1 tsp Ghee 200 gm Jiggery 250 gm (glass jiggery) Poppy seeds 4 tbsp Grated coconut 3 tbsp",
+    "instructions": "Heat 100 gm ghee and fry edible gum when it swells remove from fire cool and crushed In the same pan add remaining 100 gm ghee fry wheat flour for 10 minutes till nice aroma released Add poppy seeds, grinded green cardamom, nuts Remove from fire add crushed gum, jiggery, mix well Again cook for 2 minutes, stirring continuously Spread evenly in a greased thali, cut in pieces.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "coconut": {
+        "ingredient_text": "grated coconut 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          135.0,
+          135.0
+        ],
+        "cost_contrib_avg": 135.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 135.0,
+      "avg": 135.0,
+      "max": 135.0
+    }
+  }
+]

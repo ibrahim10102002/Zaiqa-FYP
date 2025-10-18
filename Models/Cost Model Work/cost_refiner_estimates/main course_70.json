@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Mixed Dal Makhani Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Mixed Dal Makhani Recipe: Whole Red Lentils 1 cup Bengal Gram 1 cup White Lentils 1 cup Tamarind Pulp 1 cup Lemon Juice 4 tbsp Onion 1 Tomatoes 2 Garlic Cloves 4 Cumin Seeds 1 tsp Salt 1 â ½ tsp Mustard Seeds 1 tsp Turmeric Powder 1 tsp Red Chili 1 â ½ tsp Green Chilies 6 Oil ½ cup Butter 100 gms",
+    "instructions": "Boiled whole red lentils, Bengal gram, white lentils and mix it. In a separate, heat oil adds onion until brown. Then add garlic cloves, tomatoes, cumin seeds, green chilies, salt, mustard seeds, turmeric powder, red chili powder and fry. Now lentils mix. In the end, add tamarind pulp, lemon juice, simmer for 5 minutes. Removes from the stove, and pour butter.",
+    "prepTime": 20.0,
+    "cookTime": 30,
+    "totalTime": 50,
+    "recipeYield": "6",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          48.4,
+          60.0
+        ],
+        "cost_contrib_avg": 54.2
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 138.4,
+      "avg": 155.7,
+      "max": 173.0
+    }
+  }
+]

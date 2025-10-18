@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Donut Kabab Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Donut Kabab Recipe: Beef Mince ½ kg Onion 2 Large Potatoes (medium) 2 Green Chilies 6 Chana Daal 4 tbsp Ginger Garlic 1 tbsp Eggs 2 Mint (chopped) ½ bunch All spice 1 tsp Black Pepper ½ tsp Coriander Leaves (chopped) ½ bunch Red Pepper (crushed) 1 tsp",
+    "instructions": "Cook together meat. Ginger garlic paste, salt, daal, onions & potatoes & boil with 2 cups water till water dries off completely. Cool add green chilies & blend well, than add in all the rest of the ingredients. Mix well. Shape the meat into a round shape, cut with doughnut cutter and fry them on high flame.",
+    "prepTime": 45.0,
+    "cookTime": 60,
+    "totalTime": 105,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "beef": {
+        "ingredient_text": "beef",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          90.0,
+          110.0
+        ],
+        "cost_contrib_avg": 100.0
+      },
+      "onion": {
+        "ingredient_text": "onion 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "potato": {
+        "ingredient_text": "potatoes (medium) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          8.8,
+          11.0
+        ],
+        "cost_contrib_avg": 9.9
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "egg": {
+        "ingredient_text": "eggs 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 253.8,
+      "avg": 297.05,
+      "max": 340.3
+    }
+  }
+]

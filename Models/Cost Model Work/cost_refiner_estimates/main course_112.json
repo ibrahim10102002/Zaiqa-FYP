@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Chicken Cheese Handi Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Chicken Cheese Handi Recipe: Boneless chicken ½ kg Onion 1 large Turmeric ½ tsp Chili powder ½ tsp Water 2 cups Tomatoes 2 Ghee 2 tbsp Yogurt 2 tbsp Oil ½ cup Crushed garlic 1 tbsp White cumin seeds 1 tsp Tomatoes 2 chopped Crushed red pepper 1 tsp heaped Roasted and crushed cumin 1 tsp Allspice 1 tsp Chili sauce 1 tbsp Soya sauce 1 tbsp Butter 2 tbsp Cream 2 tbsp Pinch of zarda color Grated cheddar cheese 3 tbsp Coriander leaves chopped 2 tbsp Green chilies 2 chopped",
+    "instructions": "Boil together 1 large onion, turmeric, chili powder, 2 tomatoes, 2 tbsp ghee and 2 tbsp curd with 2 cups of water, cook for 15 minutes when onion tender, blend and keep aside. Heat oil in a handi, add crushed garlic and white cumin seeds, when light brown add blended onion mixture, add in above onion mixture with 2 extra chopped tomatoes and fry well. Add crushed pepper, crushed cumin, salt, fry well add boneless chicken ½ kg, cover and cook till chicken tender lastly add allspice, chili sauce, soya sauce, butter, cream, yellow color, grated cheese, leave it on dum, lastly add chopped coriander and green chilies.",
+    "prepTime": 15.0,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "boneless chicken ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          48.4,
+          60.0
+        ],
+        "cost_contrib_avg": 54.2
+      },
+      "garlic": {
+        "ingredient_text": "crushed garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 511.8,
+      "avg": 610.65,
+      "max": 709.5
+    }
+  }
+]

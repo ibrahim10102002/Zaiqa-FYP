@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Nariyal ki Mithai Recipe | Masala TV",
+    "ingredients": "Ingredients for Nariyal ki Mithai Recipe: Coconut powder 250gm Sugar 200gm Coconut crushed 100gm Milk powder 250gm Raisin 50gm Almonds chopped 50gm Water 1cup",
+    "instructions": "Cook sugar and water till it becomes thick mixture Now add coconut powder & milk powder Then add almonds and raisin Now sprinkle chopped coconut & cut like cubes and serve chilled",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "coconut": {
+        "ingredient_text": "coconut crushed 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          45.0,
+          45.0
+        ],
+        "cost_contrib_avg": 45.0
+      },
+      "sugar": {
+        "ingredient_text": "sugar 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          35.6,
+          35.6
+        ],
+        "cost_contrib_avg": 35.6
+      },
+      "milk": {
+        "ingredient_text": "milk powder 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          33.0,
+          58.0
+        ],
+        "cost_contrib_avg": 45.5
+      },
+      "rai": {
+        "ingredient_text": "raisin 5",
+        "qty": 5.0,
+        "unit": "unit",
+        "grams": 500.0,
+        "price_low": 805.0,
+        "price_avg": 805.0,
+        "price_high": 805.0,
+        "cost_range": [
+          402.5,
+          402.5
+        ],
+        "cost_contrib_avg": 402.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 606.1,
+      "avg": 618.6,
+      "max": 631.1
+    }
+  }
+]

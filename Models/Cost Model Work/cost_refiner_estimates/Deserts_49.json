@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Mafruka Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Mafruka Recipe: Semolina 500 grams Condense Milk 1 tin Corn Flour 1 tbsp Sugar 2 cup Dry Fruit as required Clarified Butter 1 cup Jam-e-Shirin as required",
+    "instructions": "Take a cooking pot add as required water and 2 cups of sugar and make a sugar syrup and set a side. Take another pan add 1 cup of clarified butter add 500 grams of semolina and roast the semolina Then add sugar syrup and let it cool down Take another sauce pan heat 1 tin of condense milk add as required dry fruits and 1 tbsp corn flour mix it well . Then spread the semolina mixture in grease proof tray pour the condense milk mixture in it chilled in refrigerator and serve it.",
+    "prepTime": 20,
+    "cookTime": 15,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          35.6,
+          35.6
+        ],
+        "cost_contrib_avg": 35.6
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 52.1,
+      "avg": 58.35,
+      "max": 64.6
+    }
+  }
+]

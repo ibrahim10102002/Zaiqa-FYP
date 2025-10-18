@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Smoked Beans Salad Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Smoked Beans Salad Recipe: Baked beans 1 tin Rajma 1 tin Sweet Corn 1 cup Spring Onions (chopped) half cup Capsicum (cubed) 1 Salt ½ tsp Black Pepper ½ tsp Oil 2 tbsp Vinegar 2 tbsp BBQ sauce 3 tbspz Cucumber (cubed) 1 Tomato (cubed) 1",
+    "instructions": "Toss all the ingredients together, leave it on the fridge over night serve over the bed of salad leave.",
+    "prepTime": 20,
+    "cookTime": 30,
+    "totalTime": 50,
+    "recipeYield": "6",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "onions (chopped) half cup",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum (cubed) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      },
+      "cucumber": {
+        "ingredient_text": "cucumber (cubed) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 57.0,
+        "price_avg": 58.5,
+        "price_high": 60.0,
+        "cost_range": [
+          5.7,
+          6.0
+        ],
+        "cost_contrib_avg": 5.85
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 47.7,
+      "avg": 50.85,
+      "max": 54.0
+    }
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Pizza Rolls Recipe | Masala TV",
+    "ingredients": "Ingredients for Pizza Rolls Recipe: Roll Strips as required Chicken breast. 2 pieces Capsicum 1 Onion 1 Black olives. 4-5 tbsp Sweet Corn 4-4 tbsp Red sauce 1/4cup Mozzarella cheese 1/2 cup Salt. to taste Pepper. 1/2 tsp Paprika 1/2 tsp Vinegar 2 tbsp Ginger garlic paste. 1tbsp Oil 1 tbsp Egg 1",
+    "instructions": "Cut chicken in small cubes and marinate it with salt, pepper, paprika, ginger garlic and vinegar. Now heat 1 tbs oil in a frying pan and cook chicken until its almost done on medium heat. Then add diced onions and cook it for another one minute. Now cut capsicum in small cubes then add sweet corn and olives in it. Mix vegetables with chicken mixture. On a roll patti spread red sauce then chicken and vegetables mixture on it then put shredded mozzarella cheese on it. Roll it and use egg to stick end of rolls. Heat a skillet and toast these rolls on low heat until golden brown in color.",
+    "prepTime": 15.0,
+    "cookTime": 10,
+    "totalTime": 25,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken breast. 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          119.0,
+          170.0
+        ],
+        "cost_contrib_avg": 144.5
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste. 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 228.0,
+      "avg": 267.2,
+      "max": 306.4
+    }
+  }
+]

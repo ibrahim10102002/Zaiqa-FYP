@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Amrat sari fried fish Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Amrat sari fried fish Recipe: Boneless fish fillet 500 gm cut into fingers Salt 1 tsp Lemon juice 1 tbsp Crushed red pepper 1 tsp Turmeric ¼ tsp Ingredients for batter Flour 3 tbsp Corn flour 4 tbsp Rice flour 2 tbsp Gram flour 2 tbsp Egg 1 Ginger garlic paste 1 tsp Salt ½ tsp Chili powder 1 tsp Yellow color pinch Water to make batter Chat masala ½ tsp",
+    "instructions": "Marinate fish with salt, turmeric, crushed red pepper, lemon juice and gram flour for 30 minutes wash well to remove all smell. Mix together all the ingredients for batter in a bowl and make it into a pouring consistency batter. Add fish in it, deep fry to a golden color on low heat till golden and crisp. Sprinkle chat masala, serve hot with chatni.",
+    "prepTime": 45,
+    "cookTime": 60,
+    "totalTime": 105,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "corn flour": {
+        "ingredient_text": "corn flour 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 87.0,
+        "price_avg": 87.0,
+        "price_high": 87.0,
+        "cost_range": [
+          34.8,
+          34.8
+        ],
+        "cost_contrib_avg": 34.8
+      },
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 101.8,
+      "avg": 112.5,
+      "max": 123.2
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Handi Saag Gosht Recipe | Masala TV",
+    "ingredients": "Ingredients for Handi Saag Gosht Recipe: Mutton 1/2 kg Ginger garlic 1 tbsp Salt 1 tsp Yogurt 4 tbsp Clarified Butter ½ cup Spinach ½ kg Fenugreek Leaves 2 bunch Green chilies 6 â 8 Milk ½ cup Turmeric ½ tsp Red Chili powder 1 tsp Dried fenugreek 1 tbsp",
+    "instructions": "Blanch spinach fenugreek leaves, green chilies and chopped Now heat ghee add ginger garlic with mutton fry well add salt chili powder turmeric and yogurt. Fry well cover and cook till mutton tender with 1 cup water Then add the choparize mixture of spinach with milk Leave it on Dum serve with Kulchay.",
+    "prepTime": 20.0,
+    "cookTime": 25,
+    "totalTime": 45,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          160.0,
+          200.0
+        ],
+        "cost_contrib_avg": 180.0
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "fenugreek": {
+        "ingredient_text": "dried fenugreek 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 44.0,
+        "price_avg": 45.5,
+        "price_high": 47.0,
+        "cost_range": [
+          4.4,
+          4.7
+        ],
+        "cost_contrib_avg": 4.55
+      },
+      "milk": {
+        "ingredient_text": "milk ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          19.8,
+          34.8
+        ],
+        "cost_contrib_avg": 27.3
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 227.6,
+      "avg": 263.65,
+      "max": 299.7
+    }
+  }
+]

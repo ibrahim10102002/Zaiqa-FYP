@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Chinese Drumsticks Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Chinese Drumsticks Recipe: Wings Drumsticks ½ kg Honey 2 tbsp Soya Sauce 2 tbsp Sesame seeds ½ cup Ginger garlic paste 1 tbsp Salt to taste Lemons 2 Crushed Black pepper 1 tsp White vinegar 2 tbsp Oil to fry",
+    "instructions": "Take drumsticks in the pan and add in 2 tbsp soya sauce, 2 tbsp white vinegar Add slat and 1 tbsp ginger garlic paste and steam it on a low flame. Take some oil in the pan and deep fry the drumsticks. Now put the fried drumsticks in the pan, add in 2 tbsp honey Add ½ cup sesame seeds, lemon juice and 1 tsp crushed black pepper. Stir fry it. When honey turns into caramel â serve them hot.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "lemon": {
+        "ingredient_text": "lemons 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 318.4,
+      "avg": 328.15,
+      "max": 337.9
+    }
+  }
+]

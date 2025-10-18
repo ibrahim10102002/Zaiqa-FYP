@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Bhindi Gosht Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Bhindi Gosht Recipe: Mutton ½ kg Onion 1 raw large grinded Ginger garlic 2 tsp Salt 1 ½ tsp Chili powder 2 ½ tsp Turmeric ¼ tsp Coriander powder 2 tsp Yogurt ½ cup All spice ½ tsp Oil ½ cup Lady fingers 125 gm fried",
+    "instructions": "In a pan add oil, onion grinded, ginger garlic paste, salt, chili powder, coriander powder, turmeric and 1 cup water, with mutton. Cover and cook till mutton half done. Remove cover and fry mutton well for 10 minutes till oil comes on top. Add in yogurt, fry well, add 1 ½ cup water for gravy, simmer on low flame when gravy thick. Add fried lady fingers, cook for 5 minutes. Lastly add all spice and remove.",
+    "prepTime": 30.0,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          800.0,
+          1000.0
+        ],
+        "cost_contrib_avg": 900.0
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "lady finger": {
+        "ingredient_text": "lady fingers 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 255.0,
+        "price_avg": 260.0,
+        "price_high": 265.0,
+        "cost_range": [
+          25.5,
+          26.5
+        ],
+        "cost_contrib_avg": 26.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 922.5,
+      "avg": 1042.0,
+      "max": 1161.5
+    }
+  }
+]

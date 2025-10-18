@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Pomfret Fry Recipe | Masala TV",
+    "ingredients": "Ingredients for Pomfret Fry Recipe: White pomfret 750 gm (3 to 4) Lemon juice 2 tbsp Vinegar 2 tbsp Chili powder 3 tsp Coriander powder 2 tsp Black pepper powder ½ tsp Cumin roasted n crushed 1 tsp heaped Salt 1½ tsp Rice flour 2 tbsp Oil for frying",
+    "instructions": "In a large bowl mix all the ingredients together except fish and oil, mix well If the masala is very thick, add 1 to 2 tbsp of water Coat the fish with this masala and leave it for 1 hour Now heat oil, fry fish on both sides until done Serve with lemon wedges.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "lemon": {
+        "ingredient_text": "lemon juice 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper powder ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          5.38,
+          5.38
+        ],
+        "cost_contrib_avg": 5.38
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 69.39,
+      "avg": 70.89,
+      "max": 72.39
+    }
+  }
+]

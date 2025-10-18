@@ -1,0 +1,49 @@
+[
+  {
+    "name": "White Broast Recipe | Masala TV",
+    "ingredients": "Ingredients for White Broast Recipe: Chicken (breast pieces) 4 Vinegar 1 cup Black Pepper 2 tsp White Chilli 1tsp Eggs 2 Rice Flour 1 cup Soda Water as required Oil as required",
+    "instructions": "In a chicken add salt, black pepper, vinegar and put in fridge and leave it over night. Then in a vinegar add chicken and take it out. Now in a bowl add rice flour, black pepper, white chillies, remaining salt, eggs and beat it. After this, add soda water and make paste. Now chicken pieces dip in mixture and fry.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken (breast pieces) 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          238.0,
+          340.0
+        ],
+        "cost_contrib_avg": 289.0
+      },
+      "egg": {
+        "ingredient_text": "eggs 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 294.0,
+      "avg": 349.9,
+      "max": 405.8
+    }
+  }
+]

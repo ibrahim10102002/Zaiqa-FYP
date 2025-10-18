@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Qorma Recipe | Masala TV",
+    "ingredients": "Ingredients for Qorma Recipe: Mutton 1 kg Cinnamon 3 pcs Bay leaf 1 Cloves 8 Green cardamom ½ tsp Black pepper 8 Maze ¼ tsp Onion 1 large sliced Brown onion grinded 4 tbsp Garlic 15 cloves Ginger 2 inch piece Coriander seeds 2 tsp heaped Button red chilies whole 12 Salt 2 tsp level All spice 1 tsp Oil 3/4 cup 1 cup yogurt",
+    "instructions": "Boil mutton with whole spices and 3 cups of water for 30 mins Grind together 1 large onion, ginger garlic, coriander seeds Add whole red chilies into a fine paste. Heat oil, put grinded paste, fry for 5 mins Add in the boiled mutton with 1 cup salt, yogurt, brown onion, crushed and all spice Cover and cook on low heat stirring occasionally for 15 mins till gravy thick and oil comes on top.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          160.0,
+          200.0
+        ],
+        "cost_contrib_avg": 180.0
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper 8",
+        "qty": 8.0,
+        "unit": "unit",
+        "grams": 800.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          1723.2,
+          1723.2
+        ],
+        "cost_contrib_avg": 1723.2
+      },
+      "onion": {
+        "ingredient_text": "brown onion grinded 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          76.0,
+          96.0
+        ],
+        "cost_contrib_avg": 86.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          44.0,
+          100.0
+        ],
+        "cost_contrib_avg": 72.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 2061.2,
+      "avg": 2129.95,
+      "max": 2198.7
+    }
+  }
+]

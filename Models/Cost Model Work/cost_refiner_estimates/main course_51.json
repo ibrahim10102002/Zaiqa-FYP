@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Phaliyan Recipe | Masala TV",
+    "ingredients": "Ingredients for Phaliyan Recipe: Green Beans ½ kg Onion 2 Tomato 1 Ginger Garlic Paste 1 tbsp Turmeric ½ tsp Salt to taste Red Chili (crushed) ½ tsp Button Red Chilies 3 Coriander Leaves for garnishing Green Chilies for garnishing",
+    "instructions": "Heat oil in a pan and fry onions and tomatoes, mix and cook well. When tomatoes are tender, add beans, salt, ginger garlic paste, turmeric Add crushed red chilies and whole button red chilies. Mix all well lastly add coriander and green chilies. Serve hot",
+    "prepTime": 15.0,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "onion 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "hing": {
+        "ingredient_text": "chilies for garnishing",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 6200.0,
+        "price_avg": 6200.0,
+        "price_high": 6200.0,
+        "cost_range": [
+          620.0,
+          620.0
+        ],
+        "cost_contrib_avg": 620.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1339.0,
+      "avg": 1366.25,
+      "max": 1393.5
+    }
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Chicken Vegetable Gold Coin Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Chicken Vegetable Gold Coin Recipe: Chicken tikka chunks half cup finally chopped Bread slices 12 Plain flour half cup Sesame seeds for topping Oil for deep frying Potatoes (boiled &mashed) 2 cups Finally chopped carrots ¼ cups Finally chopped onion half cup Finally chopped capsicum ¼ cup Sweet corn half cup Spring leaves finally chopped 2 tbsp Green chilies finally chopped 2 Ginger finally chopped 1 tsp Salt half tsp Soya sauce 1 tbsp Red chili garlic sauce 2 tbsp Sweet chili sauce 1 tbsp Sambal Oleak 1 tbsp",
+    "instructions": "Mix plain flour with half cup water in bowl. Mix well to make a thick paste keep aside. Cut the bread slices into rounds with cookie cutter. Mix all the ingredients for topping in a bowl, spread topping to the bread rounds, spread a little flour paste on to each round. Sprinkle with little sesame seeds deep fry coin till light golden. Serve with sweet chili sauce.",
+    "prepTime": 30,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "6-8",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken tikka chunks half cup finally chopped",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "potato": {
+        "ingredient_text": "potatoes (boiled &mashed) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          8.8,
+          11.0
+        ],
+        "cost_contrib_avg": 9.9
+      },
+      "onion": {
+        "ingredient_text": "finally chopped onion half cup",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "capsicum": {
+        "ingredient_text": "finally chopped capsicum ¼ cup",
+        "qty": 0.25,
+        "unit": "cup",
+        "grams": 60.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          13.8,
+          14.4
+        ],
+        "cost_contrib_avg": 14.1
+      },
+      "ginger": {
+        "ingredient_text": "ginger finally chopped 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "red chili garlic sauce 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 260.6,
+      "avg": 320.5,
+      "max": 380.4
+    }
+  }
+]

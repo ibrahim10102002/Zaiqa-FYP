@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Qeema Chatpata Recipe | Masala TV",
+    "ingredients": "Ingredients for Qeema Chatpata Recipe: Mince ½ kg Salt 1 tsp Turmeric ¼ tsp Ginger garlic 1 tsp Whole dried red chilies 4 Black pepper 4 Cloves 4 Bay leaf 1 Yogurt ½ cup Onion chopped 1 cup Tomato chopped 2 medium Oil ½ cup All spice 1 tsp Roasted and crushed cumin 1 tsp Roasted and crushed coriander 1 tbsp Coriander and green chilies for garnishing",
+    "instructions": "Heat oil in a pan, add whole spices along with ginger garlic paste, mix well Add mincemeat with all the dry spices and 1 cup water, cover and cook till mince done Add yogurt and tomatoes, fry well till all water has dried, mix well Garnish with chopped coriander and green chilies.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "garlic": {
+        "ingredient_text": "ginger garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          861.6,
+          861.6
+        ],
+        "cost_contrib_avg": 861.6
+      },
+      "onion": {
+        "ingredient_text": "onion chopped 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "hing": {
+        "ingredient_text": "coriander and green chilies for garnishing",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 6200.0,
+        "price_avg": 6200.0,
+        "price_high": 6200.0,
+        "cost_range": [
+          620.0,
+          620.0
+        ],
+        "cost_contrib_avg": 620.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1539.6,
+      "avg": 1550.35,
+      "max": 1561.1
+    }
+  }
+]

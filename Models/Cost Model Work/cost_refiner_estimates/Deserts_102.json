@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Biscuit Pineapple Delight Recipe | Masala TV",
+    "ingredients": "Ingredients for Biscuit Pineapple Delight Recipe: Plain biscuits 1 cup Pineapple 1 tin Condensed milk 1/2cup Fresh cream 1 cup Milk chocolate sticks for garnish",
+    "instructions": "In a blender add pineapple chunks, condensed milk , half cup of cream blend well Crushed the biscuits and put it into the serving bowl Add some pineapple chunks and then pour the mixture Top with cream and milk chocolate sticks",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk chocolate sticks for garnish",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 33.0,
+      "avg": 45.5,
+      "max": 58.0
+    }
+  }
+]

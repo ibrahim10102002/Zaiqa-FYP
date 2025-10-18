@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Chicken Tikka Masala Recipe | Masala TV",
+    "ingredients": "Ingredients for Chicken Tikka Masala Recipe: Chicken (4 pieces) 1 kg Tikka Masala 1 packet Yogurt ½ cup Garlic Paste ` 1 tbsp Oil ¼ cup Butter 2 tbsp Ingredients for gravy: Onion s (cut in rings) 2 Green Chilies (slit from center) 6 Coriander Leaves 2 tbsp All Spice ½ tsp Capsicum (sliced) 1",
+    "instructions": "Marinate chicken with tikka masala, garlic and yogurt for 2 hours. Heat oil; cook chicken until done on low flame. Give dum of coal. Heat butter fry onions till slightly soft add capsicum and green chilies. Add chicken tikka pieces. Toss well. add all spice and serve.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "onion s (cut in rings) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum (sliced) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 61.0,
+      "avg": 66.5,
+      "max": 72.0
+    }
+  }
+]

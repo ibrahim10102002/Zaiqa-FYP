@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Tali Howi Kaleji Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Tali Howi Kaleji Recipe: Mutton Liver 1 ½ kg Roasted cumin powder 1 tsp White vinegar 1 tsp Chopped green chilies 1 bunch Chopped green coriander 1 bunch Chopped green chilies 4 Ginger Garlic paste 1 tbsp Red chili flakes 1 tsp Black pepper ½ tsp Salt to taste Lemon 2 Oil ½ cup",
+    "instructions": "Chopped the garlic cloves and marinate mutton liver in it and keep it for 10 minutes. Now wash it with it cold water and strain the water. Put the mutton liver in the pan and add in 1 tsp red chili flakes, 1 tbsp ginger garlic paste and 1 tsp white vinegar and cook it on a low flame. When the water dries, add in 1 tsp roasted cumin powder and ½ cup oil. Add in 2 lemon juice, chopped coriander, chopped green chilies and some salt. Cook it for 5 minutes. Serve it with nan.",
+    "prepTime": 45,
+    "cookTime": 60,
+    "totalTime": 105,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          160.0,
+          200.0
+        ],
+        "cost_contrib_avg": 180.0
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          5.38,
+          5.38
+        ],
+        "cost_contrib_avg": 5.38
+      },
+      "lemon": {
+        "ingredient_text": "lemon 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 290.38,
+      "avg": 334.13,
+      "max": 377.88
+    }
+  }
+]

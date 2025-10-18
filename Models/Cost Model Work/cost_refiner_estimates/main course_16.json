@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Puri Paratha Recipe | Masala TV",
+    "ingredients": "Ingredients for Puri Paratha Recipe: Flour ½ kg Salt ½ tsp Ghee 2 tbsp Sugar 1 tbsp",
+    "instructions": "Mix all together and knead into a soft dough make into balls Now brush with oil, leave covered for few mins. Heat oil make into parathas size of a quarter plate and deep fry. Serve with Tawa Qeema.",
+    "prepTime": 10.0,
+    "cookTime": 10,
+    "totalTime": 20,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 17.8,
+      "avg": 17.8,
+      "max": 17.8
+    }
+  }
+]

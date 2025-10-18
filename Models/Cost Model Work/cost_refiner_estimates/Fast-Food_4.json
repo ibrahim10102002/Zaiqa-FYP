@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Hong Kong Fried Chicken Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Hong Kong Fried Chicken Recipe: Chicken (Boneless, cubed) ½ kg Flour ½ cup Corn Flour ½ cup Egg (Beaten) 1 Garlic (Crushed) 1 tsp Dark Soy Sauce 1 tbsp Light Soy Sauce 1 tbsp Vinegar 1 tbsp Salt ½ tsp Black Pepper ½ tsp Oil For deep frying Garlic (Crushed) 2 tsp Vinegar 2 tbsp Brown Sugar 2 tbsp Ketchup 2 tbsp Worcestershire Sauce 2 tbsp Water ½ cup Salt ½ tsp Black Pepper ½ tsp Corn Flour 1 tbsp Oil As required",
+    "instructions": "Marinate chicken with all ingredients for marination and deep fry twice. Serve with prepared sauce. Heat oil, fry garlic and add in all the rest of the ingredients for sauce.",
+    "prepTime": 30.0,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken (boneless",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "egg": {
+        "ingredient_text": "egg (beaten) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "garlic": {
+        "ingredient_text": "garlic (crushed) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "sugar": {
+        "ingredient_text": "sugar 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          35.6,
+          35.6
+        ],
+        "cost_contrib_avg": 35.6
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 299.6,
+      "avg": 352.3,
+      "max": 405.0
+    }
+  }
+]

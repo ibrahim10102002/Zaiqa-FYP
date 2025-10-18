@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Bihari Chicken Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Bihari Chicken Recipe: Chicken Boneless ½ kg Fresh Cream ½ packet Whole Red Chilies 6 Roasted Chick pea 2 tbsp White Cumin 1 tsp Black Cumin 1 tsp Salt as required Whole Coriander 1 tsp Big Cardamoms 2 Small Cardamoms 4 Lemons 2 Green Chilies 4 Oil as required",
+    "instructions": "In a pan add 6 whole red chilies, 2 tbsp roasted chick pea, 1 tsp white cumin, 1 tsp black cumin Add 1 tsp whole coriander, 2 big cardamoms and 4 small cardamoms and slightly roast it and chop it. Now add salt to taste and mix it in ½ kg chicken. Add 4 chopped green chilies. Add oil as required and dry out the water from the pan. Add ½ packet fresh cream and 2 lemons (lemon juice) and put it on simmer. Delicious bihari chicken is ready.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "lemon": {
+        "ingredient_text": "lemons 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 183.0,
+      "avg": 210.0,
+      "max": 237.0
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Besin Ka Omelette Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Besin Ka Omelette Recipe: Eggs 3 Gram flour (roasted) 2 tbsp Garlic Powder ¼ tsp Black Pepper Powder ½ tsp Salt ½ tsp Cumin Seeds ½ tsp Red Pepper (crushed) ½ tsp Onions (chopped) 2 tbsp Green Chilies (chopped) 2",
+    "instructions": "Whisk all the ingredients together. Heat quarter cup oil in a fry pan Fry like a pan cake from both sides. Serve hot.",
+    "prepTime": 10.0,
+    "cookTime": 10,
+    "totalTime": 20,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "eggs 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          84.0,
+          98.7
+        ],
+        "cost_contrib_avg": 91.35
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "onion": {
+        "ingredient_text": "onions (chopped) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 161.0,
+      "avg": 181.6,
+      "max": 202.2
+    }
+  }
+]

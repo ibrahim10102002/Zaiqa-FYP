@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Chicken Madrasi Recipe | Masala TV",
+    "ingredients": "Ingredients for Chicken Madrasi Recipe: Chicken legs 1 kg Green chili 5 Garlic 1 tbsp Oil ½ cup Salt 1-1/2 tsp Green cardamom 4-6 Ginger slice 3 tbsp Red chili powder 1-1/2 tbsp Cumin 1 tbsp Coriander powder 2 tbsp Turmeric 1 tsp Nutmeg 1 pinch Tomato paste 2 tbsp Whole garam masala 1 tbsp Garam masala powder 1 tsp Green coriander (finely cut) 1/3 bunch Cream ½ cup Cloves 4-6 Large onion 2",
+    "instructions": "Heat oil and fry onion and garlic. Then tomato paste, red chili powder, turmeric, cumin, cloves and coriander powder fry for 5 minutes. Now blender adds 2 cup water add masala and grind it. Then grinded masala pour in woke add chicken legs, salt and whole garam masala add and fry for 10 minutes. Then 3 cup water, cream, nutmeg and garam masala powder add and cook for 10 minutes. Finally green chili, finely chopped coriander and ginger add cook for 2 minutes and remove it serve hot .",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken legs 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger slice 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          66.0,
+          150.0
+        ],
+        "cost_contrib_avg": 108.0
+      },
+      "garam masala": {
+        "ingredient_text": "garam masala powder 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1306.0,
+        "price_avg": 1306.0,
+        "price_high": 1306.0,
+        "cost_range": [
+          130.6,
+          130.6
+        ],
+        "cost_contrib_avg": 130.6
+      },
+      "onion": {
+        "ingredient_text": "large onion 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 523.2,
+      "avg": 603.95,
+      "max": 684.7
+    }
+  }
+]

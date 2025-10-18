@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Tiramisu toffee trifle pie Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Tiramisu toffee trifle pie Recipe: Butter cake 1 pound Coffee 1 tbsp Water ¾ cup Cream cheese 200 gm Fresh cream whipped 200 gm Caster sugar ½ cup Chocolate syrup ½ cup Crunchy chocolate 2 bars finely chopped",
+    "instructions": "In a small cup combine coffee and warm water and keep aside. Cut pound cake into slices. Place cake pieces on bottom and sides of 9 inch deep pie plate. Drizzle coffee over cake pieces. In medium bowl beat together cream cheese. Sugar and chocolate syrup until smooth, add whipped cream. Spread filling evenly into pie plate. Sprinkle with chopped crunchy chocolate, chill until firm.",
+    "prepTime": 35,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "3-4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "caster sugar ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          21.36,
+          21.36
+        ],
+        "cost_contrib_avg": 21.36
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 21.36,
+      "avg": 21.36,
+      "max": 21.36
+    }
+  }
+]

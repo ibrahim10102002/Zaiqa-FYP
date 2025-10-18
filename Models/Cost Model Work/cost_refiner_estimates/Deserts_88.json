@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Lauki Gajar halwa Recipe | Tahir Chaudhary | Masala TV",
+    "ingredients": "Ingredients for Lauki Gajar halwa Recipe: 600 grams Bottle gourd -lauki 600 grams gajar -carrot 2 tablespoons Ghee ½ cup Sugar ¼ cup Mawa (khoya),grated 3 no Green cardamom powder 2 tbsp Raisins 1 tbsp chopped almond",
+    "instructions": "Peel and grate the doodhi and carrot. Heat the ghee in a pan. Add the doodhi and sautÃ© for ten minutes and make sure dry. Add the sugar and cook over medium heat till turn into light golden Add the khoya and cardamom powder. Cook, stirring continuously, for two or three minutes, or till the excess liquid evaporates. Add the raisins, and almonds and continue to cook for two more minutes. Serve hot or at room temperature.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar ¼ cup",
+        "qty": 0.25,
+        "unit": "cup",
+        "grams": 60.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          10.68,
+          10.68
+        ],
+        "cost_contrib_avg": 10.68
+      },
+      "rai": {
+        "ingredient_text": "raisins 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 805.0,
+        "price_avg": 805.0,
+        "price_high": 805.0,
+        "cost_range": [
+          80.5,
+          80.5
+        ],
+        "cost_contrib_avg": 80.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 91.18,
+      "avg": 91.18,
+      "max": 91.18
+    }
+  }
+]

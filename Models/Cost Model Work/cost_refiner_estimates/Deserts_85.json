@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Condensed Milk Pudding Recipe | Masala TV",
+    "ingredients": "Ingredients for Condensed Milk Pudding Recipe: Pine apple 1 tin Biscuit 2 roll packet Cream 2 packets Condensed milk 1 cup Butter 50 gm Caster sugar ½ cup Milk ½ cup Jelly 1 packet",
+    "instructions": "Beat butter with sugar now add cream in this mixture Then add & mix condensed milk and vanilla essence now and pineapple half tin Then soak biscuits in milk and keep them in tray Now add the mixture and keep this in freezer for half and hour Now add half tin of pineapples Now cook jelly and add this on pudding now serve",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          19.8,
+          34.8
+        ],
+        "cost_contrib_avg": 27.3
+      },
+      "sugar": {
+        "ingredient_text": "caster sugar ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          21.36,
+          21.36
+        ],
+        "cost_contrib_avg": 21.36
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 74.16,
+      "avg": 94.16,
+      "max": 114.16
+    }
+  }
+]

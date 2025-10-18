@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Mango Colada Mousse Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Mango Colada Mousse Recipe: Mangoes (chopped) 1 cup Eggs (separated) 3 Gelatin 1 ½ tsp (dissolved in ¼ cup mango juice) Caster Sugar 4 oz Mango Juice ¼ cup Fresh Cream (whipped) 8 oz Coconut Milk ½ cup heaped Desiccated Coconut 3 tbsp",
+    "instructions": "Beat Yolks and sugar till its thick light and creamy, add to it mango juice dissolved gelatin and coconut milk. Beat egg whites stiff and beat cream, fold both in the yolks mixture along with desiccated coconut. In a serving bowl, spread chopped mangoes, pour prepared mousse mixture on top, chill it till its set. Decorate it with whipped cream and roated coconut flakes.",
+    "prepTime": 70,
+    "cookTime": 90,
+    "totalTime": 160,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "eggs (separated) 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          84.0,
+          98.7
+        ],
+        "cost_contrib_avg": 91.35
+      },
+      "sugar": {
+        "ingredient_text": "sugar 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          71.2,
+          71.2
+        ],
+        "cost_contrib_avg": 71.2
+      },
+      "coconut": {
+        "ingredient_text": "coconut 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          135.0,
+          135.0
+        ],
+        "cost_contrib_avg": 135.0
+      },
+      "milk": {
+        "ingredient_text": "milk ½ cup heaped",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          19.8,
+          34.8
+        ],
+        "cost_contrib_avg": 27.3
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 355.0,
+      "avg": 369.85,
+      "max": 384.7
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Pista Kulfi Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Pista Kulfi Recipe: Pistachios (chopped) 1 cup Green Food Color 1 pinch Milk ½ litre Cream 1 packet Khoya 250 gms Cardamoms Powder ¼ tsp Sugar 1-1/2 cup Almonds, Pistachios as required",
+    "instructions": "In a pan, boil milk. When boil comes add sugar, cardamom powder and green food color. All ingredients mix and removes from the stove add cream and khoya. After this add almonds, pistachios. Pour into mould and cover allow to cool for hours till freeze. When serve take out from freezer. Garnish with almonds, pistachios.",
+    "prepTime": 90,
+    "cookTime": 120,
+    "totalTime": 210,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk ½ litre",
+        "qty": 0.5,
+        "unit": "litre",
+        "grams": 50.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          8.25,
+          14.5
+        ],
+        "cost_contrib_avg": 11.38
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 26.05,
+      "avg": 29.18,
+      "max": 32.3
+    }
+  }
+]

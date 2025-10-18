@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Sizzling Beef Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Sizzling Beef Recipe: Undercut Beef (sliced) ½ kg Chili sauce 2 tbsp Hoi son Sauce 1 tbsp White pepper ½ tsp Salt half tsp Sugar 1 tbsp Water 1 tbsp Egg white 1 Corn flour 2 tbsp heaped Oil 2 tbsp Oil 2 tbsp Garlic (chopped) 1 tbsp Sweet sauce ½ cups Hoi son sauce 2 tbsp Oyster sauce 1 tbsp Sugar 1 tsp Soya sauce 2 tbsp Stock 1 cup Corn flour 1 tbsp dissolved in water",
+    "instructions": "Marinate undercut with chili sauce, hoi son, salt, white pepper, sugar, egg white, corn flour and oil for 1 hour, deep fry undercut for 10 min. Remove and keep aside. Heat oil fry garlic, then golden above all the seasoning with stock. Beef lastly thicken the sauce with corn flour paste, heat sizzler, add 1 tbsp oil. Then add the beef with sauce serve sizzling hot.",
+    "prepTime": 30,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "beef": {
+        "ingredient_text": "beef (sliced) ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          450.0,
+          550.0
+        ],
+        "cost_contrib_avg": 500.0
+      },
+      "white pepper": {
+        "ingredient_text": "white pepper ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 3074.0,
+        "price_avg": 3074.0,
+        "price_high": 3074.0,
+        "cost_range": [
+          7.68,
+          7.68
+        ],
+        "cost_contrib_avg": 7.68
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "egg": {
+        "ingredient_text": "egg white 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "corn flour": {
+        "ingredient_text": "corn flour 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 87.0,
+        "price_avg": 87.0,
+        "price_high": 87.0,
+        "cost_range": [
+          8.7,
+          8.7
+        ],
+        "cost_contrib_avg": 8.7
+      },
+      "garlic": {
+        "ingredient_text": "garlic (chopped) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 676.38,
+      "avg": 747.08,
+      "max": 817.78
+    }
+  }
+]

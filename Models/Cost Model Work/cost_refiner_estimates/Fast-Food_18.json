@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Smoked Noodles Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Smoked Noodles Recipe: Noodles (boiled) 1 packet Mince (boiled) ½ kg Sausages 6 Red Chili (crushed) 1 tsp Salt 1 tsp Black Pepper 1 tsp Chicken Cubes 1 Cream 1 packet Finely Chopped Carrots 1 cup Cabbage 1 cup Capsicum 1 Oil 3 tbsp Coal 1 piece Ginger Garlic (chopped) 1 tsp",
+    "instructions": "Heat 3 tbsp oil and add garlic. When aroma comes then add water. In water add chicken cube, crushed red chilies, salt and crushed red chilies. Then add finely chopped carrots, capsicum, cabbage, sausages, boiled chicken and 1 packet boiled macaroni and turn off the stove. Then mix cream and give smoke of the coal.",
+    "prepTime": 45.0,
+    "cookTime": 60,
+    "totalTime": 105,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic (chopped) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 143.5,
+      "avg": 179.0,
+      "max": 214.5
+    }
+  }
+]

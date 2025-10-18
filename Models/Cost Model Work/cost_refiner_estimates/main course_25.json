@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Moroccan Steak Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Moroccan Steak Recipe: Under cut 250 gm 2 pcs flattened Oil 2 tbsp Soya sauce 1 tbsp Mustard paste ½ tsp Salt ½ tsp Pepper ½ tsp Garlic ½ tsp Ingredients for Moroccan Sauce Butter 1 tbsp Chopped garlic ½ tsp Cream ½ cup Milk ½ cup Sambal oelek 1 tbsp Chicken powder 1 tsp White pepper ¼ tsp Crushed red pepper ½ tsp Fresh basil 1 tbsp French fries to serve",
+    "instructions": "Marinate undercut with oil, soya sauce, mustard paste, salt, pepper and garlic. Grill in 2 tbsp oil for 10 mins, until well done. Remove in a platter METHOD for MOROCCAN SAUCE Heat butter in a fry pan, add chopped garlic, fry for 1 min, and add cream, milk, sambal oelek, chicken powder, white pepper, crushed red pepper, chopped basil cook till thick, pour in the grillâs tray. Serve with garlic buns and French fries.",
+    "prepTime": 20.0,
+    "cookTime": 25,
+    "totalTime": 45,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/VSUP3s2XpXE?list=PL_omWBKCy7Em0qkK0BZHE-DZRu3aHA8Ql",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "garlic": {
+        "ingredient_text": "chopped garlic ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          0.98,
+          1.39
+        ],
+        "cost_contrib_avg": 1.18
+      },
+      "milk": {
+        "ingredient_text": "milk ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          19.8,
+          34.8
+        ],
+        "cost_contrib_avg": 27.3
+      },
+      "chicken": {
+        "ingredient_text": "chicken powder 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "white pepper": {
+        "ingredient_text": "white pepper ¼ tsp",
+        "qty": 0.25,
+        "unit": "tsp",
+        "grams": 1.25,
+        "price_low": 3074.0,
+        "price_avg": 3074.0,
+        "price_high": 3074.0,
+        "cost_range": [
+          3.84,
+          3.84
+        ],
+        "cost_contrib_avg": 3.84
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 84.12,
+      "avg": 104.57,
+      "max": 125.03
+    }
+  }
+]

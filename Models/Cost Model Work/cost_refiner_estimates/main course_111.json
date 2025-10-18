@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Highway Mutton Karahi Recipe | Masala TV",
+    "ingredients": "Ingredients for Highway Mutton Karahi Recipe: Boiled mutton ½ kg Tomato ½ kg Boiled Onion Paste 1 cup Ginger Garlic 1 tbsp Whole Black Pepper 1 tsp Cinnamon 1 stick Coriander Seeds 1 tsp Fennel Seeds 1 tsp Cumin Seeds 1 tsp Carom Seeds 1 tsp Whole Red Chili 6 Red Chili Powder ½ tsp Turmeric Powder ½ tsp Salt 1 tsp Fenugreek Leaf 1 tbsp Ginger Slice 2 tbsp Fresh Coriander ½ bunch Green Chili 4 Clarified butter 1 cup",
+    "instructions": "Blend all the whole spices. Meanwhile, heat clarified butter in a wok. Add onions, ginger garlic, and boiled mutton. Cook well. Then add tomatoes, turmeric powder, red chili powder and salt. Mix everything well and cover the lid. Once it is all well combined, cook on a high heat for 5 minutes. Now add the whole spice mixture, and green chilies, cook well. In the end, garnish with fresh coriander and ginger slices.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "boiled mutton ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          800.0,
+          1000.0
+        ],
+        "cost_contrib_avg": 900.0
+      },
+      "onion": {
+        "ingredient_text": "onion",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "fenugreek": {
+        "ingredient_text": "fenugreek",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 44.0,
+        "price_avg": 45.5,
+        "price_high": 47.0,
+        "cost_range": [
+          4.4,
+          4.7
+        ],
+        "cost_contrib_avg": 4.55
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1066.4,
+      "avg": 1225.3,
+      "max": 1384.2
+    }
+  }
+]

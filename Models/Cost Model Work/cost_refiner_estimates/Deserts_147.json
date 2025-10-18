@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Shahi Khoya Kheer Recipe | Masala TV",
+    "ingredients": "Ingredients for Shahi Khoya Kheer Recipe: Milk 1 liter Rice boiled 1 cup Khoya 1 cup Dry milk 1 cup Sugar 1 cup Pistachio chopped 50 gm Almond chopped 100 gm Kewra water 1 tsp Cardamom powder ½ tsp Saffron ½ tsp Edible silver foil for garnishing",
+    "instructions": "Cook 1 liter milk on flame. Add 1 cup boiled rice and cook till mixture thickens. Now add 1 cup sugar and cook on low flame. When the water evaporates, add 1 cup khoya, 100 gm chopped almond. Add 1 tsp Kewra water, ½ tsp saffron and ½ tsp cardamom powder. Mix well. Lastly turn the flame off. Garnish with 50 gm chopped pistachio and silver foil. Serve.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "dry milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "hing": {
+        "ingredient_text": "edible silver foil for garnishing",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 6200.0,
+        "price_avg": 6200.0,
+        "price_high": 6200.0,
+        "cost_range": [
+          620.0,
+          620.0
+        ],
+        "cost_contrib_avg": 620.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 670.8,
+      "avg": 683.3,
+      "max": 695.8
+    }
+  }
+]

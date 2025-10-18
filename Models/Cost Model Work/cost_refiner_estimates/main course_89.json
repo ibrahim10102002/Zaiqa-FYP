@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Mutton Chops Recipe | Masala TV",
+    "ingredients": "Ingredients for Mutton Chops Recipe: Mutton Chops ½ kg Water 2 cups Ginger garlic paste 2 tbsp Soy Sauce 1 tbsp Vinegar 2 tbsp Crushed Red Chilies ½ tbsp Coriander (roasted & Crushed) ½ tbsp Carom Seeds 1 tsp Black pepper (crushed) ½ tbsp Salt to taste Eggs 2 Chickpea Flour 2-3 tbsp Bread crumbs as required",
+    "instructions": "Flat mutton chops using hammer Add 2 cups of water in a pan with chops, add in ginger garlic paste Add soy sauce, vinegar, crushed chilies, carom seeds, black pepper Add salt and mix all well on cook it on low flame until the meat is tender and gravy dries . In another bowl take 2 eggs, add in chickpea flour and mix well. Add this mixture to chops and mix again. Now Coat chops in bread crumbs and fry mutton chops till they are golden brown. Serve with salad",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          160.0,
+          200.0
+        ],
+        "cost_contrib_avg": 180.0
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper (crushed) ½ tbsp",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "grams": 7.5,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          16.16,
+          16.16
+        ],
+        "cost_contrib_avg": 16.16
+      },
+      "egg": {
+        "ingredient_text": "eggs 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 470.15,
+      "avg": 531.55,
+      "max": 592.95
+    }
+  }
+]

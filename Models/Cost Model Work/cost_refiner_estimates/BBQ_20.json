@@ -1,0 +1,35 @@
+[
+  {
+    "name": "3 Pepper Steak Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for 3 Pepper Steak Recipe: Undercut (flattened) 2 ( 8 oz each) Meat Tenderizer ½ tsp Paprika 1 tsp Black Pepper ½ tsp White Pepper ¼ tsp Ginger Garlic 1 tsp Salt ½ tsp Oregano 1 tsp Vinegar 1 tbsp Ingredients for sauce: Pepper Sauce ½ cup Black Pepper (crushed) 1 tsp Butter 1 oz Stalk ½ cup Cream 2 tbsp Oregano ½ tsp Spring Onions (chopped) ½ cup",
+    "instructions": "Marinate steaks with all the given ingredients paprika, black pepper, white pepper, ginger garlic, salt, oregano, vinegar for 30 mins and grill steaks for 10 mins in 2 tbsp oil. Method for sauce: Heat butter in a pan. Add chopped onion with pepper sauce and all the rest. Cook till thick. Add the steaks to the sauce cook for 2 to 3 mins. Serve steak on a sizzler with fries and garlic bread.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "onions (chopped) ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          22.8,
+          28.8
+        ],
+        "cost_contrib_avg": 25.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 22.8,
+      "avg": 25.8,
+      "max": 28.8
+    }
+  }
+]

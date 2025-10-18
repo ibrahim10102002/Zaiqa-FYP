@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Fish Broast Recipe | Masala TV",
+    "ingredients": "Ingredients for Fish Broast Recipe: Fish (Boneless, Square Piece) 500 grams Red Chili Powder ½ tsp Vinegar as required Chinese Salt 1/3 tsp Oil for frying Salt to taste Eggs 2-3 For Broast Masala All Purpose Flour 1 cup Rice Flour ½ cup Corn Flour ½ cup Chicken Powder 4 tbsp Garlic Powder 2 tbsp White Pepper Powder 4 tbsp Chinese Salt 2tbsp Salt to taste",
+    "instructions": "For Broast Masala First take a mixing bowl add 1/2 cup of rice flour ½ cup of corn flour, and stiff Then take a blender add stiff flours 4tbsp of chicken powder, 2tbsp garlic powder, 4tbsp of Chinese salt and a pinch of salt. Blend all ingredients very finely Now add the masala in a air tight box /container, mix it well until the masala is mixed well. Fish Broast : take a mixing bowl add as required white vinegar as required salt ,1/2 tsp of red chili powder ,1/3 tsp of Chinese salt mix it well. Now add ½ kg of fish , mix it well and marinate it. Now take the fish in the fish broast masala box mix it well. Now beat the 2-3 eggs , dip the fish patties in the beaten eggs and again add the fish patties in a fish broast masala mix it well ,until fish coating is nicely Repeat the process at last 2-3 times. Now take a frying pan add fish broast patties deep fry the fish on a medium flame (the fry pan is covered with his lid and flame is medium ) At last take it out the fish broast in a serving platter serve with angel sauce.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "eggs 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      },
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 154.5,
+      "avg": 180.4,
+      "max": 206.3
+    }
+  }
+]

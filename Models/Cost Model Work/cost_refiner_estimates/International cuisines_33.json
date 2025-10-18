@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Italian Chicken Strips and Chips Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Italian Chicken Strips and Chips Recipe: Chicken Breast (stripes) 2 Garlic Paste 1 tsp Vinegar 2 tbsp Soy Sauce 2 tbsp Baking Powder 1 tsp Teriyaki Sauce 1 tbsp Bread Crumbs as required Parmesan Cheese 2 tbsp Ingredients for seasoned flour: Flour 2 cup heaved Salt 1 tsp Black Pepper 1 tsp Chicken Powder 1 tsp heaved Eggs 2 beaten",
+    "instructions": "Marinate chicken strips with garlic paste, vinegar, soy sauce, teriyaki sauce and baking powder. Coat marinated strips in seasoned flour, then beaten eggs and bread crumbs. Deep fry or bake. Italian Chicken Strips and Chips is ready to serve with loads of fries. Previously blanched and seasoned in the same flour, eggs and bread crumbs.",
+    "prepTime": 20,
+    "cookTime": 25,
+    "totalTime": 45,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "egg": {
+        "ingredient_text": "eggs 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 115.5,
+      "avg": 133.15,
+      "max": 150.8
+    }
+  }
+]

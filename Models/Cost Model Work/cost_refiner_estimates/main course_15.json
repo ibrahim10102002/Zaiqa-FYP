@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Mutton Balti Gosht Recipe | Masala TV",
+    "ingredients": "Ingredients for Mutton Balti Gosht Recipe: Meat (mutton) 500gms Oil5 tbsp Finely Chopped Onion 2 Ginger Garlic Paste2 tbsp Red Chilli Powder2 tsp Coriander Powder1 tsp Salt to taste Cardamoms2-3 Cloves2-3 Cinnamon Stick 1piece Cumin Seeds½ tsp Bay Leaf1 Yoghurt3 tbsp Tomato Puree as required Green Chillies3-4 Coriander Leaves4 tbsp Garam Masala Powder1/2 tsp Lemon Juice of 1 lemon",
+    "instructions": "Heat oil in a pan. Fry onions till golden brown. Add the ginger garlic paste. Add the boiled mutton and fry . Next throw in the red chilllli powder, coriander powder Salt, cardamom, cloves, cinnamon, cumin seeds. Bay leaf fry it and add a cup of water. Cook on slow heat. Once the mutton is done add the yogurt, tomato puree and cook till masala is fully cooked Add the dreenchillies, coriander leaves and garam masala powder. Stir well and cook on low heat.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "meat (mutton) 5",
+        "qty": 5.0,
+        "unit": "unit",
+        "grams": 500.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          800.0,
+          1000.0
+        ],
+        "cost_contrib_avg": 900.0
+      },
+      "onion": {
+        "ingredient_text": "onion 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1123.0,
+      "avg": 1271.75,
+      "max": 1420.5
+    }
+  }
+]

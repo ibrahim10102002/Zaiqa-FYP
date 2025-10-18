@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Bangladeshi roast Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Bangladeshi roast Recipe: Chicken 1 kg cut into 4 pieces give cuts on both sides Ginger garlic 2 tbsp Yogurt 1 cup Sugar 1 tbsp Salt 1 ½ tsp Mixed Whole spices 1 tbsp Bay leaf 1 Whole red chilies 15 Onion 1 large chopped Oil ¼ cup",
+    "instructions": "Marinate chicken pieces with yogurt, sugar, ginger garlic, salt, leave it for 4 hours. Heat ¼ cup oil add 1 large chopped onion fry till soft and very light golden. Add whole spices, whole red chilies, marinated chicken. Fry well till chicken golden on low flame for 10 minutes. Then add the marination, cover and cook till done. Remove.",
+    "prepTime": 250,
+    "cookTime": 270,
+    "totalTime": 520,
+    "recipeYield": "3-4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 174.3,
+      "avg": 206.05,
+      "max": 237.8
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Muzaffar Meethi Seviyan Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Muzaffar Meethi Seviyan Recipe: Vermicelli 250 grams Sugar ½ kg Water 1 ½ cup Ghee ¾ cup Almonds and pistachios (sliced)2 tbsp Fresh Milk 1 kg Green Cardamom (crushed) 1 tsp Saffron ¼ tsp Yellow Color pinch Kewra Water 1 tsp Lemon 1",
+    "instructions": "Cook water and sugar together for 10 minutes Heat ghee in a pan, fry vermicilie till dark golden Add milk, cook on high flame for 3 to 4 minutes Add half freshly squeezed lemon, cook till milk dries. Add in the prepared syrup with color, saffron and cardamom When sugar syrup dries, remove, garish with almonds pistachios and silver warq. Sweet dishes recipes by shireen anwar can be prepared within no matter of time. All you need is to serve Muzaffar Meethi Seviyan among friend and families and enjoy the cherishing memories.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          89.0,
+          89.0
+        ],
+        "cost_contrib_avg": 89.0
+      },
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "lemon": {
+        "ingredient_text": "lemon 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 137.5,
+      "avg": 144.5,
+      "max": 151.5
+    }
+  }
+]

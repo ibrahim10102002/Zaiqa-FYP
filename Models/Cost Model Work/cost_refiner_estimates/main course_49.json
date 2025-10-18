@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Beef Boti Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Beef Boti Recipe: Boneless Beef ½ kg Ginger Garlic Paste 2 tbsp Papaya Paste 2 tbsp Red Chili Paste 2 tbsp Yogurt 4 tbsp Turmeric Powder ½ tsp Garam Masala Powder 1 tsp Kabab Cheeni Powder ½ tsp Black Pepper (crushed) 1 tsp Lemon Juice 2 tbsp Oil 4-5 tbsp Salt to taste Coal as required",
+    "instructions": "Marinate beef with all seasoning and papaya paste .Bake it in oven or grill on coal. Serve with chutney",
+    "prepTime": 30.0,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "beef": {
+        "ingredient_text": "beef ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          450.0,
+          550.0
+        ],
+        "cost_contrib_avg": 500.0
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 633.0,
+      "avg": 716.0,
+      "max": 799.0
+    }
+  }
+]

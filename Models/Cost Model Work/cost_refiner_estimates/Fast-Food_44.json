@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Honey Beef Noodles Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Honey Beef Noodles Recipe: Undercut Beef ½ kg Capsicums 2 Spring Onions (chopped) 3 Noodles 1 packet Black Pepper (crushed) 1 tsp Sesame Seeds (roasted) 1 tbsp Oil 1 tbsp Soya Sauce 2 tbsp White Vinegar 2 tbsp Honey 2 tbsp Sesame Seed Oil ½ tbsp",
+    "instructions": "Make thin fillets of beef. Boil noodles, add oil while boiling. Drain out the water, wash them waith fresh water and add sesame seed oil to it. Heat oil in a wok, add beef fillets, add soya sauce and vinegar. Add honey, and stir well Lastly add black pepper, capsicums, Spring onions and roasted sesame seed. Leave it to simmer and serve hot.",
+    "prepTime": 45.0,
+    "cookTime": 60,
+    "totalTime": 105,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "beef": {
+        "ingredient_text": "beef ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          450.0,
+          550.0
+        ],
+        "cost_contrib_avg": 500.0
+      },
+      "capsicum": {
+        "ingredient_text": "capsicums 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          46.0,
+          48.0
+        ],
+        "cost_contrib_avg": 47.0
+      },
+      "onion": {
+        "ingredient_text": "onions (chopped) 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          57.0,
+          72.0
+        ],
+        "cost_contrib_avg": 64.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 643.0,
+      "avg": 711.5,
+      "max": 780.0
+    }
+  }
+]

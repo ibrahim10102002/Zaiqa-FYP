@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Thai Fish Cakes Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Thai Fish Cakes Recipe: Boneless Fish ½ kg Flour 3 tbsp Egg 1 Spring Onions (finely chopped) ½ cup Sriracha Sauce 2 tbsp Brown Sugar 1 tsp Salt 1 tsp Red Curry Paste 2 tbsp Corn Flour 1 tbsp heaved Bread Crumbs as required",
+    "instructions": "Put all the ingredients in the chopper and chopperize all. Make cutlets. Roll in crumbs and shallow fry. Thai Fish Cakes ready to serve with sweet chili sauce.",
+    "prepTime": 20,
+    "cookTime": 30,
+    "totalTime": 50,
+    "recipeYield": "6",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "onion": {
+        "ingredient_text": "onions (finely chopped) ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          22.8,
+          28.8
+        ],
+        "cost_contrib_avg": 25.8
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 68.6,
+      "avg": 74.05,
+      "max": 79.5
+    }
+  }
+]

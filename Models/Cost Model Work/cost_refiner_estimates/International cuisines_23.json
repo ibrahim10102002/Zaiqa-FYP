@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Chicken Szechwan Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Chicken Szechwan Recipe: Boneless chicken Strips ½ kg White pepper ½+ ½ tsp Salt ½ + ½ tsp Egg white 1 Corn flour 2 tbsp Oil 2 tbsp Carrot (julienned) 1 Capsicum (julienned) 1 Cabbage (julienned) 1 cup Bamboo shoots (julienned) 2 tbsp Garlic (chopped) 2 tbsp Chili sauce 2 tbsp Sweet sauce 2 tbsp Soya sauce 2 tbsp Oyster sauce 1 tbsp Stock 1 cup Corn flour 1 tbsp",
+    "instructions": "Marinate chicken with salt pepper, egg white, corn flour and oil, for 30 min. Deep fry for 5 min and remove. Heat oil fry chopped garlic, for 1 min, add all the vegetables. Fried chicken with all the seasoning add stock. Bring to boil thicken with corn flour paste and serve.",
+    "prepTime": 30,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "boneless chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "white pepper": {
+        "ingredient_text": "white pepper ½+ ½ tsp",
+        "qty": 0.5,
+        "unit": "unit",
+        "grams": 50.0,
+        "price_low": 3074.0,
+        "price_avg": 3074.0,
+        "price_high": 3074.0,
+        "cost_range": [
+          153.7,
+          153.7
+        ],
+        "cost_contrib_avg": 153.7
+      },
+      "egg": {
+        "ingredient_text": "egg white 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "corn flour": {
+        "ingredient_text": "corn flour 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 87.0,
+        "price_avg": 87.0,
+        "price_high": 87.0,
+        "cost_range": [
+          8.7,
+          8.7
+        ],
+        "cost_contrib_avg": 8.7
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum (julienned) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      },
+      "garlic": {
+        "ingredient_text": "garlic (chopped) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 427.8,
+      "avg": 472.75,
+      "max": 517.7
+    }
+  }
+]

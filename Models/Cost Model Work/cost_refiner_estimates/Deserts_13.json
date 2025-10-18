@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Khajoor Ka Halwa Recipe | Masala TV",
+    "ingredients": "Ingredients for Khajoor Ka Halwa Recipe: Dates (blended) 1-1/2 cup Semolina ½ cup Clarified butter ½ cup Desiccated Coconut 2 tbsp Cardamom powder ½ tsp Pistachios for garnish Condensed milk 4 tbsp",
+    "instructions": "Heat clarified butter and saute semolina in it. Then add condensed milk, cardamom powder and coconut powder. Now mix well and leave on medium flame. When semolina gets soft then saute it and take out in dish and garnish with pistachios.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "coconut": {
+        "ingredient_text": "coconut 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          90.0,
+          90.0
+        ],
+        "cost_contrib_avg": 90.0
+      },
+      "milk": {
+        "ingredient_text": "condensed milk 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          66.0,
+          116.0
+        ],
+        "cost_contrib_avg": 91.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 156.0,
+      "avg": 181.0,
+      "max": 206.0
+    }
+  }
+]

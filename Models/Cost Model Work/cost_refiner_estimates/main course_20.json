@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Makhni Karahi Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Makhni Karahi Recipe: Chicken Boneless 1kg Yogurt 250g Crushed Onions 1 cup Green Chilies 4 Butter 100g Green Chili Paste 1 tsp Red Chili Paste 1 tsp Crushed Coriander 1 tsp Ginger Garlic Paste 2 tsp Salt ½ tsp Turmeric Powder ½ tsp Crushed All Spices ½ tsp Oil 2 tbsp Green Coriander 2 tbsp",
+    "instructions": "In a pan add 1 cup crushed onions and put it on the stove and cook until the water dries. Now add 100g butter and heat 2 tbsp oil and then add 250g yogurt, 1 tsp green chili paste Add 1 tsp red chili paste, 2 tsp ginger garlic paste, ½ tsp salt, ½ tsp turmeric powder Add 1 tsp crushed coriander and ½ tsp crushed all spices and cook it properly. After that put 1kg boneless chicken and 4 whole green chilies and put it on simmer for 10 minutes. In the end sprinkle 2 tbsp green coriander and serve.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "onion": {
+        "ingredient_text": "onions 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 139.5,
+      "avg": 177.0,
+      "max": 214.5
+    }
+  }
+]

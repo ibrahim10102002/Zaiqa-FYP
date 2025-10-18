@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Jaleebi Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Jaleebi Recipe: All Purpose Flour ½ kg Sugar 1 kg Orange Food Color 1 pinch Yeast 1 tbsp Saffron few flakes Screw Pine Essence few drops Milk as required Silver Leaves as required Oil as required",
+    "instructions": "For sugar syrup: Take a cooking pan add water and add 1 kg of sugar mix it well add few drops of screw pine essence mix it well now sugar syrup is ready. For sugar syrup: Take a ½ tsp of sugar and 1 tbsp of yeast mix it well and leave it for 15 minutes when the yeast is raised add ½ kg of all purpose flours, 1 pinch of yellow food colour few drops of saffron and add as required milk make a mixture and leave it for 2 hours and when the mixture is ready beat it. Take a cooking pan heat the oil now take a mixture in a piping bag and round and round fry take it out in serving platter. dip into sugar syrup and garnish with silver leave and serve it.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "milk": {
+        "ingredient_text": "milk as required",
+        "qty": 1.0,
+        "unit": "as required",
+        "grams": 5,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          0.83,
+          1.45
+        ],
+        "cost_contrib_avg": 1.14
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 18.62,
+      "avg": 18.94,
+      "max": 19.25
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Crispy Fried Chicken Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Crispy Fried Chicken Recipe: Chicken (With skin) 1 Eggs 4 Oil for frying White Vinegar 1 cup Red Chili Powder 1 tbsp Gulzarâs Special Broast Masala 2 cup Salt to taste",
+    "instructions": "Take a mixing bowl add 1 cup of white vinegar, 1 tbsp of red chili powder, mix it well and make a marination. Now cut the chicken into 12 slices (cut very carefully ) then marinade the chicken pieces for ½ an hour. Take anpther mixing bowl add 4 eggs beat it and dip the chicken pieces then coat the gulzarâs special broast masala. Then deep fry the chicken. Now crispy fried chicken is ready.",
+    "prepTime": 70.0,
+    "cookTime": 90,
+    "totalTime": 160,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken (with skin) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "egg": {
+        "ingredient_text": "eggs 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          112.0,
+          131.6
+        ],
+        "cost_contrib_avg": 121.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 231.0,
+      "avg": 266.3,
+      "max": 301.6
+    }
+  }
+]

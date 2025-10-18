@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Tawa Qeema Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Tawa Qeema Recipe: Garlic, chopped 1 tbsp Ginger, chopped 1 tbsp Desi ghee ¼ cup Green chilies 3 Red chili, crushed 2 tsp Kasoori methi 1 tsp Turmeric powder 2 tsp Garam masala powder 1 tsp Fennel seeds, crushed 1 tsp Mango pickle paste 1 tbsp Salt to taste Onions 4 Spring onions 2 Tomatoes 5 Chicken mince, hand chopped 500 gm Fresh coriander ½ bunch",
+    "instructions": "SautÃ© garlic and ginger on tawa with desi ghee. Add all the spices along with the onions, chopped tomatoes and pickle paste and cook well. Then add mince, cook for at least 10 minutes. Finally put fresh coriander and serve.",
+    "prepTime": 20,
+    "cookTime": 45,
+    "totalTime": 65,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garam masala": {
+        "ingredient_text": "garam masala powder 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1306.0,
+        "price_avg": 1306.0,
+        "price_high": 1306.0,
+        "cost_range": [
+          130.6,
+          130.6
+        ],
+        "cost_contrib_avg": 130.6
+      },
+      "onion": {
+        "ingredient_text": "spring onions 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes 5",
+        "qty": 5.0,
+        "unit": "unit",
+        "grams": 500.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          121.0,
+          150.0
+        ],
+        "cost_contrib_avg": 135.5
+      },
+      "chicken": {
+        "ingredient_text": "chicken mince",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 486.1,
+      "avg": 550.6,
+      "max": 615.1
+    }
+  }
+]

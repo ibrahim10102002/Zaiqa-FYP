@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Kashmiri Mutton Kabab Recipe | Masala TV",
+    "ingredients": "Ingredients for Kashmiri Mutton Kabab Recipe: Mince ½ kg Bread slices 2 White vinegar 2 tbsp Green chilies 8 Black peppercorn 8 White cumin 1 tsp Egg 1 Bread crumbs as required Salt to taste Oil to fry",
+    "instructions": "Crush together 1 tsp white cumin, 8 green chilies and 8 black peppercorn and add it in ½ kg mince. Add in 2 bread slices. Add in 2 tbsp white vinegar and mix it well. Add in green chilies, black pepper and cumin seeds. Dip them in egg and roll them in bread crumbs. Fry it till golden brown and serve.",
+    "prepTime": 20,
+    "cookTime": 10,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          160.0,
+          200.0
+        ],
+        "cost_contrib_avg": 180.0
+      },
+      "black pepper": {
+        "ingredient_text": "black peppercorn 8",
+        "qty": 8.0,
+        "unit": "unit",
+        "grams": 800.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          1723.2,
+          1723.2
+        ],
+        "cost_contrib_avg": 1723.2
+      },
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1911.2,
+      "avg": 1933.65,
+      "max": 1956.1
+    }
+  }
+]

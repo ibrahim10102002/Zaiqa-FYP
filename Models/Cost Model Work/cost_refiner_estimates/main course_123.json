@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Bengan ka Bharta Recipe | Masala TV",
+    "ingredients": "Ingredients for Bengan ka Bharta Recipe: Aubergine 3 Oil ½ cup Garlic (chopped) 1 tbsp Green chilies (chopped) 4 Curry Leaves 15 Red Chili Powder 1 tsp heaped Coriander Powder 1 tsp Turmeric ½ tsp Cumin Seeds 1 tsp Ginger Garlic 1 tsp Yogurt (beaten) 1 ½ cup Coriander Leaves ½ cup",
+    "instructions": "Greased bengan with little oil and grill on a open flame, for 10 -15 min or roast in oven Till bengan tender. Remove the skin from bengan and prick well with a fork heat oil in a kadahi Add chopped garlic, green chilies, curry leaves, add in dry seasonings with ginger garlic paste, cumin seeds Fry masala well adding little water Then add mashed bengan, cook for 10 mins Lastly add beaten yoghurt coriander leaves, mix well and remove,",
+    "prepTime": 15.0,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "aubergine": {
+        "ingredient_text": "aubergine 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 100.0,
+        "price_avg": 102.5,
+        "price_high": 105.0,
+        "cost_range": [
+          30.0,
+          31.5
+        ],
+        "cost_contrib_avg": 30.75
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 130.0,
+      "avg": 161.25,
+      "max": 192.5
+    }
+  }
+]

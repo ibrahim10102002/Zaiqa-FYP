@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Baingan Achari Recipe | Masala TV",
+    "ingredients": "Ingredients for Baingan Achari Recipe: To be mixed into a marinade 2 tbsp ginger-garlic paste 1 tsp chili powder 1/2 tsp turmeric powder to taste salt 1 tsp oil Other ingredients 2 cups eggplant cut into 1 cubes oil for deep frying 1 tsp fennel seeds 1 tsp mustard seeds 1 tsp fenugreek seeds 1 tsp nigella seeds 1/2 tsp cumin seeds 1/2 tsp asafetida 2 tbsp oil 1/2 cup sliced onions 1 tsp ginger-garlic paste 1 tsp chopped green chilies 1/2 tsp turmeric powder 1/2 tsp chili powder 1/2 tsp garam masala 1/2 tsp dried mango powder to taste salt 3/4 cup curds 1/2 cup fresh cream 3 tbsp green coriander",
+    "instructions": "Combine the brinjals with the prepared marinade and toss gently. Keep aside for 15 minutes. Heat the oil in a kadhai and deep-fry the brinjals in it till they are golden brown. Keep aside. Combine the fennel seeds, mustard seeds, fenugreek seeds, onion seeds, cumin seeds and asafoetida in a small bowl and keep aside. Heat the oil in a pan and add the above mixture. When the seeds crackle, add the onions, ginger-garlic paste and green chillies and sautÃ© till the onions turn translucent. Add the turmeric powder, chilli powder, Punjabi garam masala, dry mango powder and salt and sautÃ© for 2 minutes. Add the curds, fried brinjals and fresh cream and mix gently. Cook for 4 to 5 min",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "achar": {
+        "ingredient_text": "achari",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 350.0,
+        "price_avg": 350.0,
+        "price_high": 350.0,
+        "cost_range": [
+          35.0,
+          35.0
+        ],
+        "cost_contrib_avg": 35.0
+      },
+      "garlic": {
+        "ingredient_text": "tsp ginger-garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "egg": {
+        "ingredient_text": "cups eggplant cut into 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "fenugreek": {
+        "ingredient_text": "tsp fenugreek seeds 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 44.0,
+        "price_avg": 45.5,
+        "price_high": 47.0,
+        "cost_range": [
+          4.4,
+          4.7
+        ],
+        "cost_contrib_avg": 4.55
+      },
+      "onion": {
+        "ingredient_text": "cup sliced onions 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "garam masala": {
+        "ingredient_text": "tsp garam masala 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1306.0,
+        "price_avg": 1306.0,
+        "price_high": 1306.0,
+        "cost_range": [
+          130.6,
+          130.6
+        ],
+        "cost_contrib_avg": 130.6
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 295.0,
+      "avg": 316.6,
+      "max": 338.2
+    }
+  }
+]

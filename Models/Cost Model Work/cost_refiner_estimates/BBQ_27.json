@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Boneless Chicken Tandoori Recipe | Masala TV",
+    "ingredients": "Ingredients for Boneless Chicken Tandoori Recipe: Chicken Breast 4 Oil ½ cup Nigella Seeds 1 tsp Garam Masala Powder 1 tsp Salt 1 tsp Red Chili Powder 1 tbsp Cumin Seeds (roasted) 1 tbsp Red Color ½ tsp Tatri ½ tsp Yogurt 1 cup Ginger Garlic 1 tbsp",
+    "instructions": "In a pan, add nigella seeds, garam masala powder, red chili, cumin seeds and fry. Now in a bowl,add red color, yogurt, ginger garlic, tatri, salt and mix. Then marinate chicken with masala and leave it for half an hour. After this, add in pan and cover it. When they are tender and fry. In the end, serve with rice.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 180.0,
+      "avg": 227.75,
+      "max": 275.5
+    }
+  }
+]

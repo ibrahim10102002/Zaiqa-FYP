@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Mango Jam Recipe | Masala TV",
+    "ingredients": "Ingredients for Mango Jam Recipe: 4 mangoes 1 Lemon Juice 1â2 lemon Lemon Zest 1-1/2 cups Sugar As required water",
+    "instructions": "Peel and dice mangoes. Measure mangoes, pour into a kettle, and add equal amount of sugar. Add juice of 1 lemon and zest of 1/2 of lemon. Add just enough water to keep from sticking, about 1/4-1/2 cup. Cook until soft. Immersion blends until smooth or work in batches with a blender. Cook until thickened. Pour in jars and seal.",
+    "prepTime": 15.0,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 113.8,
+      "avg": 116.05,
+      "max": 118.3
+    }
+  }
+]

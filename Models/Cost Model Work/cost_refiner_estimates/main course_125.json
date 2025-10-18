@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Tandoori Masala Fried Fish Recipe | Masala TV",
+    "ingredients": "Ingredients for Tandoori Masala Fried Fish Recipe: Boneless Fish (fingers) ½ kg Ginger Garlic Water 4 tbsp Tandoori Masala 2 tbsp Gram Flour ½ cup Cumin Seeds Powder 1 tsp Soda ¼ tsp Bread Crumbs ½ cup Oil for frying Salt as required Red Chilli Powder 1 tsp Chaat Masala2 tsp",
+    "instructions": "In a fish add all the given ingredients except oil and leave it for 2 to 3 hours. Now heat oil add marinated fish and fry.",
+    "prepTime": 15.0,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 61.0,
+      "avg": 83.25,
+      "max": 105.5
+    }
+  }
+]

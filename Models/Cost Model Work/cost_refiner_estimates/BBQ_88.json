@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Farm House Mix Grill Recipe | Mehboob Khan | Masala TV",
+    "ingredients": "Ingredients for Farm House Mix Grill Recipe: Liver 200 gms Undercut Beef 200 gms Mutton Heart 1 Chicken Sausages 2 Lemons 2 Whole Red Pepper 12 Cayenne Pepper 2-4 Red Chilies 2-4 Curry Leaves 8-10 Black Peppercorns 10-12 Carom Seeds a pinch Garlic 4 cloves Yogurt 1 cup Oil ½ cup Cumin seeds 1 tbsp Ginger 1 tbsp Salt to taste",
+    "instructions": "To make chili Sauce cook red chili, cayenne pepper and whole red pepper in a pan with water. Heat oil in another pan and cook garlic, ginger, cumin, black peppercorn , carom together.Mix well. Now add red chili sauce in a blender and blend, pour half of the sauce in mixing bowl, add lemon juice, oil, curry leaves and mix well. Now marinate liver, heart , sausages and beef in the mixture and stick it on skewers , now grill it on grill pan with oil. For Salad chop cucumbers, Mint leaves, ice berg and tomatoes. Mix salt and chopped mint leaves in yogurt. Add remaining red chili mixture on skewers and remove it on platter with salad and serve.",
+    "prepTime": 25,
+    "cookTime": 20,
+    "totalTime": 45,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/vNN4boy1qWA?list=PL_omWBKCy7Em0qkK0BZHE-DZRu3aHA8Ql",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "beef": {
+        "ingredient_text": "beef 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          180.0,
+          220.0
+        ],
+        "cost_contrib_avg": 200.0
+      },
+      "mutton": {
+        "ingredient_text": "mutton",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          160.0,
+          200.0
+        ],
+        "cost_contrib_avg": 180.0
+      },
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "lemon": {
+        "ingredient_text": "lemons 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      },
+      "garlic": {
+        "ingredient_text": "garlic 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          156.0,
+          222.0
+        ],
+        "cost_contrib_avg": 189.0
+      },
+      "ginger": {
+        "ingredient_text": "ginger 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 641.5,
+      "avg": 742.75,
+      "max": 844.0
+    }
+  }
+]

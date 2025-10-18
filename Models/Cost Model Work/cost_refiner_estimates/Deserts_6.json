@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Desi Chocolate Recipe | Masala TV",
+    "ingredients": "Ingredients for Desi Chocolate Recipe: Walnuts, pistachio, almonds, raisin ½ cup Coconut 2tbsp Khoya 3 tbsp Nutella ½ cup Dark chocolate 2 - 3 tbsp Butter paper",
+    "instructions": "Heat the pan and cook 2tbsp of coconut Then add all dry fruits and allow roasting them. Now add roasted khoya, roasted dry fruits b, nutellla and coconut, allow mixing them Melt chocolate in boiler and add in prepared mixture. Make small toffee from prepared mixture and wrap them in butter paper and serv.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "rai": {
+        "ingredient_text": "raisin ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 805.0,
+        "price_avg": 805.0,
+        "price_high": 805.0,
+        "cost_range": [
+          96.6,
+          96.6
+        ],
+        "cost_contrib_avg": 96.6
+      },
+      "coconut": {
+        "ingredient_text": "coconut 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          90.0,
+          90.0
+        ],
+        "cost_contrib_avg": 90.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 186.6,
+      "avg": 186.6,
+      "max": 186.6
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Aloo Pita Paratha Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Aloo Pita Paratha Recipe: Boiled potatoes ½ kg Pita Bread 8 Red chili flakes 1 tbsp Crushed black pepper 1 tsp Chopped green chilies 4 Cottage Cheese (grated) 1 Packet Lemons 2 Chopped green coriander 1 bunch Salt to taste Oil as required Flour 1 tbsp Water as required",
+    "instructions": "In some water, mix flour. peel the boiled potatoes and mash them. Add in red chili flakes, crushed black pepper, chopped green chilies, green coriander, lemon juice and cottage cheese and some salt. Put the mixture on a pita bread and cover it with other pita bread. Seal it with flour mixture. heat some oil in the pan and fry the pita paratha in it. serve hot.",
+    "prepTime": 20.0,
+    "cookTime": 30,
+    "totalTime": 50,
+    "recipeYield": "2-3",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "potato": {
+        "ingredient_text": "boiled potatoes ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          22.0,
+          27.5
+        ],
+        "cost_contrib_avg": 24.75
+      },
+      "black pepper": {
+        "ingredient_text": "crushed black pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      },
+      "lemon": {
+        "ingredient_text": "lemons 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 301.4,
+      "avg": 305.65,
+      "max": 309.9
+    }
+  }
+]

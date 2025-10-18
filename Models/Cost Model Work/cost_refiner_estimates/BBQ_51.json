@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Afghani Namkeen Boti Recipe | Masala TV",
+    "ingredients": "Ingredients for Afghani Namkeen Boti Recipe: Mutton(boneless) 500 grams Fat 250 grams Crushed Black Pepper 1 tsp Garlic Paste 1 tbsp Papaya Paste ½ cup Cinnamon Powder ½ tsp Oil 2 tbsp Lahori Salt to taste",
+    "instructions": "First take 250 grams of fat cut into small cubes. Take a mixing bowl add 500 grams of mutton , fat cubes , 1 tsp of crushed black pepper Add 1 tbsp of garlic paste, ½ tsp of cinnamon powder and a pinch of lahori salt Add ½ cup of papaya paste mix it and marinate for 2 hours. Now skewer the mutton and fat now bake it for nicely golden brown or steam at coals and fry in a fry pan. At last take it out in a serving dish and serve it with chapati.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton(boneless) 5",
+        "qty": 5.0,
+        "unit": "unit",
+        "grams": 500.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          800.0,
+          1000.0
+        ],
+        "cost_contrib_avg": 900.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 839.0,
+      "avg": 947.25,
+      "max": 1055.5
+    }
+  }
+]

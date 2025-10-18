@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Chanay ki Daal ka Halwa Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Chanay ki Daal ka Halwa Recipe: Split Yellow Gram ½ kg Sugar 2-1/2 cup Green Cardamoms 8 Full Cream Powder Milk 2 cup Almonds (finely chopped) 10 Pistachios (boiled & chopped) 15 Oil/Clarified Butter 2-1/2 cup Sugar 1 tsp Walnuts (finely chopped) as required Khoya as required",
+    "instructions": "Wash Split Yellow Gram with luke warm water, now boil it then grind it in chopper. Heat oil or clarified butter in a wok add sugar with green cardamom powder. Add ground gram in the wok and cook it well till it turns slightly brown. When sugar syrup starts appearing on top add powder milk and walnuts. Fry well Grease a platter and remove halwa once it starts giving out oil.",
+    "prepTime": 20,
+    "cookTime": 25,
+    "totalTime": 45,
+    "recipeYield": "5",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "milk": {
+        "ingredient_text": "milk 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          33.0,
+          58.0
+        ],
+        "cost_contrib_avg": 45.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 86.4,
+      "avg": 98.9,
+      "max": 111.4
+    }
+  }
+]

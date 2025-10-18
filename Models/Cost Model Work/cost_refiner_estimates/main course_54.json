@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Chicken 65 Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Chicken 65 Recipe: Boneless chicken ½ kg cubes Yogurt 2 tbsp Soya sauce 1 tbsp Corn flour 2 tbsp heaped Flour 2 tbsp Ginger 1 tbsp finely chopped Garlic 1 tsp finely chopped Chili powder 1 tsp Crushed red pepper 1 tsp All spice ½ tsp Lemon juice 1 tsp Egg 1 Salt 1 tsp leveled Green chilies 4 cut in strips and deep fried Orange red color pinch Curry leaves 15 to 20 Oil for deep frying",
+    "instructions": "In a bowl mix together Boneless chicken ½ kg cubes Yogurt 2 tbsp, Soya sauce 1 tbsp Corn flour 2 tbsp heaped Flour 2 tbsp, Ginger 1 tbsp finely chopped, Garlic 1 tsp finely chopped, Chili powder 1 tsp Crushed red pepper 1 tsp, All spice ½ tsp, Lemon juice 1 tsp, Egg 1, Salt 1 tsp leveled, Orange red color pinch marinate chicken in this for 2 hours, heat oil in a fry pan when the oil is hot deep fry chicken pieces until reddish brown, deep fry chicken until golden brown heat 2 tbsp oil in a wok add curry leaves deep fry green chilies add your fried chicken toss well serve hot with onion rings and lemon wedges.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "boneless chicken ½ kg cubes",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "corn flour": {
+        "ingredient_text": "corn flour 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 87.0,
+        "price_avg": 87.0,
+        "price_high": 87.0,
+        "cost_range": [
+          17.4,
+          17.4
+        ],
+        "cost_contrib_avg": 17.4
+      },
+      "ginger": {
+        "ingredient_text": "ginger 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "lemon": {
+        "ingredient_text": "lemon juice 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      },
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 792.9,
+      "avg": 958.6,
+      "max": 1124.3
+    }
+  }
+]

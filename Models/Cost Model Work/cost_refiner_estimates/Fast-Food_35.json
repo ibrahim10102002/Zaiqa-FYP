@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Cheese Butter Chicken Burger Recipe | Masala TV",
+    "ingredients": "Ingredients for Cheese Butter Chicken Burger Recipe: For Chicken Marination Chicken Breast Fillets2 Ginger Garlic Paste 1 tbsp Yogurt 2 tbsp Salt as required Red Chilli Powder 1 tsp White Cumin Seeds Powder ½ tsp Ingredients for Burger Buns Burger Buns 4 Tomatoes (sliced) 6-8 Cheese (sliced) 4 Cucumber(sliced) 6-8 Onion (sliced) 6-8 Butter 4 tsp Ingredients for Masala Finely Chopped Onion 1 Ginger Garlic Paste 1 tbsp Red Chilli Powder 1 tsp Cashew Nuts Powder1 tbsp Fenugreek Leaves 1 pinch Garam Masala Powder ½ tsp Cream 2 tbsp Tomato Paste 1 Butter 2 tbsp Oil 2 tbsp Salt as required Ingredients for Chutney Mayonnaise 4 tbsp Yogurt 6 tbsp Lemon Juice 1 tbsp Green Chilli Paste 1 tbsp",
+    "instructions": "Ingredients for Chicken Marination In a chicken add all the given ingredients and leave it for 2 hours. Now grill it and cut into slice. Ingredients for Masala Heat oil, butter add onion and fry. Then add ginger garlic paste, salt, tomato paste and fry well. Now add fenugreek leaves, garam masala powder, cashewnuts powder, chicken and mix well. Then in a bun spread butter and pour chutney. Now add chicken mixture. In the end, add cheese slice, tomato, cucumber, chutney and cover the second part of bun.",
+    "prepTime": 20.0,
+    "cookTime": 15,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 32.0,
+      "avg": 32.75,
+      "max": 33.5
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Tandoori Chicken Masala Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Tandoori Chicken Masala Recipe: Chicken ½ kg Lemons 3 Roasted Cumin Powder 1 tsp Crushed Red Chili 1 tbsp Ginger Garlic Paste 1 tbsp Tandoori Masala 2 tbsp Oil as required Salt to taste",
+    "instructions": "Wash chicken and keep it in the bowl. Add in lemon juice, roasted cumin, red chili flakes, 1 tbsp ginger garlic Paste, 2 tbsp tandoori Masala and some salt. Keep it for ½ an hour.3. Put them in BBQ sticks and grill it. Tandoori Chicken Masala by Zubaida Tariq is ready to serve.",
+    "prepTime": 30,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "lemon": {
+        "ingredient_text": "lemons 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          96.0,
+          100.5
+        ],
+        "cost_contrib_avg": 98.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 514.0,
+      "avg": 615.0,
+      "max": 716.0
+    }
+  }
+]

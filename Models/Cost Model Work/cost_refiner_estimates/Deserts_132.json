@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Classic Brownie Custard Recipe | Masala TV",
+    "ingredients": "Ingredients for Classic Brownie Custard Recipe: For brownie: Flour 200 gram Sugar 200 gram Cocoa powder 2 tbsp Oil ½ cup Eggs 4 Vanilla essence ½ tsp Baking powder ½ tsp Cold milk 1 cup Baking soda ½ tsp For custard: Milk 1 liter Corn flour 2 tbsp Cream 1 packet Sugar 1 cup White chocolate chip ½ cup Chocolate chip ½ cup Color sprinkles for garnish Cherry for garnish",
+    "instructions": "For brownie mix flour, sugar, coco powder, oil, eggs Add vanilla essence, baking powder, baking soda and milk. Now spread in a baking tray and bake on 180 degree for 20 minutes. When cool down make it in crush form. For custard put milk on flame for cooking. When it gets boil then add sugar and mix. When it again boils then add dissolve corn flour and add when it gets thick turn off the flame. Now in a dish take brownie and pour custard over it. Then add white chocolate chip. Then again repeat the layer and add chocolate chip. At end add cream, custard, color sprinkles and cherry for garnish.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "egg": {
+        "ingredient_text": "eggs 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          112.0,
+          131.6
+        ],
+        "cost_contrib_avg": 121.8
+      },
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "corn flour": {
+        "ingredient_text": "corn flour 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 87.0,
+        "price_avg": 87.0,
+        "price_high": 87.0,
+        "cost_range": [
+          17.4,
+          17.4
+        ],
+        "cost_contrib_avg": 17.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 215.8,
+      "avg": 238.1,
+      "max": 260.4
+    }
+  }
+]

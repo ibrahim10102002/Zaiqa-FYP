@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Olive Sundried Tomato Bread Recipe | Masala TV",
+    "ingredients": "Ingredients for Olive Sundried Tomato Bread Recipe: Flour 400 gm Rice Flour 60 gm Salt 1 tsp Yeast 1 tbsp Black Pepper as required Lukewarm Water 300 ml Olive Oil 1 tbsp Black Olives (chopped) 4oz Sundried Tomatoes (chopped) 4 oz Chopped Parsley 1 tbsp Chopped Basil 1 tbsp Sea Salt 1 tbsp",
+    "instructions": "Mix flour, rice flour, salt, pepper and yeast Add in the water and milk and mix to form soft but not sticky dough. Let it rise in an oiled bowl for an hour. Once doubled in size, knock back the dough and knead for a while Divide into two pieces and roll out each into a rectangle. Spread one with the olives and the other with the sundried tomatoes, parsley and basil. Roll up each dough and place seam side down on the tray. Make diagonal slashes on the top of each loaf Cover with oiled cling and leave to rise in a warm place for about 20 minutes. Brush the tops with water and some sea salt and bake at 230 degrees C for 15 minutes Reduce temperature to 190 degrees C and bake for a further 15 minutes, until well risen and golden. Tap the loaves to see if they are cooked. They should sound hollow. Cool on a wire rack.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "tomatoes": {
+        "ingredient_text": "tomatoes (chopped) 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          96.8,
+          120.0
+        ],
+        "cost_contrib_avg": 108.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 96.8,
+      "avg": 108.4,
+      "max": 120.0
+    }
+  }
+]

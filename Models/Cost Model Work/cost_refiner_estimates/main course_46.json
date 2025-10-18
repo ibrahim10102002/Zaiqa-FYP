@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Lahori Chicken Karahi Recipe | Masala TV",
+    "ingredients": "Ingredients for Lahori Chicken Karahi Recipe: Chicken 750g Butter 1/2cup Oil 1/2cup Onions (chopped) 1 Tomato 250g Green chili 6-7 Red chili (whole) 8-10 Salt 1-1/2tsp Black pepper (chopped) 1tsp Black pepper (powder) 1tsp Yogurt 4tbsp Cumin (powder) 1-1/2tsp Ginger garlic paste 1tbsp All spices (powder) 3/4tsp Ginger, coriander (chopped) for garnishing Lemon juice 1tbsp",
+    "instructions": "Heat oil and fry onions. Now add tomato, ginger garlic paste Add salt and black pepper powder and roast them. Mix chicken with yogurt. When the spices are roasting add whole red chili Add rest of the yogurt and the chicken to roast. Then add half cup of water and cover the pan Cook it on medium flame till the chicken tenders and then roast it. With it add cumin powder, all spices, black pepper chopped Add green chili, some chopped ginger, coriander and lemon juice and set it to simmer. Lastly set it on a dish and garnish it with chopped ginger and coriander and serve.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken 7",
+        "qty": 7.0,
+        "unit": "unit",
+        "grams": 700.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          416.5,
+          595.0
+        ],
+        "cost_contrib_avg": 505.75
+      },
+      "onion": {
+        "ingredient_text": "onions (chopped) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper (powder) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "hing": {
+        "ingredient_text": "coriander (chopped) for garnishing",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 6200.0,
+        "price_avg": 6200.0,
+        "price_high": 6200.0,
+        "cost_range": [
+          620.0,
+          620.0
+        ],
+        "cost_contrib_avg": 620.0
+      },
+      "lemon": {
+        "ingredient_text": "lemon juice 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1638.8,
+      "avg": 1766.3,
+      "max": 1893.8
+    }
+  }
+]

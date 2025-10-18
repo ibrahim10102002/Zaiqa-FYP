@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Bread Rusmalai Recipe | Masala TV",
+    "ingredients": "Ingredients for Bread Rusmalai Recipe: Bread (sliced)4 Milk 3 cup Ghee 1tsp Condensed Milk 3 tbsp Sugar 1/4 cup Almonds,Pistachios (chopped) 2 tbsp Saffron 1/4 tsp Cardamom Powder 1/2 tsp",
+    "instructions": "In a pan put ghee condense milk and milk, cook on medium flame till milk is reduced to half and is thick Add saffron to the boiling milk, keep stirring Then add sugar, keep stirring, fry the almonds and pistachio in 1 tea spoon ghee Add to the milk with cardamom powder, remove from fire, take bread slices remove the corners Now cut small circles from the bread slices At the time of serving take a bowl, add the prepared rabri, and drop the bread rounds. Let them soak for few mins and serve.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          49.5,
+          87.0
+        ],
+        "cost_contrib_avg": 68.25
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 116.8,
+      "avg": 154.3,
+      "max": 191.8
+    }
+  }
+]

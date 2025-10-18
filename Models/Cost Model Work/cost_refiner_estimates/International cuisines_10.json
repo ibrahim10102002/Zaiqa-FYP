@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Madrasi Chicken Curry Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Madrasi Chicken Curry Recipe: Coriander seeds 2 tbsp Fenugreek seeds 2 tbsp Mustard seeds 1 tbsp Cumin seeds 1 tsp Fennel seeds ½ tsp Black peppercorns 1 tsp Cinnamon stick 1 Cloves 5 Cardamom pods (seeded) 3 Ground turmeric 1 tbsp Bay leaves, crushed 2 Oil 2 tbsp Whole chicken 1 Oil 1 tbsp Finely chopped onion 1 Finely chopped red chillies 2 Finely chopped garlic 2 cloves Fresh ginger 2-inches piece Curry leaves 10 Chopped tomatoes 3-4 Chicken stock 200 ml Tamarind paste 2 tsp Fresh coriander leaves 2 tbsp Oil 2 tbsp Thinly sliced onion 1 Green cardamom pods (crushed) 3 Cinnamon stick 1 Cloves 4 Rice 400 gm",
+    "instructions": "In a pan, add the coriander seeds, fenugreek seeds, mustard seeds, cumin seeds, fennel seeds, black peppercorns, cinnamon stick, cloves, and cardamom seeds. Once they start to pop, add them to a grinder and grind until you have a fine powder. Place the spices, turmeric powder, and bay leaves in a bowl along with the oil and mix. Apply half the marinade all over the chicken and leave to marinade for 24 hours. Put the chicken in a deep pan and cook till done. You may also cook the chicken in the oven for 1-1 ½ hours depending on the size of your chicken. To check if the chicken is cooked piece the chicken by the leg and thigh and if the juices run clear, the chicken is cooked. Meanwhile, in another pan add oil, once hot add the rest of the marinade paste and cook for a couple of minutes. Add the onion, garlic, chilli, ginger and curry leaves and cook. Add the tomatoes, stock and cook further. Add the cooked chicken to the sauce and mix well. For the rice, heat oil and add the onion. Cook until the onions are golden in colour. Add the cardamom, cinnamon, cloves and stir. Add the rice and stir. Add the water and bring to the boil, turn down the heat to low and cover with a lid. Cook for 15 minutes then turn off the heat, leaving the lid on and leave to steam few minutes.",
+    "prepTime": 45,
+    "cookTime": 60,
+    "totalTime": 105,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken stock 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          119.0,
+          170.0
+        ],
+        "cost_contrib_avg": 144.5
+      },
+      "fenugreek": {
+        "ingredient_text": "fenugreek seeds 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 44.0,
+        "price_avg": 45.5,
+        "price_high": 47.0,
+        "cost_range": [
+          8.8,
+          9.4
+        ],
+        "cost_contrib_avg": 9.1
+      },
+      "black pepper": {
+        "ingredient_text": "black peppercorns 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      },
+      "onion": {
+        "ingredient_text": "thinly sliced onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "red chilli": {
+        "ingredient_text": "finely chopped red chillies 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 577.0,
+        "price_avg": 577.0,
+        "price_high": 577.0,
+        "cost_range": [
+          115.4,
+          115.4
+        ],
+        "cost_contrib_avg": 115.4
+      },
+      "garlic": {
+        "ingredient_text": "finely chopped garlic 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "ginger": {
+        "ingredient_text": "fresh ginger 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          44.0,
+          100.0
+        ],
+        "cost_contrib_avg": 72.0
+      },
+      "tomatoes": {
+        "ingredient_text": "chopped tomatoes 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          72.6,
+          90.0
+        ],
+        "cost_contrib_avg": 81.3
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 810.2,
+      "avg": 919.7,
+      "max": 1029.2
+    }
+  }
+]

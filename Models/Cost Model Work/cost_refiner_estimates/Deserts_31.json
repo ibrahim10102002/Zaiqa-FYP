@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Banana Baked French Toast Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Banana Baked French Toast Recipe: Bread Slices 4 Eggs 3 Milk 1-½ cup Sugar 4 tbsp Vanilla Essence ½ tsp Bananas (sliced) 4",
+    "instructions": "Beat together eggs, sugar, vanilla essence. Put bread slices in a Pyrex dish. Spread with beaten egg mixture topped with sliced bananas. Bake in a pre heated oven until 20 mins will set. Banana Baked French Toast ready to serve.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "eggs 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          84.0,
+          98.7
+        ],
+        "cost_contrib_avg": 91.35
+      },
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          71.2,
+          71.2
+        ],
+        "cost_contrib_avg": 71.2
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 171.7,
+      "avg": 185.3,
+      "max": 198.9
+    }
+  }
+]

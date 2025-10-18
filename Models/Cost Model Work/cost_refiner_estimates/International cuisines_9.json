@@ -1,0 +1,91 @@
+[
+  {
+    "name": "JALFREZI MACARONI RECIPE Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for JALFREZI MACARONI RECIPE Recipe: Chicken Boneless 300g Capsicum (cut in large cubes) 1 large Tomato (cut in large cubes) 3 pcs Onion (cut in large cubes) 1 large Cooking Oil 8 tbsp Yogurt (whipped) ½ cup Tomato paste ½ cup Salt 1 tbsp Ginger (sliced) 2 tbsp Green Chili (sliced) 3 pcs And Bake Parlor Macaroni, Bake Parlor Masala Mix Sachet (inside the pack)",
+    "instructions": "Boil pasta in salted boiling water for 5-7 minutes or till tender. Rinse under cold running water. Drain. Add 1 tbsp of oil to pasta, mix and set aside. In a pan add remaining oil add chicken spice sachet and tomato paste for a minute. Add 2 cups of water and bring it to boil cook for another 5 minutes. Add yogurt, ginger, green chili and cook on high heat for 3 minutes. Add capsicum, onion and tomato and cook for ½ minute. Remove and serve hot with pasta.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "macaroni": {
+        "ingredient_text": "macaroni",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 191.0,
+        "price_avg": 191.0,
+        "price_high": 191.0,
+        "cost_range": [
+          19.1,
+          19.1
+        ],
+        "cost_contrib_avg": 19.1
+      },
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum (cut in large cubes) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      },
+      "onion": {
+        "ingredient_text": "onion (cut in large cubes) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger (sliced) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          44.0,
+          100.0
+        ],
+        "cost_contrib_avg": 72.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 183.7,
+      "avg": 227.45,
+      "max": 271.2
+    }
+  }
+]

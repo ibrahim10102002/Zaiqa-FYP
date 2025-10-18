@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Potli Pulao Recipe | Masala TV",
+    "ingredients": "Ingredients for Potli Pulao Recipe: Beef 750 gm Rice 750 gm Onions 2 sliced Ginger garlic 2 tbsp Oil 1 cup Yogurt 1 cup Green chilies grinded 6 Green chilies whole 4",
+    "instructions": "In a pan add 7 cups water, beef, ginger garlic paste, make a small pouch of muslin cloth. Add in 4 tbsp pulao masala, 1 onion sliced, cover and boil on low heat till beef tender. Then remove the beef from stock, measure stock and make up to 6 cups, sieve the stock, discard the pouch. Heat oil, fry onion golden, add boiled beef with stock. Add salt 1 tbsp, bring to boil, add in soaked rice, cover and cook till rice done. Leave it on dum, serve with raita.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "beef": {
+        "ingredient_text": "beef 7",
+        "qty": 7.0,
+        "unit": "unit",
+        "grams": 700.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          630.0,
+          770.0
+        ],
+        "cost_contrib_avg": 700.0
+      },
+      "onion": {
+        "ingredient_text": "onions 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 746.0,
+      "avg": 837.5,
+      "max": 929.0
+    }
+  }
+]

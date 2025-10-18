@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Jalebi Recipe | Masala TV",
+    "ingredients": "Ingredients for Jalebi Recipe: FOR SHEERA: Sugar 1 kg Water 250 grams FOR JALEBI: Khameer 100 grams Flour 200 grams Soda Pinch Water 100 grams Oil for frying",
+    "instructions": "Cook sugar and water together till it gets a boil. Then turn off the stove. Method:For Jalebi Mix all the ingredients except oil and make a paste. Now put the mixture in jalebi cloth and make jalebis in hot oil. Fry till it gets brown in color from both the sides. Now put them in prepared sheera and serve.",
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "jalebi": {
+        "ingredient_text": "jalebi:",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 850.0,
+        "price_avg": 850.0,
+        "price_high": 850.0,
+        "cost_range": [
+          85.0,
+          85.0
+        ],
+        "cost_contrib_avg": 85.0
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 187.8,
+      "avg": 187.8,
+      "max": 187.8
+    }
+  }
+]

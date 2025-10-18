@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Chicken Malai Handi Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Chicken Malai Handi Recipe: Chicken Karahi Pieces ½ kg Cream 1 cup Tomato Paste 1 cup Yogurt 1 cup Tomato Paste 2 tbsp Red Chili Powder 1 tsp Turmeric Powder 1 tsp Black Pepper Powder 1 tsp Salt 1 tsp Ginger Garlic 2 tsp Onion Paste 1 cup Green Chilies 4 Corinader Leaves as required Butter 1 tbsp Oil ½ cup",
+    "instructions": "In a pan, heat oil add onion paste. When aroma comes add tomato apste, red chili powder, turmeric powder, black pepper powder, salt, ginger garlic and fry well. Now in chicken add masala and fry. Then add tomato paste, yogurt, cream and cover it, cook on slow flame. When chicken are tender, add green chilies, coriander leaves,butter and removes from the stove. Chicken Malai Handi is ready.",
+    "prepTime": 30.0,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "onion": {
+        "ingredient_text": "onion",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 238.0,
+      "avg": 296.5,
+      "max": 355.0
+    }
+  }
+]

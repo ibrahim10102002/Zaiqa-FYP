@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Malt Ice Cream Recipe | Masala TV",
+    "ingredients": "Ingredients for Malt Ice Cream Recipe: Evaporated milk 1 tin chilled Condense milk 1 tin Fresh cream whipped 1 ½ cup Maltisers powder 2 sachet Maltiser chocolate crush 1 1/2 cup Vanilla essence 1 tsp",
+    "instructions": "Beat chilled milk till double in volume. Mix in condense milk vanilla essence, powder, fold in fresh cream. Leave to set for 6 hours Open fold in coarsely crushed chocolate and freeze until set.",
+    "prepTime": 20,
+    "cookTime": 15,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "condense milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 33.0,
+      "avg": 45.5,
+      "max": 58.0
+    }
+  }
+]

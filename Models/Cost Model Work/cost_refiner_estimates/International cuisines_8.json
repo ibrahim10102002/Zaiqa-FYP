@@ -1,0 +1,77 @@
+[
+  {
+    "name": "China Town Chicken Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for China Town Chicken Recipe: Chicken 1/2kg Finely Chopped Ginger Garlic 2 tbsp Illicium Verum 2 White Pepper Powder 1/2tsp Crushed Black Pepper 1tsp Soya Sauce ½ cup Brown Sugar 4tbsp Vinegar 2tbsp Honey 1tbsp Chinese Salt 1/3tsp Oil 1-2 tbsp Salt to taste",
+    "instructions": "Take ½kg chicken in it add2tbsp finely chopped Garlic and ginger, water and 2 Illicium verum and boil it. Now in a mixing bowl put ½ tsp White pepper powder, 1tsp Crushed black pepper Add 1/2 cup soya sauce, 4tbsp brown sugar, 2tbsp vinegar, 1 tbsp honey Add 1/3 tsp Chinese salt, 1-2tbsp oil and salt to taste and mix it. Now add in chicken and cook till chicken is properly cooked and sauce becomes thyick.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "sugar": {
+        "ingredient_text": "sugar 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          71.2,
+          71.2
+        ],
+        "cost_contrib_avg": 71.2
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 290.2,
+      "avg": 346.2,
+      "max": 402.2
+    }
+  }
+]

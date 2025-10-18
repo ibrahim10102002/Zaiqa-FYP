@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Paneer Baisini Kababs Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Paneer Baisini Kababs Recipe: Chicken Breast(1 inch cubed) ½ kg Lemon Juice 2 tbsp Ginger Garlic 1 tbsp Black Pepper (crushed) 1 tsp Salt 1 tsp Red Chili Powder 1 tsp Nutmeg (ground) ¼ tsp Mace (ground) ¼ tsp Hung Curd 3 tbsp Cheddar (grated) 4 tbsp Butter 1 tbsp Dried Fenugreek Leaves 1 tsp Gram Flour 4 tbsp Oil ¼ cup All Spice ½ tsp Cumin (crushed) 1 tsp Orange color a pinch Chaat Masala 1 tsp",
+    "instructions": "Roast basin in oil for 2 mins. Marinate chicken with all the given ingredients for 1 hour. Bake on 180 C for 30 mins. Paneer Baisini Kababs is ready, serve hot with chutney.",
+    "prepTime": 20,
+    "cookTime": 25,
+    "totalTime": 45,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "fenugreek": {
+        "ingredient_text": "fenugreek",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 44.0,
+        "price_avg": 45.5,
+        "price_high": 47.0,
+        "cost_range": [
+          4.4,
+          4.7
+        ],
+        "cost_contrib_avg": 4.55
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 156.9,
+      "avg": 192.8,
+      "max": 228.7
+    }
+  }
+]

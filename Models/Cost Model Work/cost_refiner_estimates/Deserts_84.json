@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Litchi mousse Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Litchi mousse Recipe: Litchi 24 peel (remove skin) Cream 400 gm Gelatin 1 tsp heaped dissolved in ¼ cup water Coconut milk ½ cup Sugar 6 tbsp Cherries for decoration",
+    "instructions": "In a blender, blend litchi, cream, sugar, coconut milk, add to it dissolved gelatin. Blend well. Remove and pour in serving glasses. Decorate with litchis, cherries and piped cream.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "coconut": {
+        "ingredient_text": "coconut milk ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          54.0,
+          54.0
+        ],
+        "cost_contrib_avg": 54.0
+      },
+      "sugar": {
+        "ingredient_text": "sugar 6",
+        "qty": 6.0,
+        "unit": "unit",
+        "grams": 600.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          106.8,
+          106.8
+        ],
+        "cost_contrib_avg": 106.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 160.8,
+      "avg": 160.8,
+      "max": 160.8
+    }
+  }
+]

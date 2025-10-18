@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Trifle Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Trifle Recipe: Sponge Cake 1 Fruit Cocktail 1 tin Strawberry Jelly Powder 1 packet Fresh Cream 1 Packet Chopped Walnuts 1 Cup Fresh Milk ½ cup Vanilla Custard 3 tbsp Sugar 1 cup Chopped Bananas 4 Chopped Apples 1",
+    "instructions": "Crush the sponge cake and add in ½ cup fresh milk and lemon juice. In a pan, add on 1 cup sugar and cook it. Add some milk in the pan. When milk and sugar are cooked together.cool it. Mix custard with some milk and cook it with wooden spoon. In a bowl, put the prepared custard and the add crushed cake. Add in fruit cocktail and chopped fruits, jelly and fresh cream. Serve chilled",
+    "prepTime": 30,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          19.8,
+          34.8
+        ],
+        "cost_contrib_avg": 27.3
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 37.6,
+      "avg": 45.1,
+      "max": 52.6
+    }
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Pasta Sheesh Kabab Recipe | Masala TV",
+    "ingredients": "Ingredients for Pasta Sheesh Kabab Recipe: Chicken cubes boneless ½ kg Lemon juice 2 tbsp Ginger garlic 1 tsp Salt ½ tsp Crushed black pepper ½ tsp Soya sauce 1 tbsp Sweet chili sauce 2 tbsp Chili garlic sauce 2 tbsp Hoisin sauce 1 tbsp Onion cubed 1 Capsicum 1 cut into cubes Pineapple chunks ½ can Tomato cut into cubes 1 Rice stick noodles #10 soaked ½ packet BBQ Sauce 4 tbsp Ingredients to Saute Noodles Crushed garlic 1 tbsp Oil ¼ cup Crushed red pepper 1 tsp Sweet chili sauce 3 tbsp Siracha sauce 2 tbsp",
+    "instructions": "Marinate chicken cubes with all the given ingredients for 30 mins Put chicken cubes on skewers alternating with onion, capsicum, pineapple and tomato cubes Brush with BBQ sauce, pan fry in a fry pan. METHOD FOR PASTA In a wok, heat oil, add crushed garlic, fry till light golden Add crushed red pepper, sweet chili sauce, siracha sauce, toss your pasta in this Assemble skewers on top of pasta and serve.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken cubes boneless ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "lemon": {
+        "ingredient_text": "lemon juice 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      },
+      "garlic": {
+        "ingredient_text": "crushed garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "black pepper": {
+        "ingredient_text": "crushed black pepper ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          5.38,
+          5.38
+        ],
+        "cost_contrib_avg": 5.38
+      },
+      "onion": {
+        "ingredient_text": "onion cubed 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 564.88,
+      "avg": 666.13,
+      "max": 767.38
+    }
+  }
+]

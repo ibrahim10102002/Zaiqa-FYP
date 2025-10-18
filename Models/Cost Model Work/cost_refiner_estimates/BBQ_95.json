@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Dum ka Phaal Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Dum ka Phaal Recipe: Mutton Chops ½ kg Salt 1 tsp Small Green Chilies 15- 20 Green Coriander 2-3 tbsp Ginger Garlic Paste 1 tsp Oil 1/3 cup Potatoes 2 Capsicum 1 Green Chilies 6 Cumin Powder 1 tsp Onion 2 Crushed Black Pepper 1 tsp All Spice Powder ½ tsp",
+    "instructions": "Grind together green chilies and green coriander. Hammer the mutton chops and add in 1 cup water, salt, green chili and green coriander paste, ginger garlic paste. Mix it and cook till the chops tender. Slightly boil the sliced potatoes Add in onion, capsicum, crushed black pepper, cumin, all spice powder and potatoes in the chops/ Then add in ¼ cup and green chilies. Simmer for 10 mins and serve",
+    "prepTime": 20,
+    "cookTime": 30,
+    "totalTime": 50,
+    "recipeYield": "6",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          160.0,
+          200.0
+        ],
+        "cost_contrib_avg": 180.0
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "potato": {
+        "ingredient_text": "potatoes 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          8.8,
+          11.0
+        ],
+        "cost_contrib_avg": 9.9
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      },
+      "onion": {
+        "ingredient_text": "onion 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 290.8,
+      "avg": 339.65,
+      "max": 388.5
+    }
+  }
+]

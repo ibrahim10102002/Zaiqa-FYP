@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Nargisi Koftay Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Nargisi Koftay Recipe: Eggs 8 Beef / Mutton Mince 1 kg Onions 2 Almonds 6 Black Peppercorns 8 Small Cardamom 8 Salt to taste Black Cumin 1 tsp Red Chili Powder 1 tsp Roasted Black Gram 2 tbsp Poppy Seeds 2 tbsp Yogurt ½ cup Chopped Onions 3 Clarified Butter/ Oil 1 cup Small Cardamom 4 All Spice Powder 1 tsp Red Chili 1 tbsp Ginger Garlic Paste 1 tbsp Coriander Powder 2 tbsp Salt to taste",
+    "instructions": "Boil ½ mince and keep the other half unboiled. Chop onion and fry till golden brown. Take it out and let it dry. Grind together, poppy seeds, cumin, chopped almonds, black peppercorn, salt, 2 tbsp roasted gram, black cumin, black cumin, small cardamom and red chili and grind together. Add in grinded Masala in the boiled mince and add crushed onion and chop evething together. mix in beaten egg and mix everything together. Take mince in your hand and keep an egg in between and make a kabab. Heat oil and fry all the nargisi koftay. In ½ cup yogurt, add in 1 tbsp all spices, 2 tbsp coriander powder. Small cardamom,ginger garlic paste and salt and half of the onion. Cook this Masala and add in koftas in it. Add in 1 cup hot water. When oil separates, simmer it for 5 mins. Dish it out. Garnish it with fried onions and serve.",
+    "prepTime": 45.0,
+    "cookTime": 60,
+    "totalTime": 105,
+    "recipeYield": "6-8",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "eggs 8",
+        "qty": 8.0,
+        "unit": "unit",
+        "grams": 800.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          224.0,
+          263.2
+        ],
+        "cost_contrib_avg": 243.6
+      },
+      "beef": {
+        "ingredient_text": "beef /",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          90.0,
+          110.0
+        ],
+        "cost_contrib_avg": 100.0
+      },
+      "mutton": {
+        "ingredient_text": "mutton",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          160.0,
+          200.0
+        ],
+        "cost_contrib_avg": 180.0
+      },
+      "onion": {
+        "ingredient_text": "onions 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          57.0,
+          72.0
+        ],
+        "cost_contrib_avg": 64.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 630.0,
+      "avg": 714.35,
+      "max": 798.7
+    }
+  }
+]

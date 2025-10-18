@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Beef and Chili Macaroni Recipe | Masala TV",
+    "ingredients": "Ingredients for Beef and Chili Macaroni Recipe: Boiled penne pasta ½ packet Under cut beef sliced 350 grams Capsicum slices 2 large Onions slices 1 large Green chili slices 1 large Ketchup 1 cup Soy sauce 4 tbsp Salt 1 tsp Oil 5 tbsp Garlic chopped 3 tbsp Ginger slices 2 tbsp",
+    "instructions": "In a pan heat oil and fry garlic .now beef fry on high flame for 2 minutes . Then salt .soy sauce and ketchup add and fry for 1 minute . After this all vegetables mix and garlic and fry for half an hour . Finally pasta add and mix then serve .",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "beef": {
+        "ingredient_text": "under cut beef sliced 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          270.0,
+          330.0
+        ],
+        "cost_contrib_avg": 300.0
+      },
+      "macaroni": {
+        "ingredient_text": "macaroni",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 191.0,
+        "price_avg": 191.0,
+        "price_high": 191.0,
+        "cost_range": [
+          19.1,
+          19.1
+        ],
+        "cost_contrib_avg": 19.1
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum slices 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          46.0,
+          48.0
+        ],
+        "cost_contrib_avg": 47.0
+      },
+      "onion": {
+        "ingredient_text": "onions slices 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "garlic": {
+        "ingredient_text": "garlic chopped 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          117.0,
+          166.5
+        ],
+        "cost_contrib_avg": 141.75
+      },
+      "ginger": {
+        "ingredient_text": "ginger slices 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          44.0,
+          100.0
+        ],
+        "cost_contrib_avg": 72.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 605.1,
+      "avg": 701.35,
+      "max": 797.6
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Shahi Daal Handi Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Shahi Daal Handi Recipe: 1 cup white lentil 8 almonds cut in half 1/4 tsp turmeric 2 cardamom 1 cup milk 1 tbsp ghee 1 tsp cumin 1/2 cup finely chopped onion 1 tsp finely chopped garlic 1/2 cup chopped tomato Salt 1 tsp 1/2 tsp garam masla powder 2 tbsp coriander",
+    "instructions": "Clean wash and soak dal for 4 hrs In a pan add daal almond turmeric,cardamom nd 1 cup water let it cook once daal tender remove the cardamon seeds add 1 cup milk and whisk till smooth heat ghee on a pan add cumin with onion and garlic SautÃ© a little then add in the tomatoes and garam masala powder mix well and cook on flame till tomatoes tender pour in the daal mixture mix well serve with coriander leaves",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "cup milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "onion": {
+        "ingredient_text": "cup finely chopped onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "garlic": {
+        "ingredient_text": "tsp finely chopped garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 74.5,
+      "avg": 91.5,
+      "max": 108.5
+    }
+  }
+]

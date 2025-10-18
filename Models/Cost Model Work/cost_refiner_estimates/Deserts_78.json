@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Mango Cream Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Mango Cream Recipe: Mango pulp 1 cup Mango Pieces 1 cup Fresh Cream ½ cup Sugar powder 1 tbsp Beaten cream to garnish",
+    "instructions": "Mix together, 1 cup mango pulp, ½ cup fresh cream Add 1 tbsp sugar powder in a bowl and mix it. Separate some of the mango pieces and layer the remaining mango pieces in glasses. Add in mango cream on it. Pour over the beaten cream and garnish it with mango pieces. Serve chilled.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar powder 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 17.8,
+      "avg": 17.8,
+      "max": 17.8
+    }
+  }
+]

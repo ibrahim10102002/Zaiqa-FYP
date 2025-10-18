@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Dairy Free Lasagna Recipe | Masala TV",
+    "ingredients": "Ingredients for Dairy Free Lasagna Recipe: Brinjal (sliced) 1 Zucchini (sliced) 2 Spinach (chopped) 8 oz Onions (chopped) 2 Capsicum (chopped) 1 Garlic 2 cloves Tomatoes (chopped) 2 cups Tomato Puree 1 cup Caster Sugar ¼ tsp Chopped Basil 3 tbsp Lasagna Sheets (boiled) 1 packet Salt to taste Black Pepper to taste Oil as required",
+    "instructions": "Place brinjal slices in a colander sprinkle liberally with salt and let stand 30 minutes. Heat 1 tbsp oil, fry the zucchini slices for a minute on both sides and set aside. Put salt and pepper in the chopped spinach. Heat remaining oil, wash the brinjal slices and pat dry and then fry them on both sides. Set aside. To the same oil, add onions, capsicum and garlic and sautÃ© Add the tomatoes, tomato puree, sugar and let tomatoes cook. Simmer until thickened, stir in basil and add salt and pepper. In a greased dish add a little of the sauce, then lasagna sheets, brinjal slices, tomato sauce Add lasagna sheets, spinach, tomato sauce and zucchini slices. Bake for 20 minutes in a preheated oven at 180 degrees C until golden on top.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "onions (chopped) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum (chopped) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      },
+      "garlic": {
+        "ingredient_text": "garlic 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes (chopped) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          48.4,
+          60.0
+        ],
+        "cost_contrib_avg": 54.2
+      },
+      "sugar": {
+        "ingredient_text": "sugar ¼ tsp",
+        "qty": 0.25,
+        "unit": "tsp",
+        "grams": 1.25,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          0.22,
+          0.22
+        ],
+        "cost_contrib_avg": 0.22
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 187.62,
+      "avg": 215.42,
+      "max": 243.22
+    }
+  }
+]

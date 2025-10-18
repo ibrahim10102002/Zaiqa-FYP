@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Sabzi kheer Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Sabzi kheer Recipe: Bottle gourd 1 to 2 Milk 1 liter Rice 4 tbsp Khoya 125 gm Kewra essence few drops Cardamom powder ½ tsp Centaurea 5 gm Tukhm imli kla 5 gm Sugar 1 cup Clarified butter 4 tbsp Dry fruits for garnish",
+    "instructions": "First peel to bottle gourd (Lauki) and deseed them to grate. In a pan heat 4 tbsp clarified butter Add grated bottle gourd with ½ tsp cardamom powder to suate and cool it. Then add 1 liter milk with 1 cup sugar to mix and cook on low flame till it starts to boil and sugar dissolves. Then add 4 tbsp rice powder. When batter turned thick add 125 gm khoya to mix and dish it out.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 34.3,
+      "avg": 40.55,
+      "max": 46.8
+    }
+  }
+]

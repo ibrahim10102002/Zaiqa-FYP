@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Chicken Tikka Masala Biryani Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Chicken Tikka Masala Biryani Recipe: Rice(boiled) ½ kg Chicken ½ kg Tomatoes ½ kg Yogurt ½ cup Chicken Tikka Masala 2 tbsp Ginger Garlic Paste 1tbsp Star Anise Seeds 4 Green Cardamoms 4 Red Chili 2 tsp Salt 1 tsp Fried Onion 1cup Mint Leaves 1/2 bunch Green Chilies 6 Oil 1 cup",
+    "instructions": "Marinate chicken with tikka masala and leave it half an hour. Now in a pan, heat oil add chicken and fry , cover it. Add tomatoes and cook on low flame. When chicken are tender and removes from the stove. After this, in a separate pan add Fried Onion, Red Chili, Green Cardamoms, Salt, Red Chili, Mint Leaves and mix. Now in separate pan, give rice layer. Add chicken and tomatoes masala, let it simmer for half an hour.",
+    "prepTime": 70.0,
+    "cookTime": 90,
+    "totalTime": 160,
+    "recipeYield": "4-6",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          121.0,
+          150.0
+        ],
+        "cost_contrib_avg": 135.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 617.5,
+      "avg": 746.0,
+      "max": 874.5
+    }
+  }
+]

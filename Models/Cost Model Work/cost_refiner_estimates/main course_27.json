@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Teh Wali Biryani Recipe | Masala TV",
+    "ingredients": "Ingredients for Teh Wali Biryani Recipe: Chicken 1 kg 12 pcs Yogurt ½ kg Roasted and crushed cumin 1½ tsp Chili powder 2 tbsp Orange food color ½ tsp Turmeric 1 tsp leveled Salt 1½ tsp Rice 750 gm boiled till 1 kani done and 3 kani raw with 2 tbsp salt Tomatoes 3 medium sliced Potatoes 4 medium cut in thick slices Oil ½ cup heaped Cloves 6 Black pepper 6 Black cardamom 2 Coriander leaves ½ bunch chopped Mint leaves ½ bunch chopped Green chilies 8",
+    "instructions": "Marinate chicken with yogurt, chili powder, turmeric, cumin, salt Add orange food color, keep aside for 2 hours, in a pan Now layer sliced potatoes, top with marinated chicken, sprinkle whole spices Now top with tomato slices, chopped coriander, mint and green chilies Now top with 1 kani boiled rice, drizzle ½ cup oil on top of rice Now cover and cook on medium flame for 20 mins Then put on dum for 20 mins, mix and serve.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          72.6,
+          90.0
+        ],
+        "cost_contrib_avg": 81.3
+      },
+      "potato": {
+        "ingredient_text": "potatoes 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          17.6,
+          22.0
+        ],
+        "cost_contrib_avg": 19.8
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper 6",
+        "qty": 6.0,
+        "unit": "unit",
+        "grams": 600.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          1292.4,
+          1292.4
+        ],
+        "cost_contrib_avg": 1292.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1442.1,
+      "avg": 1465.75,
+      "max": 1489.4
+    }
+  }
+]

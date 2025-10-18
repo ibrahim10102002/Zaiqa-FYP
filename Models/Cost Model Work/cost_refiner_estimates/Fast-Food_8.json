@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Kung Pao Prawns Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Kung Pao Prawns Recipe: Clean prawns ½ kg Salt ½ tsp + ½ tsp White pepper ½ + ¼ tsp Egg white 1 Corn flour 1 tbsp + 2 tbsp Oil ¼ cup Chili sauce 2 tbsp heaped Red chili whole 10 â 12 Capsicum (chopped) 1 Spring onion (1 inch pieces) 2 Onion (sliced half inch) 1 Garlic (crushed) 1 tbsp Soya sauce 2 tbsp Ketchup 4 tbsp Stock 1 cup",
+    "instructions": "Marinate prawns with salt pepper half tsp each, 1 egg white, corn flour 2 tbsp mix well, leave it for 10 min, deep fry prawns till light golden, remove and keep aside Heat oil add garlic, fry for 1 min add vegetables seasons stocks, fried prawns cook till mixture boiling, thicken with corn flour paste and remove.",
+    "prepTime": 20.0,
+    "cookTime": 45,
+    "totalTime": 65,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "white pepper": {
+        "ingredient_text": "white pepper ½ + ¼ tsp",
+        "qty": 0.5,
+        "unit": "unit",
+        "grams": 50.0,
+        "price_low": 3074.0,
+        "price_avg": 3074.0,
+        "price_high": 3074.0,
+        "cost_range": [
+          153.7,
+          153.7
+        ],
+        "cost_contrib_avg": 153.7
+      },
+      "egg": {
+        "ingredient_text": "egg white 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "corn flour": {
+        "ingredient_text": "corn flour 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 87.0,
+        "price_avg": 87.0,
+        "price_high": 87.0,
+        "cost_range": [
+          8.7,
+          8.7
+        ],
+        "cost_contrib_avg": 8.7
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum (chopped) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      },
+      "onion": {
+        "ingredient_text": "onion (sliced half inch) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "garlic": {
+        "ingredient_text": "garlic (crushed) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 290.4,
+      "avg": 306.6,
+      "max": 322.8
+    }
+  }
+]

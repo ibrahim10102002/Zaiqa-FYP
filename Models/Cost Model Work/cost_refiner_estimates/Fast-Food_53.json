@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Meatball Pizza Recipe | Masala TV",
+    "ingredients": "Ingredients for Meatball Pizza Recipe: For dough Flour ½ kg Yeast 1 tbsp Salt 1 tsp Thyme, oregano ½ tsp Oil 4 tbsp Yogurt 2 tbsp Mozzarella cheese 1-1/2 cup Pizza sauce 1 cup Cheddar cheese 1 cup Ingredients for filling: Chicken mince 300 gram Crushed garlic 1 tsp Chopped onion 1 Thyme, oregano ½ tsp Crushed black pepper 1 tsp Salt ¾ tsp Worcestershire sauce 1 tbsp Oil for frying Ingredients for garnish: Capsicum 1 Onion 1 Crushed red chili as required",
+    "instructions": "Mix all ingredients of dough and knead soft dough. For filling mix all ingredients then grind them and make small balls then fry. Cut onion and capsicum in cubes. When dough rises then again knead it and make two parts. Roll down one part and set it in pizza pan and leave for 10 minutes. Make marks with fork. Now put pizza sauce and little cheese. Then put fry meat balls, onion and capsicum and more cheese. Sprinkle crushed red chili. Now bake in pre heat oven until cheese melt and base cook well.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "capsicum": {
+        "ingredient_text": "capsicum 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 42.0,
+      "avg": 45.0,
+      "max": 48.0
+    }
+  }
+]

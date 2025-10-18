@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Dalye ka Halwa Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Dalye ka Halwa Recipe: Dalya crushed 250 gms soaked for 4 hours Ghee ¼ cup heaved Sugar ¾ cup Green cardamom 5 whole coarsely grounded Coconut sliced 2 tbsp Raisins 2 tbsp Water 2 ½ cups",
+    "instructions": "Heat ghee, add green cardamom with dalya. Fry well. Add 2½ cups of water. Simmer on low flame until tender. Add sugar, coconut and mix well. Leave it on dum for 10 mins. Serve with malai or milk.",
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar ¾ cup",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "coconut": {
+        "ingredient_text": "coconut sliced 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          90.0,
+          90.0
+        ],
+        "cost_contrib_avg": 90.0
+      },
+      "rai": {
+        "ingredient_text": "raisins 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 805.0,
+        "price_avg": 805.0,
+        "price_high": 805.0,
+        "cost_range": [
+          161.0,
+          161.0
+        ],
+        "cost_contrib_avg": 161.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 268.8,
+      "avg": 268.8,
+      "max": 268.8
+    }
+  }
+]

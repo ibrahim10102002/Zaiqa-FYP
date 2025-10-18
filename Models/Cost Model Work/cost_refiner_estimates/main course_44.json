@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Mutton Tikka Masala Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Mutton Tikka Masala Recipe: Meat ½ kg Lemon 3 Roasted and Crushed Cumin 1tsp Crushed Red Chilies 1 tbsp Crushed Raw Papaya 1 tbsp Ginger Garlic Paste 1 tbsp Tikka Masala 2 tbsp Oil as required Salt to taste",
+    "instructions": "Put ½ kg meat in a bowl after washing it. Now add 3 lemons, 1 tsp roasted and crushed cumin, 1 tbsp crushed red chilies Add 1 tbsp crushed raw papaya, 1 tbsp ginger garlic paste, 2 tbsp tikka masala Add salt to taste and keep it for 30 minutes. Now put them on skewers and grill them or grease them and put them on griller. When water evaporates, then apply oil with the help of the brush. Delicious mutton tikka masala is ready.",
+    "prepTime": 20.0,
+    "cookTime": 25,
+    "totalTime": 45,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          160.0,
+          200.0
+        ],
+        "cost_contrib_avg": 180.0
+      },
+      "lemon": {
+        "ingredient_text": "lemon 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          96.0,
+          100.5
+        ],
+        "cost_contrib_avg": 98.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 317.0,
+      "avg": 361.5,
+      "max": 406.0
+    }
+  }
+]

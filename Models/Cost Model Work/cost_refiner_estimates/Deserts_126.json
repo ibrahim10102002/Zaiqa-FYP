@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Thandai Ice cream Recipe | Masala TV",
+    "ingredients": "Ingredients for Thandai Ice cream Recipe: Cream ½ kg Milk 1 liter Green cardamom powder 6-8 pieces Cashew nut powder ¼ cup Pistachio powder 2 tbsp Saffron a pinch Sugar 1-1/2 cup Almond powder 3 tbsp Whole dried milk 1 cup Corn flour 5 tbsp Evaporated milk 1 tin",
+    "instructions": "In a pan add milk, cream and sugar. Bring it to boil then add evaporated milk mixed with corn flour and keep mixing for a minute. Now add remaining ingredients and cook for 5 minutes then cool and grind to a fine paste. Then add this to the ice cream machine and freeze for 45 minutes. Remove and freeze. Serve.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "evaporated milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "corn flour": {
+        "ingredient_text": "corn flour 5",
+        "qty": 5.0,
+        "unit": "unit",
+        "grams": 500.0,
+        "price_low": 87.0,
+        "price_avg": 87.0,
+        "price_high": 87.0,
+        "cost_range": [
+          43.5,
+          43.5
+        ],
+        "cost_contrib_avg": 43.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 110.8,
+      "avg": 129.55,
+      "max": 148.3
+    }
+  }
+]

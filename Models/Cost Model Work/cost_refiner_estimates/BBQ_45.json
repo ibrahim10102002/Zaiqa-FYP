@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Chaat Masala Steam Chicken Recipe | Masala TV",
+    "ingredients": "Ingredients for Chaat Masala Steam Chicken Recipe: Chicken Legs 4 Yogurt 1-1/2 cup Ingredients for Chaat Masala: Chili powder 1 tsp Black salt 1 tsp Salt ½ tsp Fennel seeds 1 tsp Cumin seeds 1-1/2 tbsp Coriander 1-1/2 tbsp Carom seeds 1 tsp Black pepper 1 tsp Tatric acid ¼ tsp",
+    "instructions": "In a spice grinder, add all the ingredients of chaat masala and grind to a fine powder. In a bowl add chicken, yogurt and chaat masala, mix well and marinate for 2 to 3 hours. In a steamer place the chicken and cook on medium heat for 15 to 20 minutes and serve hot.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "black pepper": {
+        "ingredient_text": "black pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 215.4,
+      "avg": 215.4,
+      "max": 215.4
+    }
+  }
+]

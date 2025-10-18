@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Kunna Masala Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Kunna Masala Recipe: Black cumin 6 tbsp Nutmeg 1 tbsp Whole coriander 8 tbsp Whole black pepper 2 tbsp Star anise 2 Cloves 1 tbsp Small cardamom 1 tbsp",
+    "instructions": "On a flat pan add 6 tbsp black cumin, 1 tbsp nut meg Add 8 tbsp whole coriander, 2 tbsp whole black pepper Add 2 star anise, 1 tbsp clove and 1 tbsp small cardamom to suate. Then grind them in a grinder.",
+    "prepTime": 10.0,
+    "cookTime": 15,
+    "totalTime": 25,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "black pepper": {
+        "ingredient_text": "whole black pepper 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          430.8,
+          430.8
+        ],
+        "cost_contrib_avg": 430.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 430.8,
+      "avg": 430.8,
+      "max": 430.8
+    }
+  }
+]

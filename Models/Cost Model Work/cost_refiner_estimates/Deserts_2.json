@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Khushk Doodh kay Gulab Jaman Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Khushk Doodh kay Gulab Jaman Recipe: Plain Flour ½ cup Full Cream Milk 2 cup Baking Soda 1 tsp Ghee 35 gms Cardamom Powder 1 pinch Milk for kneading Ghee for frying Sugar ½ kg Water ½ litre Kewra Essence few drops Almonds as required Pistachios as required",
+    "instructions": "In a bowl, add full cream milk, baking soda, cardamom powder mix it and knead with the ghee. Now makes small ball and fry in heat ghee, take it out in a dish. In a pan, add sugar, water , kewra essence and let it cook. Place syrup on a low flame and dip golden brown gulab jamans in the syrup before you serve. Garnish with almonds and pistachios.",
+    "prepTime": 45,
+    "cookTime": 60,
+    "totalTime": 105,
+    "recipeYield": "4-6",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk for kneading",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          89.0,
+          89.0
+        ],
+        "cost_contrib_avg": 89.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 138.5,
+      "avg": 157.25,
+      "max": 176.0
+    }
+  }
+]

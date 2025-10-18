@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Palak Murgh Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Palak Murgh Recipe: Spinach (boiled) 1 kg Chicken 1 kg Tomatoes Paste 1 cup Yogurt 250 gms Ginger Garlic Paste 1 tbsp Turmeric Powder ½ tsp Red Chilies (chopped) 2 tsp Onions Paste 1 cup Green Chilies 4 Salt ½ tsp Oil ½ cup Mix Garam Masala 1 tbsp Fenugreek Leaves 250 gms",
+    "instructions": "Finely chop spinach cut into small pieces and boiled. In a pan, heat oil add garam masala powder and onions paste. When onions till golden brown, add chicken pieces, ginger garlic paste, chopped red chilies and salt. Add beaten yogurt, tomatoes paste fry well. Now add boiled spinach and cook on high flame. Cook on low flame add green chilies and fenugreek leaves. Removes from the stove, let it simmer for 10 minutes.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          24.2,
+          30.0
+        ],
+        "cost_contrib_avg": 27.1
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "onion": {
+        "ingredient_text": "onions",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "fenugreek": {
+        "ingredient_text": "fenugreek",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 44.0,
+        "price_avg": 45.5,
+        "price_high": 47.0,
+        "cost_range": [
+          4.4,
+          4.7
+        ],
+        "cost_contrib_avg": 4.55
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 168.1,
+      "avg": 208.65,
+      "max": 249.2
+    }
+  }
+]

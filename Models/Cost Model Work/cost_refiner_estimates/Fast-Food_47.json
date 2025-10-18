@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Garlic Skinny Fries Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Garlic Skinny Fries Recipe: Potatoes 500 grams Corn Flour as required Oil for frying Salt to taste Ketchup as required Garlic Powder as required",
+    "instructions": "Take ½ kg of potatoes cut into thick slices. Now sieve the corn flour mix it well. Take a cooking pan fry the fries and till its light golden brown. At last take it out in a serving platter. Sprinkle the salt and garlic powder, mix it well. Serve it with ketchup. Skinny fries is ready.",
+    "prepTime": 15.0,
+    "cookTime": 10,
+    "totalTime": 25,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "potato": {
+        "ingredient_text": "potatoes 5",
+        "qty": 5.0,
+        "unit": "unit",
+        "grams": 500.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          22.0,
+          27.5
+        ],
+        "cost_contrib_avg": 24.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 100.0,
+      "avg": 119.25,
+      "max": 138.5
+    }
+  }
+]

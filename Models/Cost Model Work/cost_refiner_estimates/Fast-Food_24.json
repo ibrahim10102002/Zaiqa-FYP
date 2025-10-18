@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Mayo Fried Chicken Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Mayo Fried Chicken Recipe: Chicken Breast Fillet 4 Mayonnaise 1 cup Bread Crumbs 2 packet Eggs 4-5 Corn Flour ½ cup Flour ½ cup Mustard Powder 1 tsp Baking Powder 1 tsp Sugar 1 tsp Garlic Paste 1 tbsp Red Pepper (crushed) 1 tbsp Black Pepper (crushed) ½ tbsp Oil for frying Salt to taste",
+    "instructions": "Mix together garlic, mayonnaise, red pepper, mustard powder, sugar, black peer and salt. Mix well In separate bowl mix flour, corn flour and baking powder. Dip chicken fillet in mayonnaise mixture , then fold in flour mixture, dip in beaten eggs. Deep fry in hot oil.",
+    "prepTime": 30.0,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "egg": {
+        "ingredient_text": "eggs 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          112.0,
+          131.6
+        ],
+        "cost_contrib_avg": 121.8
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 287.8,
+      "avg": 331.35,
+      "max": 374.9
+    }
+  }
+]

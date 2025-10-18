@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Kofta Karahi Recipe | Masala TV",
+    "ingredients": "Ingredients for Kofta Karahi Recipe: Chicken Mince 400 g Onion ¼ cup Ginger 1 tbsp Salt 1 tsp Red Chili Powder ½ tsp Turmeric ¼ tsp Tara Gram Masala 1 tsp Bread Slices 1-2 For Karahi: Oil ¼ cup Onion Sliced 1 Chopped Garlic 1 tbsp Chopped Ginger 1 tbsp Yogurt 2 cup Gram Flour ½ cup Water 2 cup Cumin ½ tsp Clove 4-5 Salt 1 tsp Red Chili Powder 1 tsp Turmeric ½ tsp Tara Gram Masala 1 tsp Fenugreek 1 tsp Green Chili Sliced 4-5 Chopped Coriander 2 tbsp For Bahgar Oil ¼ cup Whole Cumin ½ tsp Whole Red Chili 6-7",
+    "instructions": "Mix all ingredients of kofta in food processor blend well and form kofta. Heat oil in pan, add onion fry till soft. Add garlic and ginger fry well. Add koftay gently with hand and fry for 5 to 8 min. Mean while whip yogurt, water and gram flour. Add salt, red chili powder, turmeric and whole gram Masala cook on low flame for 45 to 1 hour till gravy become thick and oil separate. Then add tara gram Masala and fenugreek , cook more 5 to 6 min. After that, add coriander and green chilies. For bahgar: Heat oil and fry whole red chili. Add cumin fry well and bahgar on kofta karahi .",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "onion": {
+        "ingredient_text": "onion",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "fenugreek": {
+        "ingredient_text": "fenugreek 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 44.0,
+        "price_avg": 45.5,
+        "price_high": 47.0,
+        "cost_range": [
+          4.4,
+          4.7
+        ],
+        "cost_contrib_avg": 4.55
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 177.3,
+      "avg": 230.45,
+      "max": 283.6
+    }
+  }
+]

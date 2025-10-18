@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Aam Ras Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Aam Ras Recipe: Ripe mango pulp 1 cup Caster sugar 2 tbsp Milk 1 cup Cardamom powder 1/2 tsp Saffron a pinch Kevra water 1 tsp Ice crushed as required",
+    "instructions": "Mix the mango pulp, sugar, and milk, stir. Add the cardamom powder, saffron, and kevra water. Stir well, and add some ice cubes and serve in glasses.",
+    "prepTime": 10,
+    "cookTime": 10,
+    "totalTime": 20,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "caster sugar 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          35.6,
+          35.6
+        ],
+        "cost_contrib_avg": 35.6
+      },
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 52.1,
+      "avg": 58.35,
+      "max": 64.6
+    }
+  }
+]

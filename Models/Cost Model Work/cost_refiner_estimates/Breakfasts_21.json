@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Chany ka salan Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Chany ka salan Recipe: Chic piece 250gms soaked overnight Soda by carb 1 tsp Salt ½ tsp Cumin seeds roasted ½ tsp Crushed red chili ¾ tsp All spice ½ tsp Onion 2 tbsp Coriander crushed 1 tsp Oil ¼ cup",
+    "instructions": "Soak chic piece overnight with soda by carb next morning boil in the same water Heat ¼ cup oil fry 1 onion chopped add all the spices Salt ½ tsp Cumin seeds roasted ½ tsp, Crushed red chili ¾ tsp, All spice ½ tsp Add Coriander crushed 1 tsp fry well add boiled chic piece with left over stock Cover and cook till done Lastly add chick piece with left over stock Cook till tender, slightly mash Lastly add chopped coriander and green chilies. Serve with puri.",
+    "prepTime": 15.0,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "onion 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 38.0,
+      "avg": 43.0,
+      "max": 48.0
+    }
+  }
+]

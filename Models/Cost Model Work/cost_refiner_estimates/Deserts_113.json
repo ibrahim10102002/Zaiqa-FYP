@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Doodh Wali Siwayyan Recipe | Masala TV",
+    "ingredients": "Ingredients for Doodh Wali Siwayyan Recipe: Siwayyan 250 gms Milk as required Sugar as required",
+    "instructions": "Boil Siwayyan in water for 5 mins. Drain and keep aside. Mix with sugar and milk as required and serve.",
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk as required",
+        "qty": 1.0,
+        "unit": "as required",
+        "grams": 5,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          0.83,
+          1.45
+        ],
+        "cost_contrib_avg": 1.14
+      },
+      "sugar": {
+        "ingredient_text": "sugar as required",
+        "qty": 1.0,
+        "unit": "as required",
+        "grams": 5,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          0.89,
+          0.89
+        ],
+        "cost_contrib_avg": 0.89
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1.71,
+      "avg": 2.03,
+      "max": 2.34
+    }
+  }
+]

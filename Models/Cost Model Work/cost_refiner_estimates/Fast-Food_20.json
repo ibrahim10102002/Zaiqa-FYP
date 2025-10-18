@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Masala Noodles Recipe | Tahir Chaudhary | Masala TV",
+    "ingredients": "Ingredients for Masala Noodles Recipe: Noodles (Boiled) 1 packet Oil 2 tbsp Red pepper (Crushed) 1 tsp Egg 1 Brown sugar 1 tbsp Soy sauce 1 tbsp Hot sauce 1 tbsp Cilantro (Fresh) ¼ bunch Green onion (Sliced) 1",
+    "instructions": "In a large skillet, melt 2 tablespoons of butter over medium-low heat. Add the red pepper to the butter as it melts. Whisk an egg in a bowl and then add to the melted butter. Stir gently and cook through. Once the egg is done cooking, turn off the heat. Add the noodles to the skillet with the cooked egg. Also add the prepared sauce. Turn the heat on to low to evaporate excess moisture, and stir until everything is coated well with the sauce. Sprinkle the sliced green onions and cilantro leaves on top and serve.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "sugar": {
+        "ingredient_text": "brown sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "onion": {
+        "ingredient_text": "green onion (sliced) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 64.8,
+      "avg": 69.75,
+      "max": 74.7
+    }
+  }
+]

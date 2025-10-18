@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Sugar Free Kheer Recipe | Masala TV",
+    "ingredients": "Ingredients for Sugar Free Kheer Recipe: Milk 1 liter Dates (deseeded) 1 cup Walnuts 2 tbsp Almonds 2 tbsp Pistachios 2 tbsp Raisins 4 tbsp Cardamom powder 2 pinch Saffron as required Rice powder 1 tbsp Silver sterling leaves as required Clarified butter 2 tbsp",
+    "instructions": "Boil milk well. Now add water in rice paste then mix in milk and cook well. Now take seed out of dates and make paste with ½ cup water. Also add raisins. Grind almonds, pistachios and walnuts separately. When rice get mixed well then add dates paste, raisins, pistachios Add almonds, walnuts, clarified butter and cardamom powder and cook till it gets thick. Now dissolve saffron and add now take out in dish and garnish with chandi warq.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "5",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "rai": {
+        "ingredient_text": "raisins 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 805.0,
+        "price_avg": 805.0,
+        "price_high": 805.0,
+        "cost_range": [
+          322.0,
+          322.0
+        ],
+        "cost_contrib_avg": 322.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 356.3,
+      "avg": 362.55,
+      "max": 368.8
+    }
+  }
+]

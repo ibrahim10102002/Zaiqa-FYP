@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Jhatpat Bhindi Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Jhatpat Bhindi Recipe: Ladyfingers ½ kg kg Lemons 2 Chopped green chilies 2 Oil ½ cup Turmeric 1 tsp White cumin 1 tsp Red chili flakes 1 tbsp Salt to taste",
+    "instructions": "Wash the lady finger and dry them. Take some oil in the pan, add in lady fingers and keep on stirring. When the water dries, add in 1 tbsp crushed red chili, 1tsp turmeric and 1 tsp white cumin and cook it. Add in lady fingers and 2 lemon juice, 2 chopped green chilies and some salt. Jhatpat Bhindi by Zubaida Tariq is ready to serve with hot parathas.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "lemon": {
+        "ingredient_text": "lemons 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 64.0,
+      "avg": 65.5,
+      "max": 67.0
+    }
+  }
+]

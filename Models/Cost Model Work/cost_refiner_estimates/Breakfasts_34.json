@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Mango Rusk Recipe | Masala TV",
+    "ingredients": "Ingredients for Mango Rusk Recipe: Flour 2 ½ cup Eggs 6 Mango paste ½ cup Baking Soda 2 tsp Baking Powder 2 tsp Icing sugar 1 cup Oil ½ cup Salt to taste",
+    "instructions": "Beat 6 eggs in a mixing bowl and add in ½ cup icing sugar, 1/2 cup mango paste, Add 2 tsp baking powder, 1 tsp baking soda and salt. Beat everything well. Now fold 2 ½ cup flour with the help of a spoon. Grease a pan from edges and put the batter in the pan. Bake it for 20-25 minutes at 200c. When the cake is ready, take it out and cool it on a wire rack. Cut the cake in small pieces. Now line up the cake pieces on the baking tray. Bake it again for 8-10 minutes. Once ready take them out and serve.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "15",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "eggs 6",
+        "qty": 6.0,
+        "unit": "unit",
+        "grams": 600.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          168.0,
+          197.4
+        ],
+        "cost_contrib_avg": 182.7
+      },
+      "sugar": {
+        "ingredient_text": "icing sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 185.8,
+      "avg": 200.5,
+      "max": 215.2
+    }
+  }
+]

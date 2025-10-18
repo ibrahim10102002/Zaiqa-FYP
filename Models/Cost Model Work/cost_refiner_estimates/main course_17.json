@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Rajma Masala Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Rajma Masala Recipe: For the Rajma Mix: Rajma (red kidney beans) 500 gm Salt to taste Chopped garlic 5 cloves Chopped ginger 1/2 tsp Green chilly 1 whole For the Tempering: Oil 2 Tbsp Cumin seeds 1/2 tbsp Cloves 1/2 tbsp Black cardamom 2 Chopped onion 1 Garlic (chopped) 5 cloves Chopped ginger 1 tsp Turmeric powder 1/2 tsp Red chilli powder 1 tsp Coriander powder 1 tsp Cumin powder 1 tsp Salt 1/2 tsp Chopped tomatoes 2 Sugar A pinch Coriander leaves few Finely chopped green chilly 1 Butter 1 tbsp Curd 3 tbsp Lemon juice of 1/2 lemon",
+    "instructions": "Soak the rajma overnight and pressure-cook it. In a pan, mix the cooked rajma, 2 cups water, chopped garlic, chopped ginger, whole green chilli and little bit of salt for taste. Let it boil. While the rajma is boiling, heat some oil in another pan. Add to this cumin seeds, cloves and black cardamom. SautÃ©, crackle and fry these spices to release their flavors. Now add the chopped onion. SautÃ© till the onions turn brownish. Add to this the chopped ginger and chopped garlic. SautÃ© them all together. Now add the turmeric powder, red chilli powder, coriander powder, cumin powder, and little salt for taste. Add a little bit of water. When the water is dry add the tomatoes. Add a pinch of sugar. Mix the onions, tomatoes, and spices well. Now add the green chillies and some coriander leaves. Add this spice mix to the pan in which the rajma was boiling. Now add butter and curd. Squeeze half a lemon. Simmer for about 10-15 minutes. Serve hot with rice.",
+    "prepTime": 10.0,
+    "cookTime": 10,
+    "totalTime": 20,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "garlic": {
+        "ingredient_text": "garlic (chopped) 5",
+        "qty": 5.0,
+        "unit": "unit",
+        "grams": 500.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          195.0,
+          277.5
+        ],
+        "cost_contrib_avg": 236.25
+      },
+      "ginger": {
+        "ingredient_text": "chopped ginger 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "onion": {
+        "ingredient_text": "chopped onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "red chilli": {
+        "ingredient_text": "red chilli powder 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 577.0,
+        "price_avg": 577.0,
+        "price_high": 577.0,
+        "cost_range": [
+          57.7,
+          57.7
+        ],
+        "cost_contrib_avg": 57.7
+      },
+      "tomatoes": {
+        "ingredient_text": "chopped tomatoes 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          48.4,
+          60.0
+        ],
+        "cost_contrib_avg": 54.2
+      },
+      "sugar": {
+        "ingredient_text": "sugar",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 640.9,
+      "avg": 761.2,
+      "max": 881.5
+    }
+  }
+]

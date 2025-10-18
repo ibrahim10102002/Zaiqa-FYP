@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Chicken Tikka Masala Pasta Recipe | Masala TV",
+    "ingredients": "Ingredients for Chicken Tikka Masala Pasta Recipe: Boneless chicken ½ kg cubes Yogurt 4 tbsp Fresh cream 4 tbsp Ginger garlic 1 tsp heaped Tandoori masala 2 tbsp Crushed red pepper 1 tsp Paprika 1 tsp Fenugreek leaves 1 tsp All spice ½ tsp Crushed cumin ½ tsp Crushed coriander 1 tsp Salt 1 tsp Lemon juice 1 tbsp Butter 1 tbsp 3 cups boiled pasta Butter 2 ounce Oil ¼ cup Ginger garlic paste ½ tsp heaped Tomatoes 4 chopped 2 green chilies chopped Cream 1 packet",
+    "instructions": "Marinate chicken cubes with yogurt, cream, ginger garlic paste, tandoori masala, crushed red pepper, Add paprika, fenugreek leaves, all spice, cumin, coriander, salt, lemon juice and butter for 2 hours. Heat oil and butter; add the marinated chicken fry for 10 mins until done. Remove, add ginger garlic, green chili chopped fry for few seconds Add chopped tomatoes and fry well till oil comes on top Add grilled chicken, salt, cream, pasta, mix well together and serve.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "boneless chicken ½ kg cubes",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste ½ tsp heaped",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          0.98,
+          1.39
+        ],
+        "cost_contrib_avg": 1.18
+      },
+      "fenugreek": {
+        "ingredient_text": "fenugreek leaves 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 44.0,
+        "price_avg": 45.5,
+        "price_high": 47.0,
+        "cost_range": [
+          4.4,
+          4.7
+        ],
+        "cost_contrib_avg": 4.55
+      },
+      "lemon": {
+        "ingredient_text": "lemon juice 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          96.8,
+          120.0
+        ],
+        "cost_contrib_avg": 108.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 530.17,
+      "avg": 627.63,
+      "max": 725.09
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Beef Haleem Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Beef Haleem Recipe: Beef boneless 1 kg Oil 1 cup Onion 2 sliced Haleem wheat ½ kg Gram lentil 1 ½ cup Barley 1 ½ cup Oil ¼ cup Ginger garlic paste 2 tbsp Chili powder 3 tbsp Coriander powder 3 tbsp Salt 2 tbsp Turmeric 1 tbsp Cumin roasted and crushed 2 tbsp All spice 2 tbsp Chopped coriander leaves ¼ cup Mint leaves 20 Green chilies chopped 4 Chat masala 1 tsp Lemon 2 Brown onion ½ cup",
+    "instructions": "Soak together wheat and barley overnight and gram lentil separately Next morning cook wheat and barley with 10 cups of water on low flame till tender Boil gram lentil in 6 cups of water on low flame till tender, cool and blend all three together Heat 1 cup oil add sliced onion fry till light golden add ginger garlic paste 2 tbsp, chili powder, coriander powder, salt, turmeric, cumin and cook covered Add 4 to 6 cups of water cover and cook till tender, then mash beef very well with hand blender Now mix mashed beef with blended wheat and gram mixture Put to cook in a pan meshing very well adding little little water Add all spice and chat masala and keep mashing very well, cook for at least half an hour, lastly heat ghee ½ cup Add 1 sliced onion, fry till light golden, give baghar on top of haleem in a serving bowl Garnish with chopped greens, ginger sliced, lemon.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "beef": {
+        "ingredient_text": "beef boneless 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          90.0,
+          110.0
+        ],
+        "cost_contrib_avg": 100.0
+      },
+      "onion": {
+        "ingredient_text": "brown onion ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          22.8,
+          28.8
+        ],
+        "cost_contrib_avg": 25.8
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "lemon": {
+        "ingredient_text": "lemon 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 382.8,
+      "avg": 428.8,
+      "max": 474.8
+    }
+  }
+]

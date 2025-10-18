@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Lasagna Burger Recipe | Masala TV",
+    "ingredients": "Ingredients for Lasagna Burger Recipe: Beef mince ½ kg Spaghetti sauce ¾ cup Garlic powder ½ tsp Italian mix herb 2 tsp Butter 4 tbsp Mozzarella cheese 1-1/2 cup Bun 4 Black pepper powder 1-1/2 tsp Salt to taste Egg 1 Capsicum (finely cut) 2 tbsp For spaghetti sauce: Tomatoes (boiled) 1 cup Tomato puree 1 tbsp Crushed red chili 1 tsp Vinegar 1 tbsp Salt to taste Mix Italian herb 2 pinch",
+    "instructions": "Add salt, black pepper, 1 tsp Italian mix herb and egg in mince, mix well then make patty and grill it. Mix garlic powder and remaining Italian herb in butter then put on burger bun and grill it as well. Now put one burger patty on it, 1 tbsp spaghetti sauce, cheese and again burger patty then put sauce and cheese. Also add capsicum and bake in oven till cheese melts. Then take out and put the part of burger bun and serve. For spaghetti sauce mix all ingredients and cook till it gets thick.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "beef": {
+        "ingredient_text": "beef mince ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          450.0,
+          550.0
+        ],
+        "cost_contrib_avg": 500.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic powder ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          0.98,
+          1.39
+        ],
+        "cost_contrib_avg": 1.18
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper powder 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      },
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum (finely cut) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          46.0,
+          48.0
+        ],
+        "cost_contrib_avg": 47.0
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes (boiled) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          24.2,
+          30.0
+        ],
+        "cost_contrib_avg": 27.1
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 764.58,
+      "avg": 821.13,
+      "max": 877.69
+    }
+  }
+]

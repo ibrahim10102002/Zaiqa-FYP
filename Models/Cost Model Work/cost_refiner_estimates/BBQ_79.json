@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Chicken Malai Boti Tikka Recipe | Masala TV",
+    "ingredients": "Ingredients for Chicken Malai Boti Tikka Recipe: Chicken Boneless ½ kg cut in 1 inch cubes Green Chilies Paste 1 tbsp Mint leaves (grindede) 6 Coriander Leaves (grinded)1 tbsp Papaya (grinded with skin) 1 tbsp Ginger Garlic Paste 1 tbsp Salt 1 tsp Cream 4 tbsp Lemon Juice ¼ cup Yoghurt 3 tbsp White Pepper 1/2 tsp",
+    "instructions": "Marinate chicken with all the given ingredients Put on skewers grill in 2 tbsp oil in fry pan Give dum of coal serve with naan.",
+    "prepTime": 20,
+    "cookTime": 15,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 212.0,
+      "avg": 260.5,
+      "max": 309.0
+    }
+  }
+]

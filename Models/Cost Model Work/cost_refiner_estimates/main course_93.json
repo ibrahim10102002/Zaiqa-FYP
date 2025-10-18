@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Shahi Gola Kabab Masala Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Shahi Gola Kabab Masala Recipe: Mince ½ kg Ginger Garlic Paste 1 tbsp Gram (roasted) 1 tbsp Poppy Seeds (roasted) 1 tbsp Desiccated Coconut (roasted) 1 tbsp Brown Onions (ground) ½ cup Salt 1 tsp heaved All Spice 1 tsp Yogurt 2 tbsp Cumin (crushed) 1 tsp Chili Powder 1 tsp Raw Papaya (ground) 1 tsp heaved Ingredients for Masala: Onion (chopped) 1 large Ginger Garlic 1 tbsp Chili Powder 1 tsp heaved Salt ½ tsp heaved Green Chilies (chopped) 4 Oil ½ cup Coriander Leaves (chopped) 2 tbsp",
+    "instructions": "Roast poppy seeds and coconut grinded with roasted gram. Marinate your mince with yogurt, grinded masala, ginger garlic, salt, all spice, and chili powder. Mix everything well and grind once again in chopper. Lastly add brown onion, raw papaya. Mix everything well. Make big round kebabs and keep aside. Heat oil; fry onion till light brown. Add ginger garlic paste, chili powder and salt. Fry well add half cup water. Add in your gola kebabs. Cook on low flame on 1 side for 5 mins. Turn and cook the other side for another 5 mins. Cover and leave it on dum. Lastly add chopped coriander and green chilies.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "onion (chopped) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 80.0,
+      "avg": 104.75,
+      "max": 129.5
+    }
+  }
+]

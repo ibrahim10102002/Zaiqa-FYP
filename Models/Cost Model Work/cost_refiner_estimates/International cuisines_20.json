@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Gujrati Daal Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Gujrati Daal Recipe: Tooer daal 1/2 cup Raw Peanuts ¼ cup Chopped tomato 1 Jaggery 2 tbsp Green chillies (slit) 2 Finely minced ginger 1-inch piece Red chilli powder 1 tsp Turmeric powder 1/4 tsp Cumin powder ½ tsp Coriander powder ½ tsp Lemon juice of 1 lemon Salt to taste Coriander leaves to garnish Oil/Ghee 1 tbsp Mustard seeds 1/2 tsp Cumin seeds 1/2 tsp Cloves 2 Star anise 1 Fenugreek seeds 1/4 tsp Dry red chillies 2â4 Cinnamon stick 1-inch piece Bay leaf 1 Curry leaves 1 sprig",
+    "instructions": "Add one cup water in the tooer daal and cook till done then blend or mash it with a masher. To the mashed daal, add 3 cups of water, raw peanuts, turmeric powder, red chili powder, minced ginger, green chilies, chopped tomatoes, jaggery and salt to taste and simmer for 12-15 minutes on low flame. Keep stirring in between. Heat oil or ghee in a small pan. Once the oil is hot, add mustard seeds and allow to splutter. Add cumin seeds, fenugreek seeds, red chillies, bay leaf, star anise, cloves, cinnamon and curry leaves and sautÃ© for a few seconds. Pour the tempering into the simmering daal and mix. Add lemon juice and mix. Taste the daal. It should have spicy tangy and sweet flavors. Adjust red chili powder, lemon juice and jaggery accordingly. Garnish with coriander leaves. Serve with roti or rice.",
+    "prepTime": 30,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "3-4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "ginger": {
+        "ingredient_text": "finely minced ginger 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "red chilli": {
+        "ingredient_text": "dry red chillies 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 577.0,
+        "price_avg": 577.0,
+        "price_high": 577.0,
+        "cost_range": [
+          115.4,
+          115.4
+        ],
+        "cost_contrib_avg": 115.4
+      },
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      },
+      "fenugreek": {
+        "ingredient_text": "fenugreek seeds 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 44.0,
+        "price_avg": 45.5,
+        "price_high": 47.0,
+        "cost_range": [
+          4.4,
+          4.7
+        ],
+        "cost_contrib_avg": 4.55
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 263.5,
+      "avg": 279.15,
+      "max": 294.8
+    }
+  }
+]

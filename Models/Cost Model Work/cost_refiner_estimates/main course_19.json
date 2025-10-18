@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Mutton Nihari Recipe | Masala TV",
+    "ingredients": "Ingredients for Mutton Nihari Recipe: Mutton bong ½ kg Onions 2 Clarified butter 1cup Muslin cloth 1 piece Water 2 glasses Red wheat flour ½ cup All spices powder 1 tbsp Ginger garlic paste 2 tbsp Fennel seeds 2 tbsp Dry ginger 2 tbsp Red chili powder 3 tbsp Salt to taste",
+    "instructions": "In a pan, add 1 cup of clarified butter, 2 finely sliced onions and ½ kg mutton bong and cook it till onion begins to dissolve. Simultaneously take a piece of cloth Add 2tbsp fennel seeds and 2 tbsp dry ginger in it and tie it. Include it in the pan and also add 2 tbsp ginger garlic paste and 3 tbsp red chili powder in it. After stirring it well, add two glass of water in it. Cover the pan with its lid to allow cooking until mutton is tender. After the mutton is tenderized, add ½ cup red flour to thicken the gravy. Dissolve 1tbsp hot spices powder in some water and add to the gravy when it has reached the desire consistency. Allow simmering for 5 to 10minutes. Delicious Nehari is ready to serve.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton bong ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          800.0,
+          1000.0
+        ],
+        "cost_contrib_avg": 900.0
+      },
+      "onion": {
+        "ingredient_text": "onions 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "ginger": {
+        "ingredient_text": "dry ginger 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          44.0,
+          100.0
+        ],
+        "cost_contrib_avg": 72.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1120.0,
+      "avg": 1289.5,
+      "max": 1459.0
+    }
+  }
+]

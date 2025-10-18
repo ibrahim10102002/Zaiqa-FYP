@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Pineapple aur Bread ka Halwa Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Pineapple aur Bread ka Halwa Recipe: Pineapple Slices 4 Bread slices 6 Pineapple cubes 1 tin Clarified butter/ oil as required Condensed Milk 1 tin Chopped Walnuts ½ cup Chopped Almonds 10 Raisins ½ cup Sugar ½ cup Khoya 250 gm",
+    "instructions": "Cut the sides of the breads and cut it into cube. In a frying pan, add in oil and fry the bread cubes, till they are golden brown. Put them in serving dish. Pour over the condensed milk. In the frying pan, add in sugar and some water and make caramel. Put it in the dish and also add pineapple pieces. Add in chopped walnuts, raisins and almonds, add in khoya. In the end, saute pineapple slice and add it in the top. Garnish it with silver paper and serve.",
+    "prepTime": 45,
+    "cookTime": 60,
+    "totalTime": 105,
+    "recipeYield": "4-6",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "rai": {
+        "ingredient_text": "raisins ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 805.0,
+        "price_avg": 805.0,
+        "price_high": 805.0,
+        "cost_range": [
+          96.6,
+          96.6
+        ],
+        "cost_contrib_avg": 96.6
+      },
+      "sugar": {
+        "ingredient_text": "sugar ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          21.36,
+          21.36
+        ],
+        "cost_contrib_avg": 21.36
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 134.46,
+      "avg": 140.71,
+      "max": 146.96
+    }
+  }
+]

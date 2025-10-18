@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Bhuni Mash Daal Recipe | Masala TV",
+    "ingredients": "Ingredients for Bhuni Mash Daal Recipe: Maash ki daal 250 gm soak for 1 hour Butter 2 ounce Oil ¼ cup Onion 1 medium thinly sliced Roasted and crushed cumin 1 tsp Yogurt 1 tbsp White pepper ½ tsp leveled Spring onion finely chopped with leaves 2 tbsp Crushed garlic 1 tbsp Tomatoes 2 chopped Green chilies 3 whole Green chilies 3 chopped Chili powder ½ tsp Crushed red pepper ½ tsp Salt ½ tsp All spice ½ tsp Coriander leaves chopped 2 to 3 tbsp",
+    "instructions": "Soak daal for 1 hour, boil in 2 cups of water with ½ tsp haldi till daal ¾ done. Heat butter and oil, fry sliced onion till light golden, add crushed garlic, fry till light golden. Add chopped tomatoes with green chilies and all the seasonings, fry well. Add yogurt with spring onion leaves, fry mixture well. Add boiled daal with ½ cup water, simmer for 5 mins. Lastly add all spice, coriander leaves chopped and leave it on dum.",
+    "prepTime": 20.0,
+    "cookTime": 15,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "spring onion finely chopped with leaves 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "white pepper": {
+        "ingredient_text": "white pepper ½ tsp leveled",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 3074.0,
+        "price_avg": 3074.0,
+        "price_high": 3074.0,
+        "cost_range": [
+          7.68,
+          7.68
+        ],
+        "cost_contrib_avg": 7.68
+      },
+      "garlic": {
+        "ingredient_text": "crushed garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          48.4,
+          60.0
+        ],
+        "cost_contrib_avg": 54.2
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 152.09,
+      "avg": 173.63,
+      "max": 195.19
+    }
+  }
+]

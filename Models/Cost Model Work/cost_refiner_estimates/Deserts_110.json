@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Coconut Barfi Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Coconut Barfi Recipe: Khoya 250 grams Green Cardamoms 4 Sugar 2 tsp Oil 1 tbsp Coconut (ground) 1 packet Almonds & Pistachios as required",
+    "instructions": "Grind green cardamoms with sugar. Heat 1 tbsp oil in a wok and roast ground green cardamoms. Now add khoya, stir cook and remove from stove. When khoya is cool enough, add 1 packet ground coconut, almonds and pistachios. Mix well Grease a large serving tray and spread the mixture evenly. When its cool enough, cut it in square shapes. Lastly garnish each piece with silver leaf and serve",
+    "prepTime": 20,
+    "cookTime": 30,
+    "totalTime": 50,
+    "recipeYield": "6",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "coconut": {
+        "ingredient_text": "coconut (ground) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          45.0,
+          45.0
+        ],
+        "cost_contrib_avg": 45.0
+      },
+      "sugar": {
+        "ingredient_text": "sugar 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          35.6,
+          35.6
+        ],
+        "cost_contrib_avg": 35.6
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 125.6,
+      "avg": 125.6,
+      "max": 125.6
+    }
+  }
+]

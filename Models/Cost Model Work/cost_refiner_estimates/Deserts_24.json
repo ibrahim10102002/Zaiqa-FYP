@@ -1,0 +1,49 @@
+[
+  {
+    "name": "MINI ORANGE SHOTS BY SHIREEN ANWAR Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for MINI ORANGE SHOTS BY SHIREEN ANWAR Recipe: for Base Candy biscuits 1 packet crushed Butter 3 tbsp melted Ingredients for Filing Cream 8 ounce whipped Hung curd 1 cup Caster sugar ½ cup Orange jelly crystal 1 packet Orange juice ¼ cup Gelatin 1 ½ tsp Orange essence ¼ tsp Egg whites 2 Mint leaves to decorate",
+    "instructions": "FOR BASE Mix together crushed biscuits and melted butter, spread in your mini glasses, beat cream and caster sugar and hung curd and beat dissolve gelatin in ¼ cup orange juice, mix with cream and curd mixture, beat egg whites stiff, fold in the mixture with 1 packet of orange jelly crystals, mix well pour this mixture onto crushed mixture and leave it to rest until firm, dissolve 1 packet of jelly in ¾ cup water spread jelly on top of your set dessert, chill for 10 mins. Decorate with mint leaves.",
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "caster sugar ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          21.36,
+          21.36
+        ],
+        "cost_contrib_avg": 21.36
+      },
+      "egg": {
+        "ingredient_text": "egg whites 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 77.36,
+      "avg": 82.26,
+      "max": 87.16
+    }
+  }
+]

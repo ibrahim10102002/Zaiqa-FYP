@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Beef Karahi Recipe | Masala TV",
+    "ingredients": "Ingredients for Beef Karahi Recipe: Beef undercut 1 kg Onion 400 grams Tomatoes (cubed) 400 grams Turmeric 1 tsp Garlic cloves 1 whole Green chilies 15 Ginger garlic paste 2 tbsp Oil 1 cup Salt to taste Green coriander 1 big bunch Ginger 2 inch piece Ingredients for marinate: Lemon juice of 2 big lemons Carom seeds powder 1 tsp",
+    "instructions": "Put lemon juice and carom seeds powder on beef and leave for 1 to 2 hours for marination. Then boil beef with green chilies, garlic cloves, salt and turmeric until beef gets tender. Now heat oil and fry onion till golden brown then add beef and cook for 2 to 3 minutes. Now add ginger garlic paste, cubed tomatoes, little green chilies. Add ginger and green coriander and cook until oil separates. Then garnish with green coriander, green chilies and ginger and serve.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "lemon": {
+        "ingredient_text": "big lemons",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 96.0,
+      "avg": 98.25,
+      "max": 100.5
+    }
+  }
+]

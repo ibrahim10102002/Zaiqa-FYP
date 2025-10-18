@@ -1,0 +1,49 @@
+[
+  {
+    "name": "California Punch Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for California Punch Recipe: Fresh Oranges 4 Lemon 4 Grape Juice 1 cup Pineapple Juice 1 cup Sugar ½ cup White Soda 200 ml Ice Cubes as required Salt to taste",
+    "instructions": "Take a cooking pan add 4 lemon fresh peel, 4 orange fresh peel add 3 cups of water and add ½ cup of sugar cook for 10 minutes, and let it cool down in a mixing bowl. Now add 1 cup of grape juice, 1 cup of pineapple juice as required ice cubes and add to taste salt mix it well. At last add 200 ml of soda water and take it out in a serving glasses and serve it.",
+    "prepTime": 30.0,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "2-3",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "lemon": {
+        "ingredient_text": "lemon 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          128.0,
+          134.0
+        ],
+        "cost_contrib_avg": 131.0
+      },
+      "sugar": {
+        "ingredient_text": "sugar ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          21.36,
+          21.36
+        ],
+        "cost_contrib_avg": 21.36
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 149.36,
+      "avg": 152.36,
+      "max": 155.36
+    }
+  }
+]

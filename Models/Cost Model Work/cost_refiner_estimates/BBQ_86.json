@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Farosh Chicken Recipe | Masala TV",
+    "ingredients": "Ingredients for Farosh Chicken Recipe: Chicken whole with skin 1 White pepper ½ tsp Black pepper ½ tsp Paprika 1 tsp heaped Ginger garlic 1 tbsp Lemon juice 4 tbsp Salt 1½ tsp Oil ½ cup for brushing",
+    "instructions": "Marinate chicken with all the given ingredients for at least 2 hours Place in an oven tray and bake in a pre-heated oven on 180 D for 45 mins Keep pouring 1 tbsp oil on top of the chicken after every 10 mins Cook till chicken tender and brown. Serve with french fries.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken whole with skin 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "white pepper": {
+        "ingredient_text": "white pepper ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 3074.0,
+        "price_avg": 3074.0,
+        "price_high": 3074.0,
+        "cost_range": [
+          7.68,
+          7.68
+        ],
+        "cost_contrib_avg": 7.68
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          5.38,
+          5.38
+        ],
+        "cost_contrib_avg": 5.38
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "lemon": {
+        "ingredient_text": "lemon juice 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          128.0,
+          134.0
+        ],
+        "cost_contrib_avg": 131.0
+      },
+      "hing": {
+        "ingredient_text": "oil ½ cup for brushing",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 6200.0,
+        "price_avg": 6200.0,
+        "price_high": 6200.0,
+        "cost_range": [
+          744.0,
+          744.0
+        ],
+        "cost_contrib_avg": 744.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1043.07,
+      "avg": 1079.82,
+      "max": 1116.57
+    }
+  }
+]

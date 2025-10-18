@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Crispy Fried Chinese Drumsticks Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Crispy Fried Chinese Drumsticks Recipe: Wings Drumsticks ½ kg Honey 2 tbsp Soya Sauce 2 tbsp White Sesame Seeds ½ cup Ginger Garlic Paste 1 tbsp Salt to taste Lemons 2 Crushed Black Pepper 1 tsp White Vinegar 2 tbsp Oil to fry",
+    "instructions": "In a pan, add in drumstick, add in soya sauce, white vinegar,salt and 1 tbsp ginger garlic paste. Steam it on low flame. When the water dries, take it out. Take some oil in the pan, and add in drumsticks. Fry till golden brown. Put them in a pan, add in honey, sesame seeds, lemon juice, crushed black pepper. When ceramal is ready serve it with drumsticks.",
+    "prepTime": 20.0,
+    "cookTime": 30,
+    "totalTime": 50,
+    "recipeYield": "2-3",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "lemon": {
+        "ingredient_text": "lemons 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 125.0,
+      "avg": 148.75,
+      "max": 172.5
+    }
+  }
+]

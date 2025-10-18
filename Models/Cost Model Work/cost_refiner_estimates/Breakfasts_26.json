@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Sausage Sandwich Recipe | Masala TV",
+    "ingredients": "Ingredients for Sausage Sandwich Recipe: Sausages 2 packets Eggs 6 Bread slice (For Sandwich) 1 packet Tomatoes 3-4 Cucumber 3-4 Mayonnaise 1 cup Mustard Paste 2 tbsp Crushed Black Pepper 1 tsp Oil for frying Salt to taste",
+    "instructions": "First take 2 packets of sausages cut into thin slices and keep aside. Then take 6 eggs add a pinch of salt beat it and make thin omelets. Cut 3-4 tomatoes and 3-4 cucumbers into slices. For Sauce: Take to taste salt, 1 cup of mayonnaise Add 1 tsp of crushed black pepper, 2 tbsp of mustard paste in a mixing bowl now sauce is ready. Take 1 packet of sandwich bread grilled it on a grill pan then spread the sauce Then omelet place the slice of tomato then bread slice then spread the sauce again Then sausages and place the slice of cucumber Then close it (repeat this procedure 2-3 times and make more sandwiches) Now take it out in a serving platter skewer the barbeque sticks in the middle and serve it.",
+    "prepTime": 15.0,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "eggs 6",
+        "qty": 6.0,
+        "unit": "unit",
+        "grams": 600.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          168.0,
+          197.4
+        ],
+        "cost_contrib_avg": 182.7
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          72.6,
+          90.0
+        ],
+        "cost_contrib_avg": 81.3
+      },
+      "cucumber": {
+        "ingredient_text": "cucumber 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 57.0,
+        "price_avg": 58.5,
+        "price_high": 60.0,
+        "cost_range": [
+          17.1,
+          18.0
+        ],
+        "cost_contrib_avg": 17.55
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 257.7,
+      "avg": 281.55,
+      "max": 305.4
+    }
+  }
+]

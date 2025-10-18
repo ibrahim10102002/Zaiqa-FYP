@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Rus Gullay Recipe | Masala TV",
+    "ingredients": "Ingredients for Rus Gullay Recipe: Milk Powder 2 Cup Flour 4 tbsp Baking Powder 1 tsp Egg White 4 Oil 2-3 tbsp Dry Fruit / Edible Silver Leaf For Garnish For Treacle: Sugar 1/2 kg Kewra Essence Few drops",
+    "instructions": "For treacle: Put sugar and water as required in pan and make syrup. Now add kewra essence, mix it and remove it. Syrup is ready. For rus gullay: Put milk powder, flour, baking powder and oil Add little little beaten egg white and knead it. Now make portions. Then put in syrup and leave it. When it rises, take out rus gullay, press it and take out water. Then add remaining sugar, kewra essence and water and make thick syrup. Now put rus gullay and leave it. In end, garnish with dry fruits and silver leaf and serve.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "egg": {
+        "ingredient_text": "egg",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 62.3,
+      "avg": 71.0,
+      "max": 79.7
+    }
+  }
+]

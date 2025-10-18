@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Hot Chocolate Recipe | Masala TV",
+    "ingredients": "Ingredients for Hot Chocolate Recipe: Coco powder 2 tbsp Milk 2 ½ cups Milk chocolate 150 grams Sugar 3 tbsp Cream 3 tbsp Water ¾ cup",
+    "instructions": "In a saucepan add water and bring it to boil Add the coco powder and mix until there are no lumps Add milk, milk chocolate and sugar and mix until its thick Pour equally in 3 mugs and serve with cream",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk chocolate 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          53.4,
+          53.4
+        ],
+        "cost_contrib_avg": 53.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 102.9,
+      "avg": 121.65,
+      "max": 140.4
+    }
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Brain Masala Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Brain Masala Recipe: Brain 1 Lemon Juice 2 Chopped onion 3 Chopped green chilies 4 Chopped green coriander 1 bunch Oil 1 cup Yogurt ½ cup Turmeric 1 tsp All spice powder 1 tsp Ginger Garlic paste 1 tbsp Red chili powder 1 tbsp Chopped ginger 2 tbsp Coriander powder 2 tbsp Salt to taste Black peppercorn 4 Garlic cloves 4",
+    "instructions": "In a pan, add 1 brain, black peppercorn, chopped garlic and 4 garlic and boil it. Clean it and make small pieces. Add in 1 cup oil in a pan, add in 3 chopped onion. Fry it till golden brown and take half onion out. In that half onion, add in 1 tbsp red chili, 2 tbsp coriander powder, 1 tsp all spice powder and 1 tsp turmeric. Cook it and add in brain pieces. When the oil comes up add in lemon juice, salt, chopped ginger, green coriander and 2 chopped green chilies. Simmer for 2 minutes. In the end, garnish it with chopped ginger, ½ bunch chopped green coriander, chopped green chilies and fried onion. Serve hot.",
+    "prepTime": 20.0,
+    "cookTime": 45,
+    "totalTime": 65,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "rai": {
+        "ingredient_text": "brain 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 805.0,
+        "price_avg": 805.0,
+        "price_high": 805.0,
+        "cost_range": [
+          80.5,
+          80.5
+        ],
+        "cost_contrib_avg": 80.5
+      },
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      },
+      "onion": {
+        "ingredient_text": "chopped onion 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          57.0,
+          72.0
+        ],
+        "cost_contrib_avg": 64.5
+      },
+      "ginger": {
+        "ingredient_text": "chopped ginger 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          44.0,
+          100.0
+        ],
+        "cost_contrib_avg": 72.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic cloves 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          156.0,
+          222.0
+        ],
+        "cost_contrib_avg": 189.0
+      },
+      "black pepper": {
+        "ingredient_text": "black peppercorn 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          861.6,
+          861.6
+        ],
+        "cost_contrib_avg": 861.6
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1372.6,
+      "avg": 1464.1,
+      "max": 1555.6
+    }
+  }
+]

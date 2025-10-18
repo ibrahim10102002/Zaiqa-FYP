@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Chatpatay Mutton Balls Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Chatpatay Mutton Balls Recipe: Mutton Mince0 ½ kg Cottage Cheese 1 packet Saltto taste Chicken Cube flour1 tbsp Red chili flakes 1 tbsp Crushed black pepper1 tsp White vinegar1 tbsp Chopped green chilies8 Bread crumbs1 packet Oilto fry",
+    "instructions": "Take a bowl and add in mutton along with some salt, add in bread slices,. Then add in 1 packet cottage cheese, 1 tbsp chicken cube flour, 1 tbsp red chili flakes Add 1 tsp crushed black pepper, 8 chopped chilies and 1 packet bread crumbs . mix it well. Make a dough and make small balls out of it Deep fry them till they are golden brown and serve them with tomato",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          160.0,
+          200.0
+        ],
+        "cost_contrib_avg": 180.0
+      },
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "black pepper": {
+        "ingredient_text": "crushed black pepper1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 594.9,
+      "avg": 647.65,
+      "max": 700.4
+    }
+  }
+]

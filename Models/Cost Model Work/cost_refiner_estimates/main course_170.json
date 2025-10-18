@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Tangy Fish Fry Recipe | Masala TV",
+    "ingredients": "Ingredients for Tangy Fish Fry Recipe: Fish fillet 1 kg Oil 2 cups Chat masala 1½ tsp Salt 1 tsp Lemon juice 2 to 3 tbsp Ingredients for Batter Gram flour 1 cup Ginger garlic paste 2 tbsp White vinegar ¼ cup Turmeric ¾ tsp Crushed red pepper 1 tsp Chili powder ½ tsp White pepper ½ tsp Carom seeds 1 tsp",
+    "instructions": "Wash and dry fish, marinate with salt and lemon juice Combine all the ingredients for a batter in a large bowl Add fish into batter. Heat oil in a wok, deep fry fish in batches over moderate heat Remove sprinkle chat masala over fish and serve immediately.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "white pepper": {
+        "ingredient_text": "white pepper ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 3074.0,
+        "price_avg": 3074.0,
+        "price_high": 3074.0,
+        "cost_range": [
+          7.68,
+          7.68
+        ],
+        "cost_contrib_avg": 7.68
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 85.69,
+      "avg": 102.19,
+      "max": 118.69
+    }
+  }
+]

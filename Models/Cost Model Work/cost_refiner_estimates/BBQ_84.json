@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Mayo chicken crockets Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Mayo chicken crockets Recipe: Boneless breast ½ kg chopperized Green chilies 4 Salt 1 tsp Black pepper 1 tsp Mustard paste ½ tsp Ingredients for filling Carrot 1 Peas boiled 2 tbsp Sweet corn 3 tbsp Mushrooms 4 chopped Salt and pepper ¼ tsp each Cheddar cheese grated ½ cup Mayonnaise 2 tbsp Coriander leaves chopped 2 tbsp Green chilies 2 finely chopped Spring onion leaves finely chopped 2 tbsp Eggs beaten 2 Bread crumbs as required for coating",
+    "instructions": "Chopperize chicken breast with green chilies, salt, pepper, mustard and keep aside. Method for filling Finely chopped all the vegetables, boil carrots and peas Mix with grated cheese, mayonnaise, salt and pepper, chopped green masala, mix well. Mixture should be thick. Take mince chicken mixture in your hand, flatten very thinly, fill in vegetable mixture, made into oblong shape Dip in beaten egg, roll in bread crumbs Chill for 30 minutes before frying, deep fry on low flame. Serve hot.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "spring onion leaves finely chopped 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "egg": {
+        "ingredient_text": "eggs beaten 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 94.0,
+      "avg": 103.9,
+      "max": 113.8
+    }
+  }
+]

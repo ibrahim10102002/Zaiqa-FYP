@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Coffee Meringues Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Coffee Meringues Recipe: Egg whites 2 Cream of tartar 1/2 tsp Caster sugar 1/3 cup Icing sugar 1/3 cup Coffee granules 1 tbsp Warm water 1 tbsp Chopped chocolate 4 oz",
+    "instructions": "Preheat oven to 110° C. Beat egg whites and cream of tartar in medium bowl on medium until soft peaks form. Add caster sugar, 1 tbsp. at a time, until stiff peaks form and sugar is dissolved. Fold in icing' sugar. Stir coffee into warm water in small bowl until dissolved. Fold into meringue. Spoon meringue into piping bag. Pipe small pointed mounds (about 1/2 inch/1.2 cm high and 1 inch/2.5 cm in diameter) about 2 inches (5cm) apart onto greased cookie sheets. Bake on lowest rack in 225°F/110°C oven for 35 to 40 minutes until dry. Turn oven off. Let meringues stand in oven until cool. Heat chocolate on double boiler, stirring often, until almost melted. Dip 1/2 of each meringue into chocolate, allowing excess to drip back into saucepan. Place on foil or waxed paper-lined cookie sheets. Let stand in cool place until chocolate is set. Do not chill.",
+    "prepTime": 30,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "2-3",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "egg whites 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      },
+      "sugar": {
+        "ingredient_text": "icing sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 91.6,
+      "avg": 96.5,
+      "max": 101.4
+    }
+  }
+]

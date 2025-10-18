@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Chicken Salad Sandwich Recipe | Masala TV",
+    "ingredients": "Ingredients for Chicken Salad Sandwich Recipe: Chicken Breasts cubed 2 Bread rolls 2 Apples chopped 2 Celery chopped 1/2 cup Raisins 1/2 cup Mayonnaise 3/4 cup Salt to taste Black pepper to taste",
+    "instructions": "Mix the apples, chopped chicken, celery, raisins and mayonnaise well. Add salt and pepper to taste and refrigerate before serving.",
+    "prepTime": 15.0,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "rai": {
+        "ingredient_text": "raisins 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 805.0,
+        "price_avg": 805.0,
+        "price_high": 805.0,
+        "cost_range": [
+          80.5,
+          80.5
+        ],
+        "cost_contrib_avg": 80.5
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper to taste",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 414.9,
+      "avg": 440.4,
+      "max": 465.9
+    }
+  }
+]

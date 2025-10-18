@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Macaroni Pizza Recipe | Masala TV",
+    "ingredients": "Ingredients for Macaroni Pizza Recipe: Elbow macaroni (boiled) ½ packets Cheddar cheese 1 cup Mozzarella cheese 1 cup Onion (cubed) 1 medium Capsicum (cubed) 1 Tomatoes (cubed) 1 Chicken boneless (cubed) 1 cup Salt ½ tsp Garlic powder 1 tsp Oil 6 tbsp For the pizza sauce: Tomato (chopped) 3 Tomato paste 3 tbsp Oregano ½ tsp Onion (chopped) 1 small Garlic 1 tsp Salt ½ tsp Thyme ½ tsp Oil 4 tbsp",
+    "instructions": "For the pizza sauce: In a pan heat oil and fry onion ,garlic and tomato fry for 1 minute . then add tomato paste ,oregano ,thyme ,salt and 1/2litter water and cook on low heat for 10 minutes Now mixture fine grind .in a separate pan heat oil add chicken Add garlic powder and salt and cook on high heat for 10 minutes and set aside . Then gracy pizza pan and spread the macaroni with hand and lightly press and pour pizza pan Now cheddar cheese ,mozzarella cheese ,chicken ,capsicums cubes Add onion cubes and tomatoes cubes add and bake at 225 c for 15 minutes then serve hot .",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "macaroni": {
+        "ingredient_text": "elbow macaroni (boiled) ½ packets",
+        "qty": 0.5,
+        "unit": "packets",
+        "grams": 50.0,
+        "price_low": 191.0,
+        "price_avg": 191.0,
+        "price_high": 191.0,
+        "cost_range": [
+          9.55,
+          9.55
+        ],
+        "cost_contrib_avg": 9.55
+      },
+      "onion": {
+        "ingredient_text": "onion (chopped) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum (cubed) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes (cubed) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          24.2,
+          30.0
+        ],
+        "cost_contrib_avg": 27.1
+      },
+      "chicken": {
+        "ingredient_text": "chicken boneless (cubed) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 251.35,
+      "avg": 289.0,
+      "max": 326.65
+    }
+  }
+]

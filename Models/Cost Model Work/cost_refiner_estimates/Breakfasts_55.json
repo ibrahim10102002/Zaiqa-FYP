@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Cheese Omelette Recipe | Masala TV",
+    "ingredients": "Ingredients for Cheese Omelette Recipe: Eggs 4 Milk 3tbsp Salt ½ tsp Black pepper ½ tsp Cheddar cheese ½ cup Oil 6tbsp",
+    "instructions": "In a bowl add eggs , salt , black pepper mix well. Now heat oil add eggs mixture cook on low flame for 4 to 5 min. Lastly add cheese on half omelet , fold and serve.",
+    "prepTime": 10.0,
+    "cookTime": 10,
+    "totalTime": 20,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "eggs 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          112.0,
+          131.6
+        ],
+        "cost_contrib_avg": 121.8
+      },
+      "milk": {
+        "ingredient_text": "milk 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          49.5,
+          87.0
+        ],
+        "cost_contrib_avg": 68.25
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          5.38,
+          5.38
+        ],
+        "cost_contrib_avg": 5.38
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 166.88,
+      "avg": 195.44,
+      "max": 223.98
+    }
+  }
+]

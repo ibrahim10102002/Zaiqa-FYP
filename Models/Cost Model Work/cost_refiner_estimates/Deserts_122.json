@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Besan ka Halwa Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Besan ka Halwa Recipe: Khoya ½ kg Gram Flour 250 gms Ghee 250 gms Cardamom Powder ½ tsp Sugar 375 gms Yellow Food Color ½ tsp Milk 2 cup Almonds, Pistachios as required",
+    "instructions": "In a pan, heat ghee add gram flour and fry. When aroma comes add khoya and fry until golden brown Add sugar, cardamom powder, yellow food color, milk and cook on low flame. When milk dries, removes from the stove. Sprinkle almonds, pistachios and serve.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "besan": {
+        "ingredient_text": "besan ka",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 213.0,
+        "price_avg": 213.0,
+        "price_high": 213.0,
+        "cost_range": [
+          21.3,
+          21.3
+        ],
+        "cost_contrib_avg": 21.3
+      },
+      "sugar": {
+        "ingredient_text": "sugar 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          53.4,
+          53.4
+        ],
+        "cost_contrib_avg": 53.4
+      },
+      "milk": {
+        "ingredient_text": "milk 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          33.0,
+          58.0
+        ],
+        "cost_contrib_avg": 45.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 107.7,
+      "avg": 120.2,
+      "max": 132.7
+    }
+  }
+]

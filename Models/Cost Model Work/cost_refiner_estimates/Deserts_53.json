@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Brownie Pudding Recipe | Zarnak Sidhwa | Masala TV",
+    "ingredients": "Ingredients for Brownie Pudding Recipe: Flour 1 cup Caster sugar 3/4 cup Cocoa powder 2 tbsp Baking powder 2 tsp Salt 1/4 tsp Milk 1/2 cup Oil 2 tbsp Vanilla essence 1 tsp Chopped walnuts 1/2 cup Packed brown sugar 3/4 cup Cocoa powder 1/4 cup Boiling water Vanilla ice cream (optional) to serve",
+    "instructions": "Stir together the flour, caster sugar, 2 tablespoons cocoa powder, baking powder, and salt. Stir in the milk, oil, and vanilla. Stir in the walnuts. Pour batter into greased 8-inch square pan. In a small bowl stir together the brown sugar and 1/4 cup cocoa powder. Stir in the boiling water. Slowly pour brown sugar mixture over batter. Bake in the preheated oven for 40 minutes. Transfer to a wire rack and cool for 45 to 60 minutes. Spoon cake into dessert bowls and spoon pudding from the bottom of the pan over cake. Serve with vanilla ice cream. Serve warm.",
+    "prepTime": 70,
+    "cookTime": 90,
+    "totalTime": 160,
+    "recipeYield": "4-6",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "packed brown sugar 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          53.4,
+          53.4
+        ],
+        "cost_contrib_avg": 53.4
+      },
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 123.3,
+      "avg": 129.55,
+      "max": 135.8
+    }
+  }
+]

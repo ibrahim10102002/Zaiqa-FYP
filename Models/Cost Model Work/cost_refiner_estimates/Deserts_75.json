@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Fruit Jelly Cups Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Fruit Jelly Cups Recipe: Fruit Cocktail 1 tin Strawberry Jelly 1 packet Walnuts (peeled and chopped) ½ cup Fresh Cream 1 packet Vanilla Custard 2 tbsp Fresh Milk ½ liter Sugar as required",
+    "instructions": "Dissolve strawberry jelly in hot water and keep it aside to set. Now cook ½ liter milk and sugar till its thick, remove and keep it aside to cool. Now chop jelly into small cubes. Now spread ready custard in a bowl, fruit cocktail, strawberry jelly cubes, walnuts and fresh cream. Now fill rest of the bowl this way and serve.",
+    "prepTime": 20,
+    "cookTime": 30,
+    "totalTime": 50,
+    "recipeYield": "6",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk ½ liter",
+        "qty": 0.5,
+        "unit": "liter",
+        "grams": 500.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          82.5,
+          145.0
+        ],
+        "cost_contrib_avg": 113.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar as required",
+        "qty": 1.0,
+        "unit": "as required",
+        "grams": 5,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          0.89,
+          0.89
+        ],
+        "cost_contrib_avg": 0.89
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 83.39,
+      "avg": 114.64,
+      "max": 145.89
+    }
+  }
+]

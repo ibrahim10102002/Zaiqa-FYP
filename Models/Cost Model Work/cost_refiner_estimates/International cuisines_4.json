@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Burmese Masala Chicken Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Burmese Masala Chicken Recipe: Chicken Tikka Pieces 4 Yogurt 4 tbsp Lemon Juice 4 tbsp Red Chili Powder 1tsp Ginger Garlic Paste 2 tsp Salt to taste Coriander Leaves 1bunch Chicken Tikka Masala 2 tsp Chargha Masala 2 tsp Tomato Paste 2 tsp Oil 4 tbsp Green Chilies 4 Egg (boiled) 2-3 French Fries as required Dry Fruit for garnishing",
+    "instructions": "Marinate tikka pieces with, salt, ginger garlic paste, red chili powder, lemon juice and yogurt. In a pan, heat oil add tikka pieces and fry. Now take it out. In a blender, blended tomato paste, coriander leaves, yogurt, chargha masala, tikka masala, and green chilies. Heat oil add paste and fry. Now add fried tikkay and cook for 2 minutes. Take it out, in a dish. Garnish with dry fruit. Now serve with boiled eggs and fries. Burmese Masala Chicken is ready.",
+    "prepTime": 20,
+    "cookTime": 45,
+    "totalTime": 65,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "egg": {
+        "ingredient_text": "egg (boiled) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      },
+      "hing": {
+        "ingredient_text": "fruit for garnishing",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 6200.0,
+        "price_avg": 6200.0,
+        "price_high": 6200.0,
+        "cost_range": [
+          620.0,
+          620.0
+        ],
+        "cost_contrib_avg": 620.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 947.5,
+      "avg": 1013.65,
+      "max": 1079.8
+    }
+  }
+]

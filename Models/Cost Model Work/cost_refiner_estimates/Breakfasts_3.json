@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Tandoori Paratha Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Tandoori Paratha Recipe: Flour 2 cups Egg 1 Salt ½ tsp Oil ¼ cup Yeast1 ½ tspSugar1 tbsp Ghee for frying Flour 2 cups Egg 1 Salt ½ tsp Oil ¼ cup Yeast 1 ½ tsp Sugar 1 tbsp Ghee for frying",
+    "instructions": "Knead all above into a medium soft dough. Leave to rise for 1 hour, make into 4 bowls, roll into quarter plate size, apply ghee, sprinkle flour, roll into Swiss roll, form into a paera, again roll lightly. Shallow fry on tawa.",
+    "prepTime": 15.0,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 82.7,
+      "avg": 87.6,
+      "max": 92.5
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Grilled Chicken With A Twist Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Grilled Chicken With A Twist Recipe: Chicken 1 kg whole Yogurt 1 cup Biryani masala ½ packet (Sieved) Tandoori color pinch Ginger garlic 1 tbsp French fries to serve",
+    "instructions": "Give cuts on chicken. Marinate chicken with biryani masala sieved. Marinate chicken with yogurt, color and ginger garlic. Leave to marinate for 1 hour. Heat quarter cup oil in a pan. Put chicken and grill in an oven for 40 mins, 20 mins on each side. Grilled Chicken with a Twist is ready now Serve with fries.",
+    "prepTime": 25,
+    "cookTime": 25,
+    "totalTime": 50,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 158.0,
+      "avg": 191.75,
+      "max": 225.5
+    }
+  }
+]

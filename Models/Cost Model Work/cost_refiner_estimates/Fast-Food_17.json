@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Chicken Cheese Roll Recipe | Tahir Chaudhary | Masala TV",
+    "ingredients": "Ingredients for Chicken Cheese Roll Recipe: Spring roll wraps 12 Butter 4 tsp Cheese 1 cup Green Chilies (Chopped) 2 Mint and coriander (Mixed) 1 tbsp Onion (Small) 1 Tikka chunks (Chopped) ½ cup Salt A pinch",
+    "instructions": "In a bowl, combine all the ingredients except the spring roll wraps. Individually cover half of each wrap with the prepared mixture. Make a tight roll by applying a little flour paste along the edge. Bake in a preheated oven for about 20 minutes or deep fry. Serve the delicious chicken cheese rolls before the family and guests.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "onion": {
+        "ingredient_text": "onion (small) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 78.5,
+      "avg": 93.75,
+      "max": 109.0
+    }
+  }
+]

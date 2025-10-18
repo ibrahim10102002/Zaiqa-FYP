@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Swirled Ring Cake Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Swirled Ring Cake Recipe: Eggs 4 Flour 1 ½ cup Baking powder 1 ½ tsp Caster sugar 1 ½ cup Oil ¾ cup Vanilla essence 2 tsp Drinking chocolate powder 5 tbsp Hot water ¼ cups",
+    "instructions": "Greased a 8 inch ring tin sieve flour and baking powder together, separate eggs, beat egg whites till fluffy gradually add sugar, beaten till thick. Add in essence and yolk. Continue beating till thick. Gradually add in oil beating well. Fold in flour gently with wooden spoon. Mix drinking chocolate powder with hot water into a thick paste. Add this paste to cake mixture with spoon and gently swirl with another spoon to make marble effect. Pour mixture into tin bake on 160 Degrees for 35 mins. Remove on a wire rack, remove on a platter sprinkle the platter with drinking chocolate Or chocolate sauce.",
+    "prepTime": 70,
+    "cookTime": 90,
+    "totalTime": 160,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "egg": {
+        "ingredient_text": "eggs 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          112.0,
+          131.6
+        ],
+        "cost_contrib_avg": 121.8
+      },
+      "sugar": {
+        "ingredient_text": "caster sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 129.8,
+      "avg": 139.6,
+      "max": 149.4
+    }
+  }
+]

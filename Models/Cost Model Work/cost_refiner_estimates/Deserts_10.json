@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Mongh Daal ki Kheer Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Mongh Daal ki Kheer Recipe: Boil yellow lentil 1 cup Coconut milk 1 can Milk 1 kg Jaggery 250 grams Khoya 250 grams Rice (ground) 2 tbsp Green Cardamom Powder ½ tsp Pistachio 2 tbsp Silver Leaf for garnishing",
+    "instructions": "Put milk to cook in a pan. Add boil mongh ki daal and mix well Add coconut milk let it cook for 5 mins cook gurh in half cup water till dissolved add to the kheer. Add grinded rice cook till thick kheer slightly thick lastly add khoya cardamom mix well when thick remove in a bowl. Add silver waraq.",
+    "prepTime": 70,
+    "cookTime": 90,
+    "totalTime": 160,
+    "recipeYield": "4-6",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "coconut": {
+        "ingredient_text": "coconut milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          45.0,
+          45.0
+        ],
+        "cost_contrib_avg": 45.0
+      },
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "hing": {
+        "ingredient_text": "leaf for garnishing",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 6200.0,
+        "price_avg": 6200.0,
+        "price_high": 6200.0,
+        "cost_range": [
+          620.0,
+          620.0
+        ],
+        "cost_contrib_avg": 620.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 681.5,
+      "avg": 687.75,
+      "max": 694.0
+    }
+  }
+]

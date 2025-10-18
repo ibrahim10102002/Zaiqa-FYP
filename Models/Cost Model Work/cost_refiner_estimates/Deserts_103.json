@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Special Zarda Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Special Zarda Recipe: Basmati rice (soaked) ½ kg Yellow Color ¼ tsp Salt ½ tsp Green cardamoms 6 Clove 6 Clarified Butter ½ cup Almonds & Pistachio (sliced) 4 tbsp Sugar ½ kg Khoya 1 cup Red & Green Cherries (chopped) 2 tbsp Gulab jamun & chamcham 125 grams each",
+    "instructions": "Soak rice 30 minutes before cooking. Boil water in a pan with salt, green cardamom color, cloves. Add in rice. Cook until done. Drain and set aside. In a pan put ghee with ½ cup water. Cook and add sugar. Stir until sugar dissolves. Add in boiled rice with almond and pistachio cover and cook on medium flames till sugar syrup starts drying, lower heat and put pan under a tawa leave it on dum covered with a damp cloth till done. Lastly, add khoya, ashrafis, gulab jamun and chamcham. Special Zarda ready to Serve hot.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "basmati rice": {
+        "ingredient_text": "basmati rice (soaked) ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 296.0,
+        "price_avg": 296.0,
+        "price_high": 296.0,
+        "cost_range": [
+          148.0,
+          148.0
+        ],
+        "cost_contrib_avg": 148.0
+      },
+      "sugar": {
+        "ingredient_text": "sugar ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          89.0,
+          89.0
+        ],
+        "cost_contrib_avg": 89.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 237.0,
+      "avg": 237.0,
+      "max": 237.0
+    }
+  }
+]

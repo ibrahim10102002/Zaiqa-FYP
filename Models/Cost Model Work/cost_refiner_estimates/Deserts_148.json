@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Mathar Recipe | Masala TV",
+    "ingredients": "Ingredients for Mathar Recipe: Wheat flour 750 gm Edible gum 200 gm Gurr 2 glasses chopped Caster sugar ½ cup Ghee 2 ½ cups Dry grated coconut 1 cup Almonds sliced ½ cup Pistachios sliced ½ cup",
+    "instructions": "Heat half quantity ghee, fry edible gum, remove Add gurr to that ghee, and in the left over ghee Add wheat flour and bhuno on low flame for 15 mins. Now mix everything together Save in an airtight jar and use as required.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "gurr": {
+        "ingredient_text": "gurr 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 196.0,
+        "price_avg": 196.0,
+        "price_high": 196.0,
+        "cost_range": [
+          39.2,
+          39.2
+        ],
+        "cost_contrib_avg": 39.2
+      },
+      "sugar": {
+        "ingredient_text": "caster sugar ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          21.36,
+          21.36
+        ],
+        "cost_contrib_avg": 21.36
+      },
+      "coconut": {
+        "ingredient_text": "dry grated coconut 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          45.0,
+          45.0
+        ],
+        "cost_contrib_avg": 45.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 105.56,
+      "avg": 105.56,
+      "max": 105.56
+    }
+  }
+]

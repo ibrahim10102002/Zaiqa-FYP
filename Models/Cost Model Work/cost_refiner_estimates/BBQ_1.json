@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Chicken KataKat Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Chicken KataKat Recipe: Chicken Boneless 10 pieces Chopped Tomatoes 3 Lemons 3 Chopped Green Chilies 4 Chicken Liver 4 Sang Danay 6 Black peppercorn 8 Green Coriander ½ bunch White Cumin 1 tsp Ginger Garlic Paste 1 tbsp Red Chili 1 tbsp Katakat Masala 2 tbsp Oil as Required Salt to taste",
+    "instructions": "Grind together 1 tsp black pepper corn and 1 tsp white cumin together. Cook together, chicken , chicken liver and sang danay with 1 tsp ginger garlic paste till the water dries. Add in 1 tbsp red chili and chopped tomatoes and cook it. Add in oil as required. Add in katakat masala, lemon juice and cook it. When the oil separates, add in lemon juice Add chopped green chilies and salt. Add in ½ bunch of chopped coriander and serve.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          72.6,
+          90.0
+        ],
+        "cost_contrib_avg": 81.3
+      },
+      "lemon": {
+        "ingredient_text": "lemons 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          96.0,
+          100.5
+        ],
+        "cost_contrib_avg": 98.25
+      },
+      "black pepper": {
+        "ingredient_text": "black peppercorn 8",
+        "qty": 8.0,
+        "unit": "unit",
+        "grams": 800.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          1723.2,
+          1723.2
+        ],
+        "cost_contrib_avg": 1723.2
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 2131.3,
+      "avg": 2202.75,
+      "max": 2274.2
+    }
+  }
+]

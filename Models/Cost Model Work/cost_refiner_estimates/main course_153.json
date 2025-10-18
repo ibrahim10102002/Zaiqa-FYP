@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Arabian Chicken Rice Recipe | Masala TV",
+    "ingredients": "Ingredients for Arabian Chicken Rice Recipe: Chicken Legs 2 Chicken Breast 2 Rice 2 cup Ghee 1 cup Yogurt ½ cup Ginger, Garlic Paste 1 tbsp Green Chilies 4 Small Cardamoms 6 Raisins 1 cup Boiled Almonds 10 Salt to taste Chopped Onions 2 White Vinegar 2 tbsp",
+    "instructions": "Make a pieces Chicken legs and chicken breast and soaked then in a skillet heat ghee Add chopped onion cook till golden brown Now put it out and add chicken now add white vinegar mashed small cardamom yogurt and ginger garlic paste and cook Add chopped and boil almonds and raisins and cook well when it will be on boiling point let it cook on low heat and garnish with fried onion and serve.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "rai": {
+        "ingredient_text": "raisins 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 805.0,
+        "price_avg": 805.0,
+        "price_high": 805.0,
+        "cost_range": [
+          80.5,
+          80.5
+        ],
+        "cost_contrib_avg": 80.5
+      },
+      "onion": {
+        "ingredient_text": "onions 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 358.0,
+      "avg": 423.5,
+      "max": 489.0
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Badam Ka Halwa Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Badam Ka Halwa Recipe: Semolina 250gm Almond Paste 1 cup Khoya 250gm Milk 2 cup Sugar ½ cup Almond essence 1 tsp Clarified Butter 1 cup Almonds for garnish",
+    "instructions": "Make almond paste. In a pan, heat clarified butter add semolina & cook it. Now add milk, sugar and almond paste & cook it well. Then add khoya and almond essence mix it well and cook it till clarified is separate. In last dish out Halwa & decorate it with almonds & server it.",
+    "prepTime": 20,
+    "cookTime": 30,
+    "totalTime": 50,
+    "recipeYield": "2-3",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          33.0,
+          58.0
+        ],
+        "cost_contrib_avg": 45.5
+      },
+      "sugar": {
+        "ingredient_text": "sugar ½ cup",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          21.36,
+          21.36
+        ],
+        "cost_contrib_avg": 21.36
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 54.36,
+      "avg": 66.86,
+      "max": 79.36
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Cinnamon Rolls Recipe | Masala TV",
+    "ingredients": "Ingredients for Cinnamon Rolls Recipe: Flour 4 cups Instant Yeast 1 tsp Warm Milk 1 cup Unsalted Butter 3 tbsp Castor Sugar 2 tbsp Salt pinch Egg 1 For Filling: Brown Sugar 1/2 cup Cinnamon Powder 1 tbsp Butter 1/3 cup Flour 2 tbps Icing: Unsalted Butter 2 tbps Icing Sugar 1/2 cup Unsalted Cream Cheese 2 tbps Vanilla Essence few drop Salt pinch",
+    "instructions": "Put the yeast, sugar, warm milk and some flour into a bowl stir it and leave it to rest for 10-15 mins. Then add the other ingredients and make a smooth dough.. Knead the dough and keep it aside for about 1 hour or until double in size. Roll the dough about 1/4 inch thick in a rectangle. Preheat oven at 350 degree. Line rimmed baking sheet with parchment paper, spray or grease with oil an set aside . Spread softened butter over dough, covering the edges. Leaving an inch strip untouched on one of the longer sides of the dough. Dumb brown sugar and cinnamon mix in the centre of the dough and spread it with your hands, creating even layers. Lightly press the sugar mix to the butter on the dough . Slice your rolls into 1-1/2 inch rounds and place them on prepared baking tray Bake for about 20 minutes Then or filling first spresd the butter, then sugar, cinnamon and the with the sieve sprinkle flour. Bake it for 10-15 mins or until golden brown. when the rolls are baked spread generously with icing and serve warm.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 115.7,
+      "avg": 124.4,
+      "max": 133.1
+    }
+  }
+]

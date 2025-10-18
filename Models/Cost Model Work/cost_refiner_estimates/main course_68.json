@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Dhaba Mutton Recipe | Masala TV",
+    "ingredients": "Ingredients for Dhaba Mutton Recipe: Mutton 750 gm Yogurt 1½ cup Chili powder 2 tsp Salt 1½ tsp Turmeric ½ tsp Cumin crushed 1½ tsp Coriander crushed 1 tsp Green cardamom 4 Cloves 4 Bay leaf 1 Oil ½ cup Onion chopped 1 cup Ginger chopped 1 tbsp Garlic chopped 1 tbsp Coriander chopped 3 tbsp Tomato 3 sliced Green chilies 3 chopped All spice 1 tsp Ginger julienne 1 tbsp",
+    "instructions": "Marinate mutton with yogurt, chili powder, salt, turmeric Add cumin and coriander for 30 mins, keep aside. Heat oil, add whole spices with chopped onion, fry till light golden Add chopped ginger garlic, fry, add marinated mutton Keep frying for 10 mins, add tomatoes Cover and cook till tomatoes tender and oil comes on top Add all spice, coriander, green chilies and ginger julienne Serve with nan.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton 7",
+        "qty": 7.0,
+        "unit": "unit",
+        "grams": 700.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          1120.0,
+          1400.0
+        ],
+        "cost_contrib_avg": 1260.0
+      },
+      "onion": {
+        "ingredient_text": "onion chopped 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger julienne 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic chopped 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1382.0,
+      "avg": 1580.75,
+      "max": 1779.5
+    }
+  }
+]

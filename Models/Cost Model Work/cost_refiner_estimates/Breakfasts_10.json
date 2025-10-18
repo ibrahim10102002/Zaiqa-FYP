@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Mix Fruit Jam Recipe | Masala TV",
+    "ingredients": "Ingredients for Mix Fruit Jam Recipe: Banana 1 Orange 1 Guava 1 Apple 2 Lemon Juice 2 tbsp Sugar 1 cup heaped Water 1 cup Red Food Color a pinch",
+    "instructions": "Wash peel and cut fruits into small pieces cook with water till tender Then blend fruit and put in a pan with sugar and juice. Cook rapidly until set stirring continuously until the jam falls from spoon in the thick drops. Keep the jars clean fill bottles.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "lemon": {
+        "ingredient_text": "lemon",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 49.8,
+      "avg": 50.55,
+      "max": 51.3
+    }
+  }
+]

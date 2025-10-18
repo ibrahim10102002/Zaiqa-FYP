@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Spicy Omelette Toast Recipe | Mehboob Khan | Masala TV",
+    "ingredients": "Ingredients for Spicy Omelette Toast Recipe: Bread 3-4 slices Milk 4 tbsp Eggs 3 Black pepper powder ½ tsp Salt to taste Green coriander ½ bunch (chopped) Green chilies 3 (chopped) Plain flour 2 tbsp Cooked chicken ½ cup (shredded) Oil for fry",
+    "instructions": "Remove edge of bread and cut in triangle shape; sprinkle milk over bread slices. Beat eggs; add black pepper powder, salt, green coriander and green chilies. Gradually add plain flour then mix in cooked chicken. Dip bread slice in mixture and fry in frying pan until get a nice golden color from both sides.",
+    "prepTime": 10.0,
+    "cookTime": 15,
+    "totalTime": 25,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/7akFaNJVcOM?list=PL_omWBKCy7Em0qkK0BZHE-DZRu3aHA8Ql",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "milk 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          66.0,
+          116.0
+        ],
+        "cost_contrib_avg": 91.0
+      },
+      "egg": {
+        "ingredient_text": "eggs 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          84.0,
+          98.7
+        ],
+        "cost_contrib_avg": 91.35
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper powder ½ tsp",
+        "qty": 0.5,
+        "unit": "tsp",
+        "grams": 2.5,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          5.38,
+          5.38
+        ],
+        "cost_contrib_avg": 5.38
+      },
+      "chicken": {
+        "ingredient_text": "cooked chicken ½ cup (shredded)",
+        "qty": 0.5,
+        "unit": "cup",
+        "grams": 120.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          71.4,
+          102.0
+        ],
+        "cost_contrib_avg": 86.7
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 226.78,
+      "avg": 274.44,
+      "max": 322.08
+    }
+  }
+]

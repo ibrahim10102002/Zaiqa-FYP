@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Whole Chicken Broast Recipe | Masala TV",
+    "ingredients": "Ingredients for Whole Chicken Broast Recipe: Whole chicken 1 Eggs 2 Vinegar 1 cup Bread crumbs 1 cup Salt 1 tsp Black pepper 1 tsp Chili powder 1 tsp Meat tenderizer ½ tsp Ginger garlic paste 2 tsp Chaat Masala 2 tsp Mustard paste 2 tsp Soya sauce 2 tbsp Oil for fry",
+    "instructions": "Marinate 1 whole chicken with 1 cup vinegar Add 2 tbsp soya sauce and ½ tsp meat tenderizer overnight. Now marinate with 2 tsp mustard paste, 1 tsp salt, 1 tsp black pepper Add 1 tsp chili powder, 2 tsp ginger garlic paste and 2 tsp chaat masala. Coat in 2 beaten eggs, lastly coat 1 cup bread crumbs and deep fry in hot oil.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "whole chicken 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "egg": {
+        "ingredient_text": "eggs 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 468.4,
+      "avg": 515.3,
+      "max": 562.2
+    }
+  }
+]

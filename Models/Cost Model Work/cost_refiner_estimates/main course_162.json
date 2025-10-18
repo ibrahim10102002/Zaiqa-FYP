@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Chicken White Boneless Karahi Recipe | Masala TV",
+    "ingredients": "Ingredients for Chicken White Boneless Karahi Recipe: Chicken Boneless (cubes) 1/2 kg Ginger Paste 1 tbsp Garlic Paste 1/2 tbsp Tomatoes 1cup Salt to taste Red Chilli Powder 1 tsp Black Pepper Powder 1 tsp Cream 1 cup oil 1/4 cup Green Chillies for garnishing Coriander Leaves for garnishing",
+    "instructions": "Heat oil in a pan and add ginger garlic paste Add Chicken cubes and spices and cook for 2 to 3 minutes on high flame Add blended tomatoes. Cover the pan and let it cook till chicken is done and oil starts to float. Add 1 cup cream and cook for one minute then remove the pan from heat. Garnish with green chillies and coriander while serving",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          59.5,
+          85.0
+        ],
+        "cost_contrib_avg": 72.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          24.2,
+          30.0
+        ],
+        "cost_contrib_avg": 27.1
+      },
+      "hing": {
+        "ingredient_text": "leaves for garnishing",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 6200.0,
+        "price_avg": 6200.0,
+        "price_high": 6200.0,
+        "cost_range": [
+          620.0,
+          620.0
+        ],
+        "cost_contrib_avg": 620.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1444.2,
+      "avg": 1494.85,
+      "max": 1545.5
+    }
+  }
+]

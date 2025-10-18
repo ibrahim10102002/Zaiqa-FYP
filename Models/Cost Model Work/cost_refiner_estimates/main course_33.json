@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Green Masala Fish Karahi Recipe | Masala TV",
+    "ingredients": "Ingredients for Green Masala Fish Karahi Recipe: Surmai fish ½ kg Green onions finely chopped 1 cup Garlic chopped 2tbsp Ginger chopped 2tbsp Oil ½ cup Tomatoes 3 chopped Coriander leaves chopped ½ cup Green chilies 3 whole Chili powder 1 tsp Salt 1 tsp Turmeric ¼ tsp Ajwain 1/8 tsp Coriander 1 tsp Black pepper ¼ tsp All spice ¼ tsp",
+    "instructions": "Heat oil in a wok, add onion, tomatoes, ginger garlic and cook for 5 mins. Now add spices, cook on medium flame Add fish cook on medium flame till fish is done. Add green chilies, coriander leaves, all spice, when oil comes on top, remove. Serve with nan.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "onion": {
+        "ingredient_text": "green onions finely chopped 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "garlic": {
+        "ingredient_text": "garlic chopped 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger chopped 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          44.0,
+          100.0
+        ],
+        "cost_contrib_avg": 72.0
+      },
+      "tomatoes": {
+        "ingredient_text": "tomatoes 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 242.0,
+        "price_avg": 271.0,
+        "price_high": 300.0,
+        "cost_range": [
+          72.6,
+          90.0
+        ],
+        "cost_contrib_avg": 81.3
+      },
+      "ajwain": {
+        "ingredient_text": "ajwain 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 350.0,
+        "price_avg": 350.0,
+        "price_high": 350.0,
+        "cost_range": [
+          35.0,
+          35.0
+        ],
+        "cost_contrib_avg": 35.0
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper ¼ tsp",
+        "qty": 0.25,
+        "unit": "tsp",
+        "grams": 1.25,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          2.69,
+          2.69
+        ],
+        "cost_contrib_avg": 2.69
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 251.29,
+      "avg": 306.99,
+      "max": 362.69
+    }
+  }
+]

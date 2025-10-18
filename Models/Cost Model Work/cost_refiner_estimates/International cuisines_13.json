@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Japanese Katsu Chicken Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Japanese Katsu Chicken Recipe: Boneless Breast 2 flatten Salt 1 /2 tsp Red Chili Garlic Sauce 1 tbsp Soya Sauce 1 tbsp Black pepper crushed ½ tsp Flour 2 tbps Egg 1 Imported bread crumb as required Ingredients for sauce Mayyaonise 4 tbsp mix with 2 tbsp lemon juice",
+    "instructions": "Flatten boneless breast marinate with salt, pepper, spread in flour. Dip in beaten egg. Coat well in bread crumbs press it very well with the palm of your hand, so it became thin and big. Deep fry in a fry pan till crisp and golden on medium flam on 12 â 15 min. Remove cut into strips drizzle with sauce serve as an Appetizer.",
+    "prepTime": 30,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "lemon": {
+        "ingredient_text": "tbsp lemon juice",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          32.0,
+          33.5
+        ],
+        "cost_contrib_avg": 32.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 32.0,
+      "avg": 32.75,
+      "max": 33.5
+    }
+  }
+]

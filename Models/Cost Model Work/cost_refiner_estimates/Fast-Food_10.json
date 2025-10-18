@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Salsa Chicken Sandwiches Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Salsa Chicken Sandwiches Recipe: Boneless Chicken 400 gms Black Pepper 1tsp Salt ½ tsp Ginger Garlic 2 tsp For Making Salsa: Tomato Ketchup ½ cup Red Chili (chopped) ½ tsp Salt ½ tsp Vinegar 1 tsp Brown Sugar 1 tsp Mayonese ½ cup Finely Chopped Onion 1 Finely Chopped Green Chili 1",
+    "instructions": "In a pan, add Chicken, Black Pepper, Ginger Garlic and boil. When chicken are tender, fibre it. In a bowl, add Tomato Ketchup, Red Chili, Vinegar, Brown Sugar, Mayonese, Finely Chopped Onion, Finely Chopped Green Chili and mix. After this, in a bread spread salasa add chicken and cover second piece of bread slice.",
+    "prepTime": 30.0,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          238.0,
+          340.0
+        ],
+        "cost_contrib_avg": 289.0
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 434.3,
+      "avg": 531.05,
+      "max": 627.8
+    }
+  }
+]

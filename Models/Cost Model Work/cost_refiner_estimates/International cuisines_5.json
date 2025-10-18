@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Oriental Chicken & Pasta Recipe | Masala TV",
+    "ingredients": "Ingredients for Oriental Chicken & Pasta Recipe: Pasta boiled 1 packet Chicken 250 gm Carrot chopped 2 Mushrooms 1 cup Stock 1 cup Tomato ketchup ½ cup Garlic chopped 1 tsp Ginger chopped 1 tsp Crushed red pepper 1 tsp Sesame oil 1 tsp Corn flour 1 tbsp Vinegar 1 tbsp Salt ½ tsp Oil 3 tbsp Soya sauce 3 tbsp",
+    "instructions": "Heat 3 tbsp oil in pan, add 1 tsp chopped garlic and fry well. Now add 1 tsp chopped ginger with 250 gm chicken and fry well. Add 1 cup mushrooms and 2 chopped carrots, fry for 1 minute. Now add 1 cup stock, 3 tbsp soya sauce, ½ cup tomato ketchup Add 1 tsp sesame oil, ½ tsp salt, 1 tsp crushed red pepper and 1 tbsp vinegar. Thickens the mixture with 1 tbsp corn flour mixed in 2 tbsp water. Lastly add 1 packet boiled pasta and serve.",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          119.0,
+          170.0
+        ],
+        "cost_contrib_avg": 144.5
+      },
+      "garlic": {
+        "ingredient_text": "garlic chopped 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "ginger": {
+        "ingredient_text": "ginger chopped 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "corn flour": {
+        "ingredient_text": "corn flour 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 87.0,
+        "price_avg": 87.0,
+        "price_high": 87.0,
+        "cost_range": [
+          8.7,
+          8.7
+        ],
+        "cost_contrib_avg": 8.7
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 248.2,
+      "avg": 308.7,
+      "max": 369.2
+    }
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Spicy Fish Pizza Recipe | Gulzar Hussain | Masala TV",
+    "ingredients": "Ingredients for Spicy Fish Pizza Recipe: For Pizza Dough All Purpose Flour ½ kg Yeast 1- ½ tbsp Sugar 1 tsp Baking Powder 2 tsp Egg 1 Butter ½ cup Salt to taste For Fish Marination Boneless Fish 500 gram Eggs 1-2 Ginger Garlic Paste 1tbsp Red Chili Paste 2 tbsp Turmeric Powder ½ tsp All Spice Powder ½ tsp Corn Flour 2 tbsp Orange Food Color 1 pinch Oil for fry Salt to taste For Pizza Topping Pizza Sauce ½ cup Chili Pickle (Sliced) ½ cup Cucumber Pickle(Sliced) ½ cup Mushrooms (Sliced) ½ cup Olives(Sliced) ½ cup Mozzarella Cheese(Grated) 400 grams Oregano ½ tsp Butter 3-4 tbsp",
+    "instructions": "Take a luke warm water add 1-1/2 tbsp of yeast and 1 tsp of sugar mix it well and leave it in 15 minutes. Take ½ kg of all purpose flour add to taste salt , 2 tsp of baking powder , ½ cup of butter , 1 egg and add yeast mixture mix it well and make a dough and leave it for 3-4 hours, when the dough is raised now take out the dough and fold it with the hands. Now dough is ready. For fish: take a mixing bowl add 1-2 egg whites , 2 tbsp of corn flour, 1 tbsp of ginger garlic paste, 2 tbsp of red chili paste, ½ tsp of turmeric powder, ½ tsp of all spice powder , 1 pinch of yellow food color and add to taste salt mix it well and add 500 grams of fish and marinate it to ½ an hour then take a cooking pan add oil , heat the oil and fry the fish take it out in a plate drain all the access of oil. For topping: take a oven tray and greases with 3-4 tbsp of butter and set the dough into the tray now spread the1/2 cup of pizza sauce into a dough now add fried fish , ½ cup of sliced mushrooms, ½ cup of chili pickle sliced, ½ cup of cucumber pickle sliced, then add 400 grams of grated mozzarella cheese. At last sprinkle ½ tsp of oregano and ½ cup olives. Now place the tray into a preheated oven and bake it for 18 to 20 minutes on 200C. when its ready take it out in a serving platter cut the slices and serve it.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "egg": {
+        "ingredient_text": "eggs 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "cucumber": {
+        "ingredient_text": "cucumber",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 57.0,
+        "price_avg": 58.5,
+        "price_high": 60.0,
+        "cost_range": [
+          5.7,
+          6.0
+        ],
+        "cost_contrib_avg": 5.85
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 140.5,
+      "avg": 167.8,
+      "max": 195.1
+    }
+  }
+]

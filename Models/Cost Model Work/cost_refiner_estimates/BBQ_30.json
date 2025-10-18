@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Highway Tikka Karahi Recipe | Masala TV",
+    "ingredients": "Ingredients for Highway Tikka Karahi Recipe: Chicken 1 kg 4 pcs deep fried Green chilies 20 deep fried till light golden Ginger garlic paste 2 tbsp Ginger julienne 2 tbsp Lemon juice ¼ cup Tomatoes sliced ½ kg Salt 1½ tsp Fresh coriander 2 tbsp Special karahi masala ½ packet Ingredients for Karahi Masala Chat masala 2 tbsp Roasted cumin seeds 1 tbsp Roasted coriander seeds 1 tbsp Kasuri methi 1 tsp All spice 1 tsp Crushed red pepper 1 tsp Crushed black pepper 1 tsp",
+    "instructions": "Heat 1 cup oil in a wok, add fried chicken, fried green chilies, ginger garlic paste Add salt and tomatoes with half cup water Now cover and cook for 15 mins until tomatoes and chicken tender Add ginger julienne, chopped green chilies, lemon juice, coriander leaves Add karahi masala, top with ¼ cup oil on top to give it a shine. Method for Masala Grind all together mix well and use.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "black pepper": {
+        "ingredient_text": "crushed black pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 215.4,
+      "avg": 215.4,
+      "max": 215.4
+    }
+  }
+]

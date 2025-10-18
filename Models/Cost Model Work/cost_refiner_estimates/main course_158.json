@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Kachri Kabab Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Kachri Kabab Recipe: Beef Mince ½ kg (do not wash) Onion 1 sliced Poppy Seeds 1 tbsp Desiccated Coconut 1 tbsp Roasted Gram 2 tbsp Ginger Garlic 1 tbsp Salt 1 tsp Chili Powder 1 tsp heaped All spices 1 tsp Kachri Powder 1 tsp",
+    "instructions": "Grind together mince and onion very finely in chopper, keep aside. Dry grind poppy seeds, coconut and roasted gram and add to the mince with all the rest ingredients and grind once again, make into kababs and shallow fry. Keep the coal on simmer.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "beef": {
+        "ingredient_text": "beef",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          90.0,
+          110.0
+        ],
+        "cost_contrib_avg": 100.0
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "coconut": {
+        "ingredient_text": "coconut 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          45.0,
+          45.0
+        ],
+        "cost_contrib_avg": 45.0
+      },
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 215.0,
+      "avg": 249.75,
+      "max": 284.5
+    }
+  }
+]

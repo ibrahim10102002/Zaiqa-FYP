@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Chicken Reshmi Biryani Recipe | Masala TV",
+    "ingredients": "Ingredients for Chicken Reshmi Biryani Recipe: Chicken boneless 750gm Onion sliced 1/2kg Chopped coriander 4tbsp Garlic 2tbsp Ginger 2tbsp Coriander powder 3tbsp Turmeric 1tsp Yellow food color 1pinch Seyla rice 3cups Salt 1tbsp Whole all spices 2tbsp Green chili paste 3tbsp Yogurt 1/2kg Screw pine 1/3cup",
+    "instructions": "Heat oil in a pan and fry onions. Now add ginger garlic to fry. After that add chicken, all spices, turmeric and spring onions and green chili paste to fry at high flame Now add the half of the fried onions and with it salt and coriander powder. When the water dries up add half of the yogurt and screw pine. Then switch off the flame and add the rest of the yogurt and screw pine. After that boil rice in salted water and it on the qorma to simmer it. Garnish it with rest the fried onions to serve.",
+    "prepTime": 15.0,
+    "cookTime": 25,
+    "totalTime": 40,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken boneless 7",
+        "qty": 7.0,
+        "unit": "unit",
+        "grams": 700.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          416.5,
+          595.0
+        ],
+        "cost_contrib_avg": 505.75
+      },
+      "onion": {
+        "ingredient_text": "onion sliced 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "garlic": {
+        "ingredient_text": "garlic 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          78.0,
+          111.0
+        ],
+        "cost_contrib_avg": 94.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          44.0,
+          100.0
+        ],
+        "cost_contrib_avg": 72.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 617.0,
+      "avg": 766.0,
+      "max": 915.0
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Classic Beef Cheese Burger Recipe | Masala TV",
+    "ingredients": "Ingredients for Classic Beef Cheese Burger Recipe: Beef mince 750g Bread slices 2 Egg 1 Oil for frying Milk 4tbsp Butter 6tbsp Mayonnaise 8tbsp Mustard paste 2tbsp Black pepper (powder) 2tsp Thyme, oregano 1-1/2tsp Salt 1-1/2tsp Cheese slice as required Burger bun 6 Lettuce leaf as required",
+    "instructions": "Firstly soak bread slices in milk. Now in beef mince add salt, black pepper powder Add egg, bread slices, mustard paste and thyme, oregano mix all these in a mixer and beat them. After that on the burger bun spread butter and roast them Apply mayonnaise on both sides of the bread and add lettuce leaf. Now shallow fry the patty and set it in bun with cheese slices. Lastly cover it with the other slice and serve.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Fast-Food",
+    "matched_ingredients_v4": {
+      "beef": {
+        "ingredient_text": "beef mince 7",
+        "qty": 7.0,
+        "unit": "unit",
+        "grams": 700.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          630.0,
+          770.0
+        ],
+        "cost_contrib_avg": 700.0
+      },
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "milk": {
+        "ingredient_text": "milk 4",
+        "qty": 4.0,
+        "unit": "unit",
+        "grams": 400.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          66.0,
+          116.0
+        ],
+        "cost_contrib_avg": 91.0
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper (powder) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          430.8,
+          430.8
+        ],
+        "cost_contrib_avg": 430.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1244.8,
+      "avg": 1352.25,
+      "max": 1459.7
+    }
+  }
+]

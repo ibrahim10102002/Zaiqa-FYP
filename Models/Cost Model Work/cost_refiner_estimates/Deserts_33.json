@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Coffee Caramel Mousse Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Coffee Caramel Mousse Recipe: Cream 2 packets or 16 oz Caster sugar ¾ cup Coffee 2 tbsp Walnut half cup Eggs 2 Gelatin 1 tbsp Water ¼ cup Caramel syrup 2 tbsp",
+    "instructions": "In a sauce pan add 1 packet crÃ¨me, coffee, egg yolks, 2 tbsp caramel syrup and prepare custard. Dissolve gelatin in ¼ water add to the custard beat the second packet of cream well also beat egg whites with half sugar, keep aside. In your prepared custard fold in the whipped cream chop walnuts, also folds ion the egg whites. Remove in a bowl set until form, Garnished with walnuts and sprinkle with coffee.",
+    "prepTime": 45,
+    "cookTime": 60,
+    "totalTime": 105,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "caster sugar ¾ cup",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "egg": {
+        "ingredient_text": "eggs 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 73.8,
+      "avg": 78.7,
+      "max": 83.6
+    }
+  }
+]

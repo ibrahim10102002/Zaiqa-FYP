@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Buddha’s Delight Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Buddha’s Delight Recipe: Chicken (Cubed) 500 g Flour 2 tbsp Corn Flour 2 tbsp Egg 1 Soy Sauce 1 tbsp Salt ½ tsp Black Pepper ½ tsp Mushrooms (Sliced) 4 Sweet Corn ½ cup Ginger (Sliced) 1 inch Garlic (Chopped) 1 tbsp Whole Red Chilies 6 Capsicum (Julienned) 1 Carrot (Julienned) ½ cup Cabbage (Julienned) 1 cup Sugar 1 tbsp Vinegar 1 tbsp Soy Sauce 1 tbsp Salt ½ tsp Pepper ½ tsp Water ½ cup Corn Flour 1 tbsp",
+    "instructions": "Marinate chicken with salt, pepper, soy sauce, flour, corn flour and egg for 15 minutes. Then deep fry the chicken and keep aside. Heat the oil, sautÃ© ginger and garlic in it for 1 minute. Add in all vegetables with seasoning, sauces, and fried chicken. Finally add in corn flour to thicken the sauce and serve.",
+    "prepTime": 30,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "International cuisines",
+    "matched_ingredients_v4": {
+      "chicken": {
+        "ingredient_text": "chicken (cubed) 5",
+        "qty": 5.0,
+        "unit": "unit",
+        "grams": 500.0,
+        "price_low": 595.0,
+        "price_avg": 722.5,
+        "price_high": 850.0,
+        "cost_range": [
+          297.5,
+          425.0
+        ],
+        "cost_contrib_avg": 361.25
+      },
+      "egg": {
+        "ingredient_text": "egg 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          28.0,
+          32.9
+        ],
+        "cost_contrib_avg": 30.45
+      },
+      "ginger": {
+        "ingredient_text": "ginger (sliced) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic (chopped) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum (julienned) 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          23.0,
+          24.0
+        ],
+        "cost_contrib_avg": 23.5
+      },
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 427.3,
+      "avg": 516.25,
+      "max": 605.2
+    }
+  }
+]

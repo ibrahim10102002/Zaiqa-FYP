@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Peanut Chikki Recipe | Masala TV",
+    "ingredients": "Ingredients for Peanut Chikki Recipe: 250 gm peanuts 200 gm sugar/ jaggery 25 gm butter",
+    "instructions": "Skin, roast and coarsely crush the peanuts. Heat sugar with 1/2 cup of water until thick. Boil the syrup until hard crack consistency. (Test its consistency by putting a drop in cold water- it should crack after you take it out). Add the peanuts and mix thoroughly. Grease a tray and spread the mixture. Roll flat to 1 cm in thickness. Cut into squares when cooled and store in an airtight container.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "gm sugar/ jaggery 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          35.6,
+          35.6
+        ],
+        "cost_contrib_avg": 35.6
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 35.6,
+      "avg": 35.6,
+      "max": 35.6
+    }
+  }
+]

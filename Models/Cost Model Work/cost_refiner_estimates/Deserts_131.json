@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Doodh Peda Recipe | Masala TV",
+    "ingredients": "Ingredients for Doodh Peda Recipe: Ghee 1 tbsp Condensed milk 200 gm Powder milk 100 gm Saffron ¼ tsp mixed with 1 tbsp hot milk Nutmeg powder pinch Cardamom powder ½ tsp Kewra water 1 tsp",
+    "instructions": "Heat non-stick pan, add condensed milk, ghee and milk powder Now combine them, you would see some lumps formed in the mixture. Donât worry just use the hand blender and they would appear smooth Add cardamom, nutmeg and saffron milk Keep stirring until the mixture starts leaving the sides of the pan. Do not overcook this mixture, once the mixture cool You should be able to form balls, if they are soft, then cook again for some more time. Remove mixture in a greased plate and allow to cool in a fridge for some time. Grease your hands, shape into small balls, garnish with few saffron strands or sliced pistachio.",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "milk": {
+        "ingredient_text": "tbsp hot milk",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          16.5,
+          29.0
+        ],
+        "cost_contrib_avg": 22.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 66.0,
+      "avg": 91.0,
+      "max": 116.0
+    }
+  }
+]

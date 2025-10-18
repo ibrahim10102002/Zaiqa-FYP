@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Besan ki Barfi Recipe | Masala TV",
+    "ingredients": "Ingredients for Besan ki Barfi Recipe: Gram flour 2 cup Clarified butter 2 cup Dry milk 2 cup Sugar 3 cup Water 4 cup Pistachios ½ cup Cardamom powder ½ tsp Screwpine essence few drops",
+    "instructions": "Heat Clarified butter and lightly roasted gram flour. Then mix in dry milk. In a pot water and sugar mix well and make thickly syrup. Now mix cardamom powder and screwpine essence. Then dish out in greasy platter and garnish with pistachios. After cool cut in to pieces and to ready Besan ki barfi.",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "besan": {
+        "ingredient_text": "besan ki",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 213.0,
+        "price_avg": 213.0,
+        "price_high": 213.0,
+        "cost_range": [
+          21.3,
+          21.3
+        ],
+        "cost_contrib_avg": 21.3
+      },
+      "milk": {
+        "ingredient_text": "dry milk 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 165.0,
+        "price_avg": 227.5,
+        "price_high": 290.0,
+        "cost_range": [
+          33.0,
+          58.0
+        ],
+        "cost_contrib_avg": 45.5
+      },
+      "sugar": {
+        "ingredient_text": "sugar 3",
+        "qty": 3.0,
+        "unit": "unit",
+        "grams": 300.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          53.4,
+          53.4
+        ],
+        "cost_contrib_avg": 53.4
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 107.7,
+      "avg": 120.2,
+      "max": 132.7
+    }
+  }
+]

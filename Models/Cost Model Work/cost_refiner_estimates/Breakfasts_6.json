@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Aalu aur Qeemay kay Kabab Recipe | Rida Aftab | Masala TV",
+    "ingredients": "Ingredients for Aalu aur Qeemay kay Kabab Recipe: Mince ½ kg Cumin Seeds 2tsp Garam Masala Powder 1 tsp Salt 1tsp Ginger Garlic Paste2 tsp Potato (boiled) 2 Eggs 2 Coriander Leaves as required Finely Chopped Green Chilies as required Tomato 1 Oil (for frying) as required",
+    "instructions": "In a bowl, add Mince, Boiled Potato, Cumin Seeds, Garam Masala Powder, Salt, Ginger Garlic Paste, Tomato, Coriander Leaves, Finely Chopped Green Chilies and mix well. Now make kababs and dip in egg, fry in heat oil. Delicious Aalu aur Qeemay kay Kabab is ready.",
+    "prepTime": 30.0,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "2",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Breakfasts",
+    "matched_ingredients_v4": {
+      "ginger": {
+        "ingredient_text": "ginger",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "potato": {
+        "ingredient_text": "potato (boiled) 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 44.0,
+        "price_avg": 49.5,
+        "price_high": 55.0,
+        "cost_range": [
+          8.8,
+          11.0
+        ],
+        "cost_contrib_avg": 9.9
+      },
+      "egg": {
+        "ingredient_text": "eggs 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 280.0,
+        "price_avg": 304.5,
+        "price_high": 329.0,
+        "cost_range": [
+          56.0,
+          65.8
+        ],
+        "cost_contrib_avg": 60.9
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 125.8,
+      "avg": 154.05,
+      "max": 182.3
+    }
+  }
+]

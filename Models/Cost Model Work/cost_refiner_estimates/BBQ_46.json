@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Ringo Kabab Ramadan Recipe | Shireen Anwar | Masala TV",
+    "ingredients": "Ingredients for Ringo Kabab Ramadan Recipe: Beef mince ½ kg cheese slices 3 onion 1 cup chopped green chilies chopped 1 tbsp black pepper 1 tsp coriander leaves 2 tbsp mint 2 tbsp roasted and crushed cumin 1½ tsp roasted and crushed coriander 2 tbsp salt 1 tsp fennel seeds grinded 1 tsp coconut grinded 1tbsp Turmeric ½ tsp Capsicum ½ finely chopped chatni to serve Doughnut cutter to cut",
+    "instructions": "Put all the ingredients in chopper and grind into a smooth paste, make into round kebabs. Now cut with doughnut cutter to give a ring shape, bbq or bake. Serve with onion rings, lemon. Serve immediately with any chatni of your choice.",
+    "prepTime": 20,
+    "cookTime": 10,
+    "totalTime": 30,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "BBQ",
+    "matched_ingredients_v4": {
+      "beef": {
+        "ingredient_text": "beef mince ½ kg cheese slices 3",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          450.0,
+          550.0
+        ],
+        "cost_contrib_avg": 500.0
+      },
+      "onion": {
+        "ingredient_text": "onion 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "black pepper": {
+        "ingredient_text": "tbsp black pepper 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          215.4,
+          215.4
+        ],
+        "cost_contrib_avg": 215.4
+      },
+      "coconut": {
+        "ingredient_text": "tsp coconut grinded 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          45.0,
+          45.0
+        ],
+        "cost_contrib_avg": 45.0
+      },
+      "capsicum": {
+        "ingredient_text": "capsicum ½ finely chopped chatni to serve",
+        "qty": 0.5,
+        "unit": "finely",
+        "grams": 50.0,
+        "price_low": 230.0,
+        "price_avg": 235.0,
+        "price_high": 240.0,
+        "cost_range": [
+          11.5,
+          12.0
+        ],
+        "cost_contrib_avg": 11.75
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 740.9,
+      "avg": 793.65,
+      "max": 846.4
+    }
+  }
+]

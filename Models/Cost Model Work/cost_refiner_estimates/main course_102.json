@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Ginger mutton curry Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Ginger mutton curry Recipe: Mutton ½ kg Lemon 2 Onion chopped 2 Green chilli chopped 10 Oil 1 cup Turmeric 1 tsp Ginger garlic paste 1 tbsp Yogurt ½ cup Black pepper crushed ½ tbsp Salt as required",
+    "instructions": "Fry onion in oil till it turns golden brown. Now add ½ kg mutton, salt, 1 tbsp ginger garlic paste and 1tsp turmeric and cook. Then meat water dries ½ cup lukewarm water and cook till meat tender. Add ½ cup of yogurt and sautÃ© it. When oil form a separate a layer, put ½ tbsp crushed black pepper, chopped green chillies, ginger and lemon juice and cook it on low flame for 10 minutes. Serve it with hot naan.",
+    "prepTime": 30.0,
+    "cookTime": 45,
+    "totalTime": 75,
+    "recipeYield": "2-3",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "mutton": {
+        "ingredient_text": "mutton ½ kg",
+        "qty": 0.5,
+        "unit": "kg",
+        "grams": 500.0,
+        "price_low": 1600.0,
+        "price_avg": 1800.0,
+        "price_high": 2000.0,
+        "cost_range": [
+          800.0,
+          1000.0
+        ],
+        "cost_contrib_avg": 900.0
+      },
+      "lemon": {
+        "ingredient_text": "lemon 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 320.0,
+        "price_avg": 327.5,
+        "price_high": 335.0,
+        "cost_range": [
+          64.0,
+          67.0
+        ],
+        "cost_contrib_avg": 65.5
+      },
+      "onion": {
+        "ingredient_text": "onion chopped 2",
+        "qty": 2.0,
+        "unit": "unit",
+        "grams": 200.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          38.0,
+          48.0
+        ],
+        "cost_contrib_avg": 43.0
+      },
+      "garlic": {
+        "ingredient_text": "ginger garlic paste 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "black pepper": {
+        "ingredient_text": "black pepper crushed ½ tbsp",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "grams": 7.5,
+        "price_low": 2154.0,
+        "price_avg": 2154.0,
+        "price_high": 2154.0,
+        "cost_range": [
+          16.16,
+          16.16
+        ],
+        "cost_contrib_avg": 16.16
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 1117.15,
+      "avg": 1251.9,
+      "max": 1386.65
+    }
+  }
+]

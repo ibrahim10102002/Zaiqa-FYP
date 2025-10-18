@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Khajoor kay Ladoo Recipe | Zubaida Tariq | Masala TV",
+    "ingredients": "Ingredients for Khajoor kay Ladoo Recipe: Dates ½ kg Almonds (chopped) 15 Pistachio (chopped) 15 Semolina 1 cup Sugar 1 cup Cardamoms (chopped) 4 White Sesame Seeds 3 tbsp Coconut Powder 1 packet Oil 1 tbsp",
+    "instructions": "Remove seeds from dates and form a date ball. Now heat oil in a wok and add 4 green cardamoms. Add 1 cup semolina , 15 finely chopped crushed almonds and 15 finely crushed pistachios. Stir and cook Remove the semolina mixture from the wok and mix dates. When the mixture is cool enough add 1 cup sugar. Now add 1 packet coconut Powder and 3 tbsp roasted sesame seeds. Grease and make small balls.",
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "Deserts",
+    "matched_ingredients_v4": {
+      "sugar": {
+        "ingredient_text": "sugar 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 178.0,
+        "price_avg": 178.0,
+        "price_high": 178.0,
+        "cost_range": [
+          17.8,
+          17.8
+        ],
+        "cost_contrib_avg": 17.8
+      },
+      "coconut": {
+        "ingredient_text": "coconut",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 450.0,
+        "price_avg": 450.0,
+        "price_high": 450.0,
+        "cost_range": [
+          45.0,
+          45.0
+        ],
+        "cost_contrib_avg": 45.0
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 62.8,
+      "avg": 62.8,
+      "max": 62.8
+    }
+  }
+]

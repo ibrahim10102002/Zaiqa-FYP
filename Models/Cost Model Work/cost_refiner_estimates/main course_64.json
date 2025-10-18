@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Achari Biryani Recipe | Masala TV",
+    "ingredients": "Ingredients for Achari Biryani Recipe: For Achari Qorma Beef (With Bone ) ½ kg Yogurt ½ kg Onion 1 Big Green Chilies 8-10 Crushed Red Chilies 2 tbsp Finely Chopped Ginger 1 tbsp Chopped Garlic 1 tbsp Fennel Seeds 1 tsp Cumin Seeds 1 tsp Onion Seeds ½ tsp Mustard Seeds ½ tsp Fenugreek Seeds ¼ tsp Red Chili Powder 1 tbsp Aaamchor 1 tbsp Cumin Powder 1 tsp Oil 4 tbsp Salt to taste For Biryani Sela Rice ½ kg Bay Leaves 2 Orange Food Color 1 pinch Coriander ½ bunch Mint Leaves ½ bunch",
+    "instructions": "For qorma: First take yogurt add 1 tbsp red chili powder, 1 tbsp of khatai powder, 1 tsp of cumin powder Add to taste salt, mix it well. Take 8-10 big green chilies and cut into the middle Take it out all the seeds and fill the stuffing in it, then set aside. Now take a cooking pan add 1 tbsp of finely chopped ginger Add 1 tbsp of finely garlic cloves , 1 onion, mix it well and fry for 2-3 minutes Now add ½ kg of beef with bone and roasted add as required water cook until its bone. Take a mixing bowl add ½ kg of yogurt, add 2 tbsp of crushed red chili Add 1 tsp of fennel seeds, 1 tsp of cumin seeds, ½ tsp of onion seeds, ½ tsp of mustard seeds, ¼ seeds fenugreek seeds Add to taste salt mix it well and roasted Then add water and stuffed green chilies cover the lid and steam it. Now qorma is ready. For biryani: Take a ½ kg of sela rice, clean and wash it, soak it. take a cooking pan add water, add 2 bay leaves When the fragrance is comes out and boil hard . take it out and strain it. and set aside. Take cooking pan grease it add qorma, Now layer the boiled sela rice, ½ bunch coriander, ½ bunch of mint, qorma. At last 1 pinch of orange color, steam it when steam its done take it out in a serving platter and serve it.",
+    "prepTime": 15.0,
+    "cookTime": 20,
+    "totalTime": 35,
+    "recipeYield": "4",
+    "calories": 150,
+    "youtube_link": "https://youtu.be/",
+    "category": "main course",
+    "matched_ingredients_v4": {
+      "achar": {
+        "ingredient_text": "achari",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 350.0,
+        "price_avg": 350.0,
+        "price_high": 350.0,
+        "cost_range": [
+          35.0,
+          35.0
+        ],
+        "cost_contrib_avg": 35.0
+      },
+      "beef": {
+        "ingredient_text": "beef (with",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 900.0,
+        "price_avg": 1000.0,
+        "price_high": 1100.0,
+        "cost_range": [
+          90.0,
+          110.0
+        ],
+        "cost_contrib_avg": 100.0
+      },
+      "onion": {
+        "ingredient_text": "onion",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 190.0,
+        "price_avg": 215.0,
+        "price_high": 240.0,
+        "cost_range": [
+          19.0,
+          24.0
+        ],
+        "cost_contrib_avg": 21.5
+      },
+      "ginger": {
+        "ingredient_text": "ginger 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 220.0,
+        "price_avg": 360.0,
+        "price_high": 500.0,
+        "cost_range": [
+          22.0,
+          50.0
+        ],
+        "cost_contrib_avg": 36.0
+      },
+      "garlic": {
+        "ingredient_text": "garlic 1",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 390.0,
+        "price_avg": 472.5,
+        "price_high": 555.0,
+        "cost_range": [
+          39.0,
+          55.5
+        ],
+        "cost_contrib_avg": 47.25
+      },
+      "fenugreek": {
+        "ingredient_text": "fenugreek",
+        "qty": 1.0,
+        "unit": "unit",
+        "grams": 100.0,
+        "price_low": 44.0,
+        "price_avg": 45.5,
+        "price_high": 47.0,
+        "cost_range": [
+          4.4,
+          4.7
+        ],
+        "cost_contrib_avg": 4.55
+      }
+    },
+    "estimated_cost_v4": {
+      "min": 263.4,
+      "avg": 300.8,
+      "max": 338.2
+    }
+  }
+]
