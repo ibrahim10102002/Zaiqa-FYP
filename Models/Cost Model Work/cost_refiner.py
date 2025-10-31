@@ -93,7 +93,7 @@ def parse_price_range(price_str):
 # ==============================
 
 def main():
-    print("📊 Loading cost data...")
+    print("->Loading cost data...")
     with open(COST_FILE, "r", encoding="utf-8") as f:
         cost_items = json.load(f)
 
@@ -109,10 +109,10 @@ def main():
             "unit": item.get("RateUnit", "per kg").lower()
         })
 
-    print(f"✅ Loaded {len(normalized_costs)} cost items.")
+    print(f"->Loaded {len(normalized_costs)} cost items.")
 
     recipe_files = [f for f in os.listdir(RECIPES_DIR) if f.endswith(".json")]
-    print(f"📂 Found {len(recipe_files)} recipe files.\n")
+    print(f"-> Found {len(recipe_files)} recipe files.\n")
 
     for file in recipe_files:
         path = os.path.join(RECIPES_DIR, file)
@@ -173,9 +173,9 @@ def main():
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(recipes, f, indent=2, ensure_ascii=False)
 
-        print(f"💾 Processed → {file} | saved at {out_path}")
+        print(f"-> Processed → {file} | saved at {out_path}")
 
-    print("\n🎯 Enhanced cost estimation completed successfully!")
+    print("\n-> Enhanced cost estimation completed successfully!")
 
 # ==============================
 # RUN
